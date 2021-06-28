@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Index"
-permalink: /index/
+layout: home
+title: "Home"
+permalink: /
 ---
 
 Hello world

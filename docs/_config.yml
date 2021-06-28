@@ -7,3 +7,10 @@ gems:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
+
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md
+  - projects/index.md
