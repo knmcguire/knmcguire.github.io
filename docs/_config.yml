@@ -1,5 +1,6 @@
 theme: minima
 repository: knmcguire.github.io
+Title: Kimberly McGuire
 
 gems:
 - jekyll-github-metadata
