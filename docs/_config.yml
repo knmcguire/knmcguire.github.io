@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+theme: minima
+repository: knmcguire.github.io
+
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
