@@ -7,5 +7,5 @@ Source files of website in docs folder
 Run locally with docker: 
 
 ```
- docker run -it --rm -v ${PWD}/docs:/usr/src/app -p "4000:4000" starefossen/github-pages
+ docker-compose up
 ```
