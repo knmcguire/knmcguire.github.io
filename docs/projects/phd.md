@@ -1,6 +1,10 @@
 ---
 layout: page
 title: "phd"
-permalink: /phd/
+permalink: /projects/phd/
 ---
-test
+Under construction!
+
+but in the mean time:
+
+[Check out my Science robotics paper](https://robotics.sciencemag.org/content/4/35/eaaw9710)
