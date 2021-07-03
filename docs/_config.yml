@@ -1,7 +1,8 @@
 theme: minima
 repository: knmcguire.github.io
-title: Kimberly McGuire
-
+title: Robo-Doc
+author: Kimberly McGuire
+email: kimberleymcguire@gmail.com
 
 gems:
 - jekyll-github-metadata
@@ -10,9 +11,21 @@ gems:
 - jekyll-sitemap
 - jemoji
 
-markdown: kramdown
+#markdown: kramdown
+
+markdown_extensions:
+  - attr_list
 
 header_pages:
   - index.md
   - about.md
   - projects/index.md
+
+twitter_username: k_n_mcguire
+github_username: knmcguire
+instagram_username: kn_mcguire
+linkedin_username: knmcguire
+
+
+
+google_analytics: G-XRLS8VMSRB
