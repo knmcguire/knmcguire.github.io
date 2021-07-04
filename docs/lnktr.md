@@ -15,7 +15,7 @@ permalink: /ln/
  </center>
 
  <br/>
-<a href="/index/"><button class= "button">Personal Website</button></a>
+<a href="/home/"><button class= "button">Personal Website</button></a>
 
 <center><h3>Development</h3></center>
 
@@ -36,6 +36,6 @@ permalink: /ln/
 
 <a href="https://www.hetklokhuis.nl/tv-uitzending/4482/Vliegende-robots?fbclid=IwAR2AkXTmNKiQBmSAdRNYypPjsDOtFD1A7t51WPOoib9_ZHPW-bsRaORO6rY"><button class= "button">Klokhuis Episode</button></a>
 
-<a href="https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww "><button class= "button">Youtube Channel</button></a>
+<a href="https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists"><button class= "button">Youtube Playlists</button></a>
 
 

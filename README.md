@@ -1,6 +1,8 @@
-# knmcguire.github.io
+# Kimberly's Personal website
 
-Source files of website in docs folder
+
+
+Source files of website in docs folder.
 
 **This website is still under construction**
 
