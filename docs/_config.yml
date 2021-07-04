@@ -2,7 +2,7 @@ theme: minima
 repository: knmcguire.github.io
 title: Robo-Doc
 author: Kimberly McGuire
-email: kimberleymcguire@gmail.com
+email: kimberleymcguire_at_gmail.com
 
 gems:
 - jekyll-github-metadata
