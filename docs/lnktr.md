@@ -25,7 +25,7 @@ permalink: /ln/
  </center>
 
  <br/>
-<a href="/home/"><button class= "button">Personal Website</button></a>
+<a href="/"><button class= "button">Personal Website</button></a>
 
 <center><h3>Development</h3></center>
 

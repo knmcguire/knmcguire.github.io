@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-permalink: /home/
+permalink: /
 ---
 
 <p align="center">
