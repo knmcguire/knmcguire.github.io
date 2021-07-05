@@ -4,16 +4,6 @@ title: ""
 permalink: /ln/
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XRLS8VMSRB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XRLS8VMSRB');
-</script>
-
 <p align="center">
 <img width="100" height="100" src="/images/kim_picture.png">
 </p>
