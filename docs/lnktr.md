@@ -3,6 +3,7 @@ layout: linktree
 title: ""
 permalink: /ln/
 ---
+ <br/>
 
 <p align="center">
 <img width="100" height="100" src="/images/kim_picture.png">
@@ -27,6 +28,8 @@ permalink: /ln/
 
 <center><h3>Research</h3></center>
 <a href="https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ"><button class= "button">Google scholar profile</button></a>
+
+<a href="/projects/phd/"><button class= "button">PhD Project Page</button></a>
 
 <a href="https://robotics.sciencemag.org/content/4/35/eaaw9710"><button class= "button">Science Robotics Paper</button></a>
 
