@@ -12,9 +12,9 @@ req.open('GET', 'https://knmcguire.github.io/ln/', false); req.send(null);
 req.send(null);
 var eTag = req.getResponseHeader('ETag'); 
   gtag('config', 'G-90YJ9MS0FK', { 
-    'anonymize_ip': true,          
-    client_storage: 'none',
-    client_id: eTag,
+    'anonymize_ip':true,          
+    client_storage:'none',
+    client_id:eTag,
  })
 </script>
   {%- include head.html -%}
