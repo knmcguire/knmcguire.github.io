@@ -37,4 +37,13 @@ What I've done for now, is that I made some adjustments. I wanted to make a [spe
 
 How to make nicely styled buttons, I obviously googled how to do this, but I found that I often came to [W3 schools' website](https://www.w3schools.com/), which is a really nice referral if you want to add anything special to your website. I'm definietly saving it for future references. 
 
-With those buttons I was able to create the buttons on [my link referral page](https://knmcguire.github.io/ln/). This was slightly expired by [linktr](https://linktr.ee/) structure, except for I felt that that was more for influencers and paid services. I needed to also have wanted to have my own website for project pages and ect. 
+With those buttons I was able to create the buttons on [my link referral page](https://knmcguire.github.io/ln/). This was slightly expired by [linkt.ee](https://linktr.ee/) structure, except for I felt that that was more for influencers and paid services. I also have wanted to have my own website to display my own projects, next to this link tree, so I decided to kind of make my own link referal pages. 
+
+![link referral](/images/screenshot_linktree.png)
+
+# Analytics
+
+Second of all, I would like to have some kind of measure of how many people are visiting my website. It does not have to be very detailed, as I would be happy to have some kind of page view count and unique users. Jekyll's minima theme also enables to include a Google Analytics tag, which I tested out of-course for a little bit. Currently the version 4 of GA seem to promise no cookie based tracking, however that still seems to be difficult to completely to turn off according to [this article by Kanban maker](https://kambanthemaker.com/using-google-analytics-without-that-annoying-consent-popup-ckdjrnhl10230z2s10qkkavxa). Also the fact that you get a lot of analytics tools 'for free' from GA, is a bit bothersome as well and there must be a catch to it...
+
+This is only a personal website so I think in general it wouldn't really bother anyone if I used GA or not, but I decided against using GA and wanted to go for [privacy friendly and open-source tracking alternatives](https://github.com/spekulatius/awesome-privacy-friendly-web-analytics). Since I don't own a server, I decided to go for [Goatcounter](https://www.goatcounter.com/), since they offer free hosting for a non-commercial website. The display of the views are simple but it is more than I need. 
+
