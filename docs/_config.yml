@@ -19,6 +19,7 @@ markdown_extensions:
 header_pages:
   - index.md
   - projects/index.md
+  - press.md
 
 twitter_username: k_n_mcguire
 github_username: knmcguire
