@@ -4,6 +4,8 @@ title: "PhD  Indoor Swarm exploration of pocket drones"
 permalink: /projects/phd/
 ---
 
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
 
 My PhD Topic was about *Swarm exploration of pocket drones.* Pocket Drones are small quadcopters that fit in the palm of the hand.
 <center>
