@@ -16,8 +16,14 @@ My PhD Topic was about *Swarm exploration of pocket drones.* Pocket Drones are s
 </center>
  <br/>
 
-With these, the projects goal was to make multiple of these pocket drones navigate autonomously indoors. This is a usecase that is interesting for search and rescue scenarios
+With these, the projects goal was to make multiple of these pocket drones navigate autonomously indoors. This is a use-case that is interesting for search and rescue scenarios.
 
+I recently gave a Guest lecture about my PhD project:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8320lmAbu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 Check out my dissertation for all the details!
  <br/>
@@ -34,7 +40,7 @@ Check out my dissertation for all the details!
         cursor: pointer">go to dissertation</button></a>
 
 
-Now I will highlight the important elements from the dissertation
+The following sections I will highlight the important elements from the dissertation
 
 
 ## Swarm Gradient Bug Algorithm
