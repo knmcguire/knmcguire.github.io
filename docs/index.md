@@ -15,7 +15,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 Hi! I'm Kimberly! I'm a robotics engineer, originally from the Netherlands but currently living in Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and currently I'm a developer at Bitcraze.
 
-This website is still under construction, so please go to:
  <br/>
 
 <a href="/ln"><button style="background-color: #555555;

@@ -17,6 +17,7 @@ markdown_extensions:
   - attr_list
 
 header_pages:
+  - lnktr.md
   - index.md
   - projects/index.md
   - press.md
