@@ -59,7 +59,7 @@ Active Binocular Vision Stabilization with a Cerebellum Inspired Model</button><
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">MSc: 
+        cursor: pointer">BSc: 
 Industrial Design Engineering: John's Camera</button></a>
  <br/>
   <br/>
