@@ -6,6 +6,9 @@ permalink: /media/
 
 # Talks and Appearances
 
+* *Full Crew* Tech review December 2022: [OpenAI Releases Chat GPT-3 and the Internet Explodes | Full Crew | Episode 26](https://youtu.be/g71o83jRyXA)
+* *ROScon* Talk October 2022: [ROS 2 and the Crazyflie Aerial swarms and Autonomy with a tiny flying robot](https://vimeo.com/showcase/9954564/video/767140197)
+* *Builder Nation* Interview April 2022: [Swarm exploration with pocket drone](https://youtu.be/I_kD1LQyIPc)
 * *InfoQ* Podcast August 2021: [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
 * *CodeKlets* Podcast July 2021: [Kimberly McGuire vertelt ons over autonome mini drones](https://codeklets.nl/posts/s02e11-kimberly-over-autonome-mini-drones)
 * *Tweakers Developer Summit* Talk June 2021: [Flying a swarm in your kitchen](https://youtu.be/8UfDMEfEcIc)
