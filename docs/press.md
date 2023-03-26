@@ -6,7 +6,10 @@ permalink: /media/
 
 # Talks and Appearances
 
-* *Full Crew* Tech review December 2022: [OpenAI Releases Chat GPT-3 and the Internet Explodes | Full Crew | Episode 26](https://youtu.be/g71o83jRyXA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSf63yghmq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* *Behind the Tech* Interview: [Kimberly McGuire, Robotics Engineer at Bitcraze AB - Behind the Tech - Episode 10](https://youtu.be/J_2shn1kxEM) ([Shortened video 1](https://youtu.be/NqzLhCWU7_Y) / [video 2](https://youtu.be/YSf63yghmq8))
+* *Full Crew* Tech review December 2022: [OpenAI Releases Chat GPT-3 and the Internet Explodes - Full Crew - Episode 26](https://youtu.be/g71o83jRyXA)
 * *ROScon* Talk October 2022: [ROS 2 and the Crazyflie Aerial swarms and Autonomy with a tiny flying robot](https://vimeo.com/showcase/9954564/video/767140197)
 * *Builder Nation* Interview April 2022: [Swarm exploration with pocket drone](https://youtu.be/I_kD1LQyIPc)
 * *InfoQ* Podcast August 2021: [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
@@ -26,7 +29,7 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        width: 100%; 
+        width: 100%;
         cursor: pointer">Kim's youtube channel</button></a>
 
 # Scientific Publications
@@ -40,5 +43,5 @@ Please check out my google scholar profile page to see my list of publications:
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        width: 100%; 
+        width: 100%;
         cursor: pointer">Google scholar profile</button></a>
