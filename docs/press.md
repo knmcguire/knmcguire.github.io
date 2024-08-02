@@ -9,11 +9,11 @@ permalink: /media/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afjWEPjP49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # All talks and Appearances
-* *Robotics Developer Day 2024*: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas)
-* *Learn Robotics and AI*: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
-* *ROS Developer Podcast*: [ROS for Drones Podcast with Robotics Engineer Kimberly McGuire](https://www.theconstructsim.com/124-ros-for-drones/)
-* *Behind the Tech* Interview: [Kimberly McGuire, Robotics Engineer at Bitcraze AB - Behind the Tech - Episode 10](https://youtu.be/J_2shn1kxEM) ([Shortened video 1](https://youtu.be/NqzLhCWU7_Y) / [video 2](https://youtu.be/YSf63yghmq8))
+* *Robotics Developer Day 2024* July 2023: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas) **Winner of the best speaker award**
+* *Learn Robotics and AI* July 2023: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
+* *ROS Developer Podcast* September 2023: [ROS for Drones Podcast with Robotics Engineer Kimberly McGuire](https://www.theconstructsim.com/124-ros-for-drones/)
 * *Full Crew* Tech review December 2022: [OpenAI Releases Chat GPT-3 and the Internet Explodes - Full Crew - Episode 26](https://youtu.be/g71o83jRyXA)
+* * *Behind the Tech* October 2022 : [Kimberly McGuire, Robotics Engineer at Bitcraze AB - Behind the Tech - Episode 10](https://youtu.be/J_2shn1kxEM) ([Shortened video 1](https://youtu.be/NqzLhCWU7_Y) / [video 2](https://youtu.be/YSf63yghmq8))
 * *ROScon* Talk October 2022: [ROS 2 and the Crazyflie Aerial swarms and Autonomy with a tiny flying robot](https://vimeo.com/showcase/9954564/video/767140197)
 * *Builder Nation* Interview April 2022: [Swarm exploration with pocket drone](https://youtu.be/I_kD1LQyIPc)
 * *InfoQ* Podcast August 2021: [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
