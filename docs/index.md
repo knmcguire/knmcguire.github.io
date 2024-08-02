@@ -15,6 +15,17 @@ async src="//gc.zgo.at/count.js"></script>
 
 Hi! I'm Kimberly! I'm a robotics engineer, originally from the Netherlands but currently living in Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and currently I'm a developer at Bitcraze.
 
+<a href="/ln"><button style="background-color: #555555;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 100%; 
+        cursor: pointer">Links and Highlights</button></a>
+
 _Here is the extended version of my biography:_
 
 The first thing you should know about me is that I’m Dutch. I grew up in the Netherlands, which is a small little country that has fought for eternity against the sea and still managed to exist. If you do visit and would appreciate some impressive pieces of Civil Engineering,  don’t linger around in Amsterdam but  visit the “Delta werken” in the province of Zeeland or the ‘Afsluitdijk” in the north. But if you don’t like to take your chances near our oceans, ‘Utrecht’, ‘Groningen’ and ‘Maastricht are really nice to visit too! Probably my last name already gave it away, but I’m also half-American and I visit California almost once a year.
@@ -29,13 +40,4 @@ Now I am a robotics engineer at Bitcraze in Sweden, where I work on improving th
 
  <br/>
 
-<a href="/ln"><button style="background-color: #555555;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Links and Highlights</button></a>
+
