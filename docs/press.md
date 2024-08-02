@@ -9,7 +9,7 @@ permalink: /media/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afjWEPjP49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # All talks and Appearances
-* *Robotics Developer Day 2024*: [ROS 2 with a Tiny Quadcopter | Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas)
+* *Robotics Developer Day 2024*: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas)
 * *Learn Robotics and AI*: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
 * *ROS Developer Podcast*: [ROS for Drones Podcast with Robotics Engineer Kimberly McGuire](https://www.theconstructsim.com/124-ros-for-drones/)
 * *Behind the Tech* Interview: [Kimberly McGuire, Robotics Engineer at Bitcraze AB - Behind the Tech - Episode 10](https://youtu.be/J_2shn1kxEM) ([Shortened video 1](https://youtu.be/NqzLhCWU7_Y) / [video 2](https://youtu.be/YSf63yghmq8))
