@@ -3,15 +3,14 @@ layout: page
 title: "Media"
 permalink: /media/
 ---
-
+# Latest videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rtgt9Z1cPas?si=39efg_Dg70vcnBjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GvQmUqSZOGA?si=cMXrGsRTXIz9PQcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afjWEPjP49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSf63yghmq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zVmBXtdj4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# Talks and Appearances
-
+# All talks and Appearances
+* *Robotics Developer Day 2024*: [ROS 2 with a Tiny Quadcopter | Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas)
+* *Learn Robotics and AI*: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
 * *ROS Developer Podcast*: [ROS for Drones Podcast with Robotics Engineer Kimberly McGuire](https://www.theconstructsim.com/124-ros-for-drones/)
 * *Behind the Tech* Interview: [Kimberly McGuire, Robotics Engineer at Bitcraze AB - Behind the Tech - Episode 10](https://youtu.be/J_2shn1kxEM) ([Shortened video 1](https://youtu.be/NqzLhCWU7_Y) / [video 2](https://youtu.be/YSf63yghmq8))
 * *Full Crew* Tech review December 2022: [OpenAI Releases Chat GPT-3 and the Internet Explodes - Full Crew - Episode 26](https://youtu.be/g71o83jRyXA)
