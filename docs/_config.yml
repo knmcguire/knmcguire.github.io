@@ -2,7 +2,7 @@ theme: minima
 repository: knmcguire.github.io
 title: Kimberly's personal Website
 author: Kimberly. N. McGuire, PhD
-email: kimberleymcguire@gmail.com
+email: kimberleymcguire _AT_ gmail.com
 
 gems:
 - jekyll-github-metadata
