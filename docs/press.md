@@ -36,6 +36,16 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
         width: 100%;
         cursor: pointer">Kim's youtube channel</button></a>
 
+
+# Recent conference talks and workshops
+
+* *[RSS](https://roboticsconference.org/)* July 2024: Organization of Workshop [Aerial Swarm Tools and Applications](https://imrclab.github.io/workshop-aerial-swarms-rss2024/)
+* *[ROScon](https://roscon.ros.org/2023)* October 2023: selected as Keynote speech** ['Up, Up, and Away: Adventures in Aerial Robotics'](https://vimeo.com/879001926/02a07b8277)
+* *[ICRA](https://www.icra2023.org/)* May 2023: Organization of Workshop [The Role of Robotics Simulators for Unmanned Aerial Vehicles](https://imrclab.github.io/workshop-uav-sims-icra2023/)
+* *[ROSCon](https://roscon.ros.org/2022)*  October 2022: Talk ['ROS 2 and the Crazyflie Aerial swarms and Autonomy with a tiny flying robot'](https://vimeo.com/showcase/9954564/video/767140197)
+
+** Helped in the preperation because I couldn't make it, Ramone Roche stepped in to help out giving the talk
+
 # Scientific Publications
 
 Please check out my google scholar profile page to see my list of publications:
