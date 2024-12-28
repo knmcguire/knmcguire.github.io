@@ -13,7 +13,7 @@ async src="//gc.zgo.at/count.js"></script>
 
 
 
-Hi! I'm Kimberly! I'm a robotics engineer, originally from the Netherlands but currently living in Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and currently I'm a developer at Bitcraze.
+Hi! I'm Kimberly! I'm originally from the Netherlands but currently living in South of Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and I'm a former developer and robotics engineer at Bitcraze, the creator of the Crazyflie.
 
 <a href="/ln"><button style="background-color: #555555;
         border: none;
@@ -34,7 +34,7 @@ So, let’s talk about hobbies! I have played tennis for almost all my life (sta
 
 To show in a slice of my educational background: for my Bachelor studies at the Delft University of Technology, I started out at Industrial Design Engineering. Here I learned everything there is to know about product development, from analyzing market-trends, creating concepts to finally to the full production process. For my Masters I was leaning more towards the technical side. After a bridging course to Mechanical engineering I went to do an M.Sc. in BioMecanical design with a specialization in Bio-Robotics (currently known  cognitive robotics). I ended developing a cerebellum-based stabilization system for a binocular robotic head (google “jaguar chicken commercial”:) ). After this, I came across a project at the MAVlab where I was allowed to work with tiny MAVs called pocket-drones, and the first thing I thought was ‘awesome!!’, however, that was before I realized that working with tiny MAVs was not a piece of cake.  I’m glad that the inner-geek in me kept me excited for 4 years straight, which is a crucial element or any PhD I believe, or any job! The result of my PhD ended up with a Science Robotics publication, but I might be even more proud about the fact that my work was featured in a long running Dutch children science show ('Klokhuis') that I used to watch when I grew up! 
 
-Now I am a robotics engineer at Bitcraze in Sweden, where I work on improving the robotic integration of the Crazyflie (the drone I worked with during my PhD) so that researchers can interact with it more easily for their papers or R&D efforts.
+Formerly I was a Robotics Engineer at Bitcraze in Sweden, where I've worked on improving the robotic integration of the Crazyflie (the drone I worked with during my PhD) so that researchers can interact with it more easily for their papers or R&D efforts.
 
 
 
