@@ -4,11 +4,13 @@ title: "Media"
 permalink: /media/
 ---
 # Latest videos
+><iframe src="https://player.vimeo.com/video/1024972070?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XHhq9hQB0g?si=xDWStV8hHZkCKn1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtgt9Z1cPas?si=39efg_Dg70vcnBjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GvQmUqSZOGA?si=cMXrGsRTXIz9PQcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/afjWEPjP49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # All talks and Appearances
+* *Behind the Tech* Nov 2024: [Spending Time with the Crazyflie at Bitcraze's Headquarters in Malmö, Sweden](https://youtu.be/2XHhq9hQB0g)
 * *Robotics Developer Day* July 2024: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas) **Winner of the best speaker award**
 * *Learn Robotics and AI* July 2024: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
 * *ROS Developer Podcast* September 2023: [ROS for Drones Podcast with Robotics Engineer Kimberly McGuire](https://www.theconstructsim.com/124-ros-for-drones/)
@@ -39,6 +41,7 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
 
 # Recent conference talks and workshops
 
+* *[ROSCon](https://roscon.ros.org/2024)* October 2024: Talk ['The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics'](https://vimeo.com/1024972070)
 * *[RSS](https://roboticsconference.org/)* July 2024: Organization of Workshop [Aerial Swarm Tools and Applications](https://imrclab.github.io/workshop-aerial-swarms-rss2024/)
 * *[ROScon](https://roscon.ros.org/2023)* October 2023: selected as Keynote speech** ['Up, Up, and Away: Adventures in Aerial Robotics'](https://vimeo.com/879001926/02a07b8277)
 * *[ICRA](https://www.icra2023.org/)* May 2023: Organization of Workshop [The Role of Robotics Simulators for Unmanned Aerial Vehicles](https://imrclab.github.io/workshop-uav-sims-icra2023/)
