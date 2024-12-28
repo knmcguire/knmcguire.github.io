@@ -4,7 +4,9 @@ title: "Media"
 permalink: /media/
 ---
 # Latest videos
-><iframe src="https://player.vimeo.com/video/1024972070?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics"></iframe>
+
+<iframe src="https://player.vimeo.com/video/1024972070?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics"></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1024972070?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XHhq9hQB0g?si=xDWStV8hHZkCKn1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtgt9Z1cPas?si=39efg_Dg70vcnBjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
