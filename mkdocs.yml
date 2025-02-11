@@ -1,0 +1,29 @@
+site_name: Kimberly's Personal Website
+site_url: https://knmcguire.github.io/
+theme:
+  name: material
+
+site_dir: _site
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      name: Kimberly on Twitter
+      link: https://www.x.com/k_n_mcguire/
+    - icon: fontawesome/brands/mastodon
+      name: Kimberly on Mastedon
+      link: https://fosstodon.org/@k_n_mcguire
+    - icon: fontawesome/brands/linkedin
+      name: Kimberly on LinkedIn
+      link: https://linkedin.com/knmcguire
+    - icon: fontawesome/brands/github
+      name: Kimberly on Github
+      link: https://github.com/knmcguire
+    - icon: fontawesome/brands/google-scholar
+      name: Kimberly on Google Scholar
+      link: https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ
+    - icon: fontawesome/brands/researchgate
+      name: Kimberly on Research Gate
+      link: https://www.researchgate.net/profile/Kimberly-Mcguire-2
+
+copyright: Copyright &copy; 2021 - 2025 Kimberly N. McGuire

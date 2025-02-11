@@ -3,12 +3,12 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
- <br/>
+
 
 ___
 <center><h2> Scientific and Professional </h2></center>
 
-<center><h3> 2019 - now</h3></center>
+<center><h3> 2019 - 2024</h3></center>
 <a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
