@@ -3,6 +3,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+## mkdocs
+.cache/
+
 # pixi environments
 .pixi
 *.egg-info
