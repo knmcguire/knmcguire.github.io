@@ -11,6 +11,8 @@ theme:
 
 site_dir: _site
 
+not_in_nav: projects/*
+
 extra:
   social:
     - icon: fontawesome/brands/x-twitter

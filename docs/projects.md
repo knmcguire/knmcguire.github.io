@@ -1,8 +1,10 @@
 ---
-layout: page
 title: "Projects"
-permalink: /projects/
 ---
+
+<p align="center">
+<img width="200" height="200" src="/images/kim_background.png">
+</p>
 
 
 ___
@@ -78,19 +80,3 @@ ___
         font-size: 16px;
         width: 100%; 
         cursor: pointer">Graphic Design</button></a>
-
-
-I followed a lot of unity tutorials for fun! Here you can find some simple games I've uploaded.
-  <br/>
-
-<a href="https://play.unity.com/u/knmcguire"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">
-Unity Play page</button></a>

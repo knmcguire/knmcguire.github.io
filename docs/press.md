@@ -2,15 +2,21 @@
 title: "Media"
 ---
 
-# Latest videos
+<p align="center">
+<img width="200" height="200" src="/images/kim_background.png">
+</p>
 
+
+
+<center><h2> Latest Videos</h2></center>
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/1024972070?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XHhq9hQB0g?si=xDWStV8hHZkCKn1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtgt9Z1cPas?si=39efg_Dg70vcnBjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Talks and Appearances
+<center><h2> Talk and Appearanes</h2></center>
+
 * *Behind the Tech* Nov 2024: [Spending Time with the Crazyflie at Bitcraze's Headquarters in Malmö, Sweden](https://youtu.be/2XHhq9hQB0g)
 * *Robotics Developer Day* July 2024: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas) **Winner of the best speaker award**
 * *Learn Robotics and AI* July 2024: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
@@ -40,7 +46,7 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
         cursor: pointer">Kim's youtube channel</button></a>
 
 
-# Conference talks and workshops
+<center><h2> Conference talks and workshops</h2></center>
 
 * *[ROSCon](https://roscon.ros.org/2024)* October 2024: Talk ['The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics'](https://vimeo.com/1024972070)
 * *[RSS](https://roboticsconference.org/)* July 2024: Organization of Workshop [Aerial Swarm Tools and Applications](https://imrclab.github.io/workshop-aerial-swarms-rss2024/)
@@ -50,7 +56,7 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
 
 ** Helped in the preperation because I couldn't make it, Ramone Roche stepped in to help out giving the talk
 
-# Scientific Publications
+<center><h2> Scientific Publications</h2></center>
 
 Please check out my google scholar profile page to see my list of publications:
 <a href="https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ"><button style="background-color: #555555;
@@ -63,3 +69,5 @@ Please check out my google scholar profile page to see my list of publications:
         font-size: 16px;
         width: 100%;
         cursor: pointer">Google scholar profile</button></a>
+
+

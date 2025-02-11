@@ -1,11 +1,11 @@
 ---
-title: "Links and Highlights"
+title: "Spotlights"
 ---
- <br/>
 
 <p align="center">
-<img width="100" height="100" src="/images/kim_background.png">
+<img width="200" height="200" src="/images/kim_background.png">
 </p>
+
 
 <center>
  <h3> Kimberly McGuire </h3>
@@ -27,8 +27,7 @@ title: "Links and Highlights"
 
 <center><h3>Development</h3></center>
 
-
-<a href="https://github.com/knmcguire"><button style="background-color: #E8E8E8;
+<a href="https://youtu.be/rtgt9Z1cPas"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
         padding: 15px 32px;
@@ -37,7 +36,8 @@ title: "Links and Highlights"
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Github Profile</button></a>
+        cursor: pointer">Robotics Developer Day talk (2024)</button></a>
+
  
 <a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
         border: 2px solid black;
@@ -48,35 +48,11 @@ title: "Links and Highlights"
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Blogs at Bitcraze</button></a>
+        cursor: pointer">Blogs at Bitcraze (2019-2024)</button></a>
  
 
 
 <center><h3>Research</h3></center>
-
- <a href="https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ""><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Google Scholar Profile</button></a>
-
-
- <a href="/projects/phd/"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">PhD Project Page</button></a>
-
 
  <a href="https://robotics.sciencemag.org/content/4/35/eaaw9710"><button style="background-color: #E8E8E8;
         border: 2px solid black;
@@ -87,9 +63,9 @@ title: "Links and Highlights"
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Science Robotics Paper</button></a>
+        cursor: pointer">Science Robotics Paper (2019)</button></a>
 
-   <a href="https://www.researchgate.net/profile/Kimberly-Mcguire-2"><button style="background-color: #E8E8E8;
+<a href="https://www.hetklokhuis.nl/tv-uitzending/4482/Vliegende-robots?fbclid=IwAR2AkXTmNKiQBmSAdRNYypPjsDOtFD1A7t51WPOoib9_ZHPW-bsRaORO6rY"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
         padding: 15px 32px;
@@ -98,30 +74,6 @@ title: "Links and Highlights"
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Research Gate</button></a>      
-
-<center><h3>Media</h3></center>
-
-   <a href="https://www.hetklokhuis.nl/tv-uitzending/4482/Vliegende-robots?fbclid=IwAR2AkXTmNKiQBmSAdRNYypPjsDOtFD1A7t51WPOoib9_ZHPW-bsRaORO6rY"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Klokhuis Episode</button></a>     
-
-   <a href="https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Youtube Playlists</button></a>     
+        cursor: pointer">Klokhuis Episode (2019)</button></a>     
 
 
