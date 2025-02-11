@@ -40,8 +40,6 @@ title: "Links and Highlights"
         width: 100%; 
         cursor: pointer">Github Profile</button></a>
  
-<a href="https://www.bitcraze.io/author/kimberly/"><button class= "button">Bitcraze</button></a>
- <br/>
 <a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
