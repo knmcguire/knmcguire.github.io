@@ -2,15 +2,10 @@
 title: "Projects"
 ---
 
-<p align="center">
-<img width="200" height="200" src="/images/kim_background.png">
-</p>
 
+## Scientific and Professional 
 
-___
-<center><h2> Scientific and Professional </h2></center>
-
-<center><h3> 2019 - 2024</h3></center>
+### 2019 - 2024
 <a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
@@ -22,7 +17,7 @@ ___
         width: 100%; 
         cursor: pointer">Projects at Bitcraze</button></a>
 
-<center><h3> 2015-2019</h3></center>
+### 2015 - 2019
 
 <a href="/projects/phd"><button style="background-color: #555555;
         border: none;
@@ -36,7 +31,7 @@ ___
         cursor: pointer">PhD: Indoor Swarm exploration with Pocket Drones</button></a>
 
 
-<center><h3>2012-2014</h3></center>
+### 2012 - 2014
 
 <a href="https://repository.tudelft.nl/islandora/object/uuid:3fb881d2-9701-4f1c-96a6-f6fca74aeec8?collection=education"><button style="background-color: #E8E8E8;
         border: 2px solid black;
@@ -50,7 +45,7 @@ ___
         cursor: pointer">MSc: 
 Active Binocular Vision Stabilization with a Cerebellum Inspired Model</button></a>
 
-<center><h3>2007-2011</h3></center>
+### 2007- 2011
 
 <a href="/projects/bsc"><button style="background-color: #555555;
         border: 2px solid black;
@@ -68,7 +63,7 @@ Industrial Design Engineering: John's Camera</button></a>
 
 ___
 
-<center><h2> Personal </h2></center>
+## Personal
 
 <a href="/projects/graphic_design"><button style="background-color: #555555;
         border: 2px solid black;
