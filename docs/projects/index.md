@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
- <br/>
+
 
 ___
 <center><h2> Scientific and Professional </h2></center>
