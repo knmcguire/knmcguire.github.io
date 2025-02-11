@@ -6,7 +6,7 @@ title: "About"
 async src="//gc.zgo.at/count.js"></script>
 
 <p align="center">
-<img width="100" height="100" src="/images/kim_picture.png">
+<img width="200" height="200" src="/images/kim_background.png">
 </p>
 
 

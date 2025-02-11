@@ -2,6 +2,12 @@ site_name: Kimberly's Personal Website
 site_url: https://knmcguire.github.io/
 theme:
   name: material
+  favicon: images/taro_icon.svg
+  logo: images/kim_background_white.png
+  language: en
+  palette: 
+    primary: teal
+    accent: green
 
 site_dir: _site
 

@@ -4,17 +4,16 @@ title: "Links and Highlights"
  <br/>
 
 <p align="center">
-<img width="100" height="100" src="/images/kim_picture.png">
+<img width="100" height="100" src="/images/kim_background.png">
 </p>
 
 <center>
  <h3> Kimberly McGuire </h3>
  
- Robotics engineer, PhD from MAVlab, TU Delft, Previous developer at Bitcraze
+ Robotics engineer, PhD from MAVlab TU Delft, Former developer at Bitcraze
  </center>
 
- <br/>
-<a href="/"><button class= "button">Personal Website</button></a>
+
 <a href="https://knmcguire.github.io/"><button style="background-color: #E8E8E8;
         border: 2px solid black;
         color: black;
