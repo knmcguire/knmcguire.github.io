@@ -1,7 +1,5 @@
 ---
-layout: linktree
 title: "Links and Highlights"
-permalink: /ln
 ---
  <br/>
 

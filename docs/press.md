@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Media"
-permalink: /media/
 ---
+
 # Latest videos
 
 
@@ -11,7 +10,7 @@ permalink: /media/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtgt9Z1cPas?si=39efg_Dg70vcnBjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# All talks and Appearances
+# Talks and Appearances
 * *Behind the Tech* Nov 2024: [Spending Time with the Crazyflie at Bitcraze's Headquarters in Malmö, Sweden](https://youtu.be/2XHhq9hQB0g)
 * *Robotics Developer Day* July 2024: [ROS 2 with a Tiny Quadcopter - Kimberly McGuire, Robotics Engineer ](https://youtu.be/rtgt9Z1cPas) **Winner of the best speaker award**
 * *Learn Robotics and AI* July 2024: [Become a Drone Robotics Engineer - Kimberly McGuire ](https://youtu.be/GvQmUqSZOGA)
@@ -41,7 +40,7 @@ Check out [my youtube channel](https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2
         cursor: pointer">Kim's youtube channel</button></a>
 
 
-# Recent conference talks and workshops
+# Conference talks and workshops
 
 * *[ROSCon](https://roscon.ros.org/2024)* October 2024: Talk ['The Lighthouse project: from Virtual Reality to Onboard Positioning for Robotics'](https://vimeo.com/1024972070)
 * *[RSS](https://roboticsconference.org/)* July 2024: Organization of Workshop [Aerial Swarm Tools and Applications](https://imrclab.github.io/workshop-aerial-swarms-rss2024/)

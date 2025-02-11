@@ -1,7 +1,5 @@
 ---
-layout: home
 title: "About"
-permalink: /
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
