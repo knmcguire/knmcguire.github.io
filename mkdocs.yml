@@ -3,6 +3,8 @@ site_url: https://knmcguire.github.io/
 theme:
   name: material
 
+site_dir: _site
+
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
