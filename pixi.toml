@@ -1,0 +1,10 @@
+[project]
+channels = ["conda-forge"]
+name = "knmcguire.github.io"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mkdocs-material = ">=9.6.3,<10"
