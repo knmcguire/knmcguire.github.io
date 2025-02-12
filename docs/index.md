@@ -17,7 +17,6 @@ ___
 
 ## Highlights
 
-### Development
 
 
 <a href="https://youtu.be/rtgt9Z1cPas"><button style="background-color: #E8E8E8;
@@ -31,21 +30,7 @@ ___
         width: 100%; 
         cursor: pointer">Robotics Developer Day talk (2024)</button></a>
 
- 
-<a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Blogs at Bitcraze (2019-2024)</button></a>
- 
 
-
-### Research
 
  <a href="https://robotics.sciencemag.org/content/4/35/eaaw9710"><button style="background-color: #E8E8E8;
         border: 2px solid black;
@@ -58,13 +43,25 @@ ___
         width: 100%; 
         cursor: pointer">Science Robotics Paper (2019)</button></a>
 
-<a href="https://www.hetklokhuis.nl/tv-uitzending/4482/Vliegende-robots?fbclid=IwAR2AkXTmNKiQBmSAdRNYypPjsDOtFD1A7t51WPOoib9_ZHPW-bsRaORO6rY"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer">Klokhuis Episode (2019)</button></a>     
+## Work Experience
+
+![bitcraze](images/bitcraze.png){ width="100" }![delft](images/delft.png){ width="100" }![nec](images/nec.png){ width="100" }
+
+_2019 - 2024_: **Robotics Engineer/ Embedded Software Engineer**, _Bitcraze AB_ :se:
+
+_2015 - 2019_: **PhD Researcher**, _Aerospace Engineering, TU Delft_ :nl:
+
+_2013 - 2013_: **Intern** Computational Photography Department, NEC_ :jp:
+
+_2009 - 2014_: **Various part-time jobs**  _TU Delft_ :nl:
+
+
+## Education
+![delft](images/delft.png){ width="100" }
+
+_2019_: **Doctor of Philosophy**, _Department of Aerospace Engineering, TU Delft_ :nl:
+
+_2014_: **Master of Science**, _Departement of Mechanical Engineering, TU Delft_ :nl:
+
+_2011_: **Bachelor of Science**, _Departement of Industrial Design Engineering, TU Delft_ :nl:
+
