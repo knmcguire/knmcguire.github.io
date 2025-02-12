@@ -51,7 +51,7 @@ _2019 - 2024_: **Robotics Engineer/ Embedded Software Engineer**, _Bitcraze AB_ 
 
 _2015 - 2019_: **PhD Researcher**, _Aerospace Engineering, TU Delft_ :nl:
 
-_2013 - 2013_: **Intern** Computational Photography Department, NEC_ :jp:
+_2013 - 2013_: **Intern** _Computational Photography Department, NEC_ :jp:
 
 _2009 - 2014_: **Various part-time jobs**  _TU Delft_ :nl:
 
