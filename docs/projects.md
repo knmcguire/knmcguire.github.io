@@ -2,6 +2,8 @@
 title: "Projects"
 ---
 
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
 
 ## Scientific and Professional 
 
