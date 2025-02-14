@@ -14,7 +14,7 @@ ___
 
 
 
-Hi! I'm Kimberly! Originally from the Netherlands but currently I'm living in South of Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and I'm a former developer and robotics engineer at Bitcraze, the creator of the Crazyflie.
+Hi! I'm Kimberly! Originally from the Netherlands but currently I'm living in South of Sweden.  I finished my PhD at the TU Delft, MAVlab in 2019 and I'm a former developer & robotics engineer at Bitcraze.
 
 ___
 

@@ -9,6 +9,10 @@ theme:
     primary: teal
     accent: green
 
+plugins:
+  - search
+  - blog
+
 site_dir: _site
 
 not_in_nav: projects/*
