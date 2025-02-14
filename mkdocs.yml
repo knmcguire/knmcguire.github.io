@@ -8,6 +8,7 @@ theme:
   palette: 
     primary: teal
     accent: green
+  custom_dir: overrides
 
 plugins:
   - search

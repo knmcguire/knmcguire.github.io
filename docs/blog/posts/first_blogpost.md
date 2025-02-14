@@ -6,7 +6,10 @@ categories:
     - personal
 authors:
   - kim
+comments: true
 ---
 
 ## Hello world
 Hello world!
+dsfdkfjdaokögjfiofjaj  iefjaiöfjöeiowjfioö afjiojeföaiowjfö ijfilajölöaejwf jiafjöilejaw
+ajfjeiöoajöeöjfiw a iejfoaöifjwöje
