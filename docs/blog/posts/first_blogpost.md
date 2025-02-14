@@ -12,6 +12,8 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
+# Hello World!
+
 So... here we are, my first blog post! Well... not exactly my first blog post since I've written [over 70 blog posts during my time at Bitcraze](https://www.bitcraze.io/author/kimberly/), so I guess I'm not exactly a 'beginner'. But since I no longer work there and am now out in the big world... perhaps it would be good to have a central space to record some of my weird, random, but maybe useful to someone, thoughts. [LinkedIn](https://www.linkedin.com/in/knmcguire/) is a good place for that, but maybe not everything is equally suitable for that platform. Just as not all LinkedIn-type posts would be suitable for [X](https://www.x.com/k_n_mcguire/) or [Mastodon](https://fosstodon.org/@k_n_mcguire) either. So here you go, a neutral ground for blog posts where I can share all the cool projects I'm working on, some personal journeys, and perhaps some artwork here and there. Then afterwards, I can always decide on which social media platform it will be suitable for.
 
 <center>![Me on a holiday in Madrid Autumn 2024](images/kim-madrid.jpg){ width="300" } <br>
