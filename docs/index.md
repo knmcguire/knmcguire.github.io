@@ -2,6 +2,9 @@
 title: "About"
 ---
 
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
+
 <p align="center">
 <img width="200" height="200" src="/images/kim_background.png">
 </p>
