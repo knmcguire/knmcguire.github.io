@@ -11,7 +11,11 @@ theme:
 
 plugins:
   - search
-  - blog
+  - blog:
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - personal
+
 
 site_dir: _site
 
