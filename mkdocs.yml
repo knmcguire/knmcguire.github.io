@@ -16,6 +16,11 @@ plugins:
       archive_date_format: MMMM yyyy
       categories_allowed:
         - personal
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
 
 
 site_dir: _site
@@ -50,5 +55,8 @@ extra:
     - icon: fontawesome/brands/youtube
       name: Kimberly on Youtube
       link: https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists
+    - icon: fontawesome/solid/rss
+      name: Kimberly's blog on RSS
+      link: https://knmcguire.github.io/feed_rss_created.xml
 
 copyright: Copyright &copy; 2021 - 2025 Kimberly N. McGuire. Privacy-friendly analytics by Goatcounter
