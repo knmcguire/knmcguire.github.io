@@ -62,6 +62,22 @@ _2010 - 2010_: **Various part-time jobs in Hospitality**  _Santa Barbara_ :us:
 
 _2009 - 2014_: **Various part-time jobs in University Support**  _TU Delft_ :nl:
 
+### Organizations
+![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }
+
+
+_2024 - now_: **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) :dk:
+
+_2024 - now_: **Organization Committee** Robotics Developer room [FOSDEM](https://fosdem.org/2025/) :be:
+
+_2023 - now_: **Member** [Toastmasters](https://www.toastmasters.org/) :se:
+
+_2023 - 2024_: **Organization Committee** Workshops at [ICRA](https://imrclab.github.io/workshop-uav-sims-icra2023/) :gb: and [RSS](https://imrclab.github.io/workshop-aerial-swarms-rss2024/) :nl:
+
+_2023 - now_: **Co-lead** [ROS community group](https://github.com/ros-aerial) online
+
+_2015 - 2018_: **Organizing Committee member** RoboCup Junior NL :nl:
+
 
 ### Education
 ![delft](images/delft.png){ width="100" }
