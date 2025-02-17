@@ -1,4 +1,5 @@
 ---
+title: Hello World!
 date:
   created: 2025-02-14
   updated: 2025-02-17
@@ -13,18 +14,20 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-# Hello World!
 
 So... here we are, my first blog post! Well... not exactly my first blog post since I've written [over 70 blog posts during my time at Bitcraze](https://www.bitcraze.io/author/kimberly/), so I guess I'm not exactly a 'beginner'. But since I no longer work there and am now out in the big world... perhaps it would be good to have a central space to record some of my weird, random, but maybe useful to someone, thoughts. [LinkedIn](https://www.linkedin.com/in/knmcguire/) is a good place for that, but maybe not everything is equally suitable for that platform. Just as not all LinkedIn-type posts would be suitable for [X](https://www.x.com/k_n_mcguire/) or [Mastodon](https://fosstodon.org/@k_n_mcguire) either. So here you go, a neutral ground for blog posts where I can share all the cool projects I'm working on, some personal journeys, and perhaps some artwork here and there. Then afterwards, I can always decide on which social media platform it will be suitable for.
 
+
 <center>![Me on a holiday in Madrid Autumn 2024](images/kim-madrid.jpg){ width="300" } <br>
 _Me on a holiday in Madrid Autumn 2024_</center>
+
 
 ## A Little About Me *
 
 *_or maybe a lot... anyway, it's my blog, so I'll do whatever I want :wink:_
 
-So, if you have stumbled upon this website by chance without ever having heard of me - nice to meet you, my name is Kimberly. I'm a Dutch/American woman who spent her entire childhood and early adult life in The Netherlands but now lives in Malmö, Sweden. In the last 5 years, I have convinced my current husband and my two cats to come and join me, and we bought an apartment together. I adore Japanese food and karaoke (some of you might know me as Karaoke-Kim). For a few years now, I have started to focus more on my health. Before, I was more crazy about food and travel, but after I had a cancer diagnosis 2 years ago, it changed my priorities a bit. So I regularly do boxing as exercise with resistance training and focus on eating healthy. This way, I can handle some cheats when I'm traveling somewhere :slight_smile:. When the weather is nice, I like to go on hikes/long walks, and when it's cold, I like to do graphic design/drawing and video gaming.
+So, if you have stumbled upon this website by chance without ever having heard of me - nice to meet you, my name is Kimberly. <!-- more -->
+ I'm a Dutch/American woman who spent her entire childhood and early adult life in The Netherlands but now lives in Malmö, Sweden. In the last 5 years, I have convinced my current husband and my two cats to come and join me, and we bought an apartment together. I adore Japanese food and karaoke (some of you might know me as Karaoke-Kim). For a few years now, I have started to focus more on my health. Before, I was more crazy about food and travel, but after I had a cancer diagnosis 2 years ago, it changed my priorities a bit. So I regularly do boxing as exercise with resistance training and focus on eating healthy. This way, I can handle some cheats when I'm traveling somewhere :slight_smile:. When the weather is nice, I like to go on hikes/long walks, and when it's cold, I like to do graphic design/drawing and video gaming.
 
 I grew up near Amsterdam (a small town called Hoofddorp), but I've studied for a long time at Delft University of Technology. I mostly skipped faculties since I've studied Industrial Design Engineering for my Bachelor's, Biomechanical Design Engineering for my Master's, and finally did my PhD at the faculty of Aerospace Engineering. That PhD got me into contact with my former employer Bitcraze, which started me on my Swedish adventure to Malmö in 2019. I have been doing internships and jobs for longer durations during my studies, like NEC in Japan, Hospitality in Santa Barbara, California, and offsite research in Liverpool, so I guess I've seen a bit and lived in several parts of the world already. That's probably why it wasn't too difficult of a decision to come and live here, but of course, moving to different countries is not to be underestimated, even if it's within Europe.
 
@@ -82,4 +85,3 @@ So I'm not sure how far I will take this blog, how occasional it will be, or wha
 
 Anyway, I hope you'll be able to enjoy it. And please try out the GitHub comment function below! I want to see how it works :smile:!
 
-_(p.s.: if you don't see the comment section, click the title of the blog. You are still on the blog index page)_
