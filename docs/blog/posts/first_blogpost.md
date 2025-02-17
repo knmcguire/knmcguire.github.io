@@ -1,7 +1,7 @@
 ---
 date:
   created: 2025-02-14
-  updated: 2025-02-14
+  updated: 2025-02-17
 draft: false
 categories: 
     - personal
@@ -40,6 +40,8 @@ Other than that, I've recently noticed I love communicating and working together
 ## How Did I Make the Website and Blog?
 
 I had a website before, built with Jekyll, the recommended way to startup GitHub pages, but I wasn't really happy with it. I do find it satisfying to work on it, but I don't love web development that much to keep tweaking and optimizing everything... until I heard from my old colleague Rik about [Mkdocs](https://www.mkdocs.org/). After using it for the [Aerial Robotics Landscape](https://ros-aerial.github.io/aerial_robotic_landscape/), I decided to give it a go for my personal website, particularly [Materials for Mkdocs](https://squidfunk.github.io/mkdocs-material/). Technically it is not really made for personal websites, but it was so easy to set up and it looks so clean! And it also has a blogging plugin, as you see here right now. Although I haven't enabled the RSS function yet as I don't really know if this is... blogging ... really becoming a regular thing. Perhaps I'm too late in the game and should be starting a TikTok account ...
+
+(_p.s. I've added a RSS feed now, it was just too easy! It's [https://knmcguire.github.io/feed_rss_created.xml](https://knmcguire.github.io/feed_rss_created.xml)_  )
 
 What I retained is mostly the content of my old website. I also use [GoatCounter](https://www.goatcounter.com/), which is a privacy-friendly way for me to track which pages are being watched. It's an open-source web analytics tool that doesn't use cookies for tracking, so that sounds pretty good to me as I only want to know if I'm not just shouting into the void here. You can find the source of [this website over there](https://github.com/knmcguire/knmcguire.github.io) if you are interested in making something like this for yourself. Also, there is a way to leave a comment on this blog post connected to GitHub discussions through Giscus, which is a pretty awesome feature.
 
