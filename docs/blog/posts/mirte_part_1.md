@@ -94,7 +94,7 @@ But I can't wait for the ROS 2 packages to come out for this robot so that I can
 
 If you want to check it out, all of the build plans are open sourced and can be found on [mirte.org](https://mirte.org/).
 The full base can be laser-cut out of 4 mm MDF and configured to accommodate other sensors as well[^1]. 
-But in any way, thanks again to Martin Klomp from [RoboHouse](https://robohouse.nl/) at [TU Delft](https://www.tudelft.nl/) for lending me the [MIRTE](https://mirte.org/). It was fun!
+Thanks again to Martin Klomp from [RoboHouse](https://robohouse.nl/) at [TU Delft](https://www.tudelft.nl/) for lending me the [MIRTE](https://mirte.org/). It was fun!
 
 [^1]: 
   I kind of really want to buy a laser cutter for myself now in fact... anyone know of a good model for home/hobby use by any chance? 
