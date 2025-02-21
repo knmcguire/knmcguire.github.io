@@ -5,7 +5,7 @@ date:
   updated: 2025-02-17
 draft: true
 categories: 
-    - art
+    - comic
 authors:
   - kim
 #comments: true

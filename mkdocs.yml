@@ -17,7 +17,7 @@ plugins:
       categories_allowed:
         - personal
         - builds
-        - art
+        - comic
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
