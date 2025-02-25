@@ -16,7 +16,7 @@ plugins:
       archive_date_format: MMMM yyyy
       categories_allowed:
         - personal
-        - builds
+        - robotics
         - comic
   - rss:
       match_path: blog/posts/.*
