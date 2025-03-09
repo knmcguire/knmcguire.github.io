@@ -11,6 +11,12 @@ authors:
 comments: false
 ---
 
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
+
+
+<!-- more -->
+
 It was my first time getting a colonoscopy, like many of us at 33. I had to eat one week without fiber, and stop eating for one day, while taking Picoprep, a substance that will force your colon to be completely empty. I went to Lund, Sweden by bus to the clinic, which is just a 30 minute drive. As nervous as I was the week before, I felt pretty okay now, and mostly ready to eat again because it's tough to fast for an entire day! But it was doable, including the 'toilet party' experience. Many have said that the Picoprep was dicusting and the whole prep day is an ordeal, but I didn't experience as such. Moreover, I wasn't worried about the outcome, as we are just doing this as a precaution, as I completely trusted my doctor saying that my issues were due to hemmeroids. I was slightly nervous about the anestatic, since I've never been put down under before for any procedure in my life.
 
 Once in the clinic, I was in the waiting room. I saw a woman in her late 60s and a younger woman who I assumed was her daughter. They speaking in an other language that I couldn't understand, but it sounded east-European to me. The woman was called was called into the colonoscopy room before me. After some minutes, the nurse stormed into the waiting room, asking  if the daughter could come with her. Apparently her mother doesn't speak both English and Swedish and they'd needed to explain something to her but she couldln't understand it. The daughter went with the nurse and then I was alone in the waiting room. At that point, I started to get quite nervous about my upcoming procedure.
