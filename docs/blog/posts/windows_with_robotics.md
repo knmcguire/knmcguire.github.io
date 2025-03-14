@@ -28,9 +28,11 @@ _Enjoy! (I hope :wink:)_
 
 <!-- more -->
 
+testest
+
 ## 2007 - 2014: Single boot - Win XP/7
 
-I can't believe it myself, but I spent my entire university studies, both bachelor's and master's, with a fulll Windows laptop as my computer. I started with Industrial Design Engineering in 2007, so it made sense. At that time, Windows was superior for all things Adobe, and even 3D CAD SolidWorks worked only on Windows. MacOS had some catching up to do to become the graphic design powerhouse it is today.
+I can't believe it myself, but I spent my entire university studies, both bachelor's and master's, with a full Windows laptop as my computer. I started with Industrial Design Engineering in 2007, so it made sense. At that time, Windows was superior for all things Adobe, and even 3D CAD SolidWorks worked only on Windows. MacOS had some catching up to do to become the graphic design powerhouse it is today.
 
 As soon as I did my bridging course to Mechanical Engineering and finally my Master's in Bio-Mechanical Engineering, things got a bit more difficult. Still, I hung on, as we mostly scripted in Matlab, and some Java and even Prolog still worked okay on Windows.
 
