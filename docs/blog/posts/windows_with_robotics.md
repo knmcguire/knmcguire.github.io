@@ -1,5 +1,5 @@
 ---
-title: "Robotics on Windows, Are You Mad?!"
+title: Robotics on Windows, Are You Mad?!
 date:
   created: 2025-03-14
   updated: 2025-03-14
