@@ -1,5 +1,5 @@
 ---
-title: Quest for Robotics on Windows
+title: Robotics on Windows, Are You Mad?!
 date:
   created: 2025-03-14
   updated: 2025-03-14
@@ -28,7 +28,6 @@ _Enjoy! (I hope :wink:)_
 
 <!-- more -->
 
-testest
 
 ## 2007 - 2014: Single boot - Win XP/7
 
