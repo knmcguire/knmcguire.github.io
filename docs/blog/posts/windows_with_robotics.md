@@ -1,5 +1,5 @@
 ---
-title: Robotics on Windows?!
+title: Quest for Robotics on Windows
 date:
   created: 2025-03-14
   updated: 2025-03-14
