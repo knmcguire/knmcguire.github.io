@@ -1,14 +1,14 @@
 ---
 title: "Robotics on Windows, Are You Mad?!"
 date:
-  created: 2025-03-12
-  updated: 2025-03-12
-draft: true
+  created: 2025-03-14
+  updated: 2025-03-14
+draft: false
 categories: 
     - robotics
 authors:
   - kim
-comments: false
+comments: true
 links:
   - Bitcraze blogpost about windows develoment 2021: https://www.bitcraze.io/2021/04/transitioning-back-to-windows-development/
   - ROS Discourse on Windows User Survey: https://discourse.ros.org/t/windows-survey-results/39502
@@ -41,7 +41,7 @@ However, I still have traumas from the C++ course that I had to do on Windows, w
 
 When I started my PhD in 2015, after weeks of trying to set up a proper development environment for embedded C with Cygwin, both the lab engineer and I mentally broke and decided to install a dual boot on my university laptop. I couldn't find one-on-one replacements for graphic programs like Adobe, gaming was superior on Windows (yes, I did use my university laptop for that), and even high rendering simulations ran better on Windows.
 
-Although I was limited by the constant choice of a Nvidia card (since I hoped to do more with deep learning and CUDA at some point), this forced me to deal with the dual boot and restart my computer whenever I needed to do any development. Due to my painful experience with C++ development in Visual Studio, I didn't want to try setting that up again. This was my state until after my PhD ended: dual boot of Windows and Ubuntu, side by side. Not ideal, but it worked for most of my use cases, despite the loss of drive space for both OSes and the constant need to reboot to switch from one to the other.
+Although I was limited by Nvidia cards (since I hoped to do more with deep learning and CUDA at some point), this forced me to deal with the dual boot and restart my computer whenever I needed to do any development. Due to my painful experience with C++ development in Visual Studio, I didn't want to try setting that up again. This was my state until after my PhD ended: dual boot of Windows and Ubuntu, side by side. Not ideal, but it worked for most of my use cases, despite the loss of drive space for both OSes and the constant need to reboot to switch from one to the other.
 
 As a PhD student, you settle for what works and avoid deviations that could potentially waste time. "You don't have time for that! Now go write your journal papers."
 
@@ -62,7 +62,7 @@ So that is when I started to use ROS more and more on WSL2 and was able to run R
 
 ## 2025: Single boot: Windows 11 with WSL2
 
-After my time at Bitcraze, I wanted to reinstall my computer to have a nice fresh start, but what to do? I've been bothered by the lack of disk space (for gaming), not as appalled as much by C and ROS development on Windows with the help of WSL2, and hardly was using the Ubuntu of the dual boot anymore. There were just some graphic card support issues remaining. But, especially when the ROS team announced that they were changing up their [installation guidance for Windows installation of ROS 2](https://discourse.ros.org/t/upcoming-switch-of-windows-installation-to-pixi-conda/41916) I decided to go "back to my roots" and go full on Windows again! I am putting a lot of trust in this promised improvement, but luckily I don't have anyone relying on me to perform. And if it doesn't work out, I'll just get a second laptop for Ubuntu-only stuff (or use my Raspberry Pi 5, works pretty good with Ubuntu 24.04 these days!). No harm done! Only my pride on the line.
+After my time at Bitcraze, during my 'mini-retirement', I wanted to reinstall my computer to have a nice fresh start, but what to do? I've been bothered by the lack of disk space (for gaming), not as appalled as much by C and ROS development on Windows with the help of WSL2, and hardly was using the Ubuntu of the dual boot anymore. There were just some graphic card support issues remaining. But, especially when the ROS team announced that they were changing up their [installation guidance for Windows installation of ROS 2](https://discourse.ros.org/t/upcoming-switch-of-windows-installation-to-pixi-conda/41916) I decided to go "back to my roots" and go full on Windows again! I am putting a lot of trust in this promised improvement, but luckily I don't have anyone relying on me to perform. And if it doesn't work out, I'll just get a second laptop for Ubuntu-only stuff (or use my Raspberry Pi 5, works pretty good with Ubuntu 24.04 these days!). No harm done! Only my pride on the line.
 
 So once I got a fresh install of Windows 11, the absolute first thing I've tried out was the [new install instructions for ROS 2 on windows](https://github.com/ros2/ros2_documentation/pull/4989). Unfortunately, since the binaries/zip files weren't available, I went straight for the hardcore source install. They are now recommending using Pixi as the environment, which before it was only Miniconda. Sure, I had to wait half a day for all the essential ROS 2 packages to build and install, and fix a couple of errors here and there, but my god, what a breeze. Since it is now possible with the pixi.toml file to set up the environment exactly as it is supposed to, I had it working in a day! And check this out... here is a picture of ROS 2 Jazzy on WSL2 as listener and ROS 2 Jazzy on Windows 11 natively as talker! I felt just like a proud parent when this happened :blush:
 
@@ -77,4 +77,4 @@ But how about the GUI issues? That was still putting me off. Not only the GPU ac
 
 I see many possibilities here to make ROS running on Windows not as painful as it used to be, and maybe even better? Here I showed RVIZ2, but how about running Gazebo from Windows while running SLAM packages from WSL2? Or maybe a package that handles the USB support so I no longer have to use USBIPD? Or... run everything from Windows natively? One thing is for sure, I'll like to use Pixi for everything now since it was an eye opener after I tried out the new ROS2 draft installation instructions for Windows. I'm glad that the ROS2 dev team decided to not fully give up on Windows, since there seem to be many that actually rely on this (104 people answered [the survey ](https://discourse.ros.org/t/windows-survey-results/39502) they sent out). Now the [rolling ROS 2 documentation are out for Windows 10](https://docs.ros.org/en/rolling/Installation/Windows-Install-Binary.html) with the new instructions, but this works on Windows 11 as well, and Jazzy with just a couple of bug fixes here and there. It's such an improvement for those who struggled with it before.
 
-All in all, everyone can pick and choose which OS works best for them. I promise I won't roll my eyes if you say that you'd rather use MacOS or Ubuntu, however, I will still do that if someone claims it to be superior. This is so personally dependent that there is currently not an OS for all, at least for now. In my case, I play a lot of games on my computer, and I do quite some graphical design and the occasional game development on the same machine, so that means: lots of disk space (no dual boot) and good graphic card support (Windows x Nvidia). Ideally, I don't want to switch if I'd like to do any ROS or simulation development on the side. For me, ideally, I'd like to do that with a Windows machine, but if you have different requirements for your computer, then other OSes might be better for you. I just like Windows for most of my use cases better.
+All in all, everyone can pick and choose which OS works best for them. I promise I won't roll my eyes if you say that you'd rather use MacOS or Ubuntu, however, I will still do that if someone claims it to be superior. This is so personally dependent that there is currently not an OS for all, at least for now. In my case, I play a lot of games on my computer, and I do quite some graphical design and the occasional game development on the same machine, so that means: lots of disk space (no dual boot) and good graphic card support (Windows x Nvidia). Ideally, I don't want to switch if I'd like to do any ROS or simulation development on the side. For me, ideally, I'd like to do that with a Windows machine, but if you have different requirements for your computer, then other OSes might be better for you. I just like Windows for most of my use cases better, and I'm not the only one.
