@@ -22,9 +22,9 @@ async src="//gc.zgo.at/count.js"></script>
 <p><img alt="windows WSL2 terminals" src="https://knmcguire.github.io/blog/images/wslwinros.png" width="100" /></p>
 
 
-*Yes, I am a little bit mad. Why the hell do I torture myself to get development to work on Windows... well, I tried to trace back the journey for robotics development, where I desperately tried to hang on to Windows, but had to settle for a dual boot, only to slowly return to give development on Windows a chance again.*
+_Yes, I am a little bit mad. Why the hell do I torture myself to get development to work on Windows... well, I tried to trace back the journey for robotics development, where I desperately tried to hang on to Windows, but had to settle for a dual boot, only to slowly return to give development on Windows a chance again._
 
-*Enjoy! (I hope :wink:)*
+_Enjoy! (I hope :wink:)_
 
 <!-- more -->
 
