@@ -1,14 +1,18 @@
 ---
 title: When the doctor stops smiling
 date:
-  created: 2025-03-30
-  updated:  2025-03-30
+  created: 2025-03-29
+  updated:  2025-03-29
 draft: false
 categories: 
     - personal
 authors:
   - kim
 comments: true
+links:
+  - Colontown: https://colontown.org/
+  - Fight Colorectal Cancer: https://fightcolorectalcancer.org/
+  - European Digestive Cancers: https://digestivecancers.eu/
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
