@@ -21,7 +21,7 @@ async src="//gc.zgo.at/count.js"></script>
 <p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/robbie_exploration_lowres.png" width="100" /></p>
 
 
-*A Robbie dedicated to colorectal cancer awareness months and my [latest blogpost](https://knmcguire.github.io/blog/2025/03/30/when-the-doctor-stops-smiling/). There is still robotics that can be actually do potentially good!* 
+*A Robbie dedicated to colorectal cancer awareness months and my [latest blogpost](https://knmcguire.github.io/blog/2025/03/29/when-the-doctor-stops-smiling/). There is still robotics that can be actually do potentially good!* 
 
 
 <!-- more -->
