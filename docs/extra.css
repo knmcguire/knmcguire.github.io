@@ -1,0 +1,13 @@
+.skill-label {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px; /* Adjust this value for more or less rounded corners */
+    background-color: #008080; /* Teal color */
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin: 5px;
+}
+.label-container {
+    text-align: right; /* Align labels to the right */
+}

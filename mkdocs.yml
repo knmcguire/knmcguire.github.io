@@ -29,6 +29,9 @@ site_dir: _site
 
 not_in_nav: projects/*
 
+extra_css:
+  - extra.css
+  
 markdown_extensions:
   - footnotes
   - attr_list
