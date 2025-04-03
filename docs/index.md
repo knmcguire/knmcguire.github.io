@@ -5,9 +5,8 @@ title: "About"
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p align="center">
-<img width="200" height="200" src="/images/kim_background.png">
-</p>
+
+![image](/images/kim_background.png){width=200 .center}
 
 **Kimberly N. McGuire, PhD**
 ___
@@ -62,11 +61,11 @@ _2010 - 2010_: **Various part-time jobs in Hospitality**  _Santa Barbara_ :us:
 
 _2009 - 2014_: **Various part-time jobs in University Support**  _TU Delft_ :nl:
 
-### Organizations
+### Organizations and Committees
 ![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }
 
 
-_2024 - now_: **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) :dk:
+<_2024 - now_: **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) :dk:
 
 _2024 - now_: **Organization Committee** Robotics Developer room [FOSDEM](https://fosdem.org/2025/) :be:
 

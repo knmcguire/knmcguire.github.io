@@ -11,3 +11,8 @@
 .label-container {
     text-align: right; /* Align labels to the right */
 }
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
