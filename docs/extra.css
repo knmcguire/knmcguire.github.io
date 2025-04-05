@@ -16,3 +16,9 @@
     display: block;
     margin: 0 auto;
 }
+
+:root  > * {
+    --md-primary-fg-color:        #27788b;
+    --md-primary-fg-color--light: #82b3be;
+    --md-primary-fg-color--dark:  #27788b;
+  }

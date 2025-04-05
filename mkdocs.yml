@@ -6,7 +6,7 @@ theme:
   logo: images/kim_background_white.png
   language: en
   palette: 
-    primary: teal
+    primary: custom
     accent: green
   custom_dir: overrides
 
