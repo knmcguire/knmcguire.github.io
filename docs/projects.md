@@ -7,11 +7,9 @@ ___
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-## 2019 - 2024 - Embedded Software - Robotics engineer at Bitcraze
 
-
-
-### ROS 2 Navigation with a nano-quadcopter 
+## ROS 2 Navigation with a nano-quadcopter 
+_2022 - 2024 - Bitcraze_
 
 
 
@@ -39,7 +37,8 @@ During this project, I've connected a nano quadcopter with the ROS 2 framework t
 
 ______
 
-### Robotic simulators of nano-quadcopters
+## Robotic simulators of nano-quadcopters
+_2021 - 2022 - Bitcraze_
 
 
 ![mapping crazyflie](https://www.bitcraze.io/wp-content/uploads/2022/03/cf2_render.png){ width="300" }
@@ -77,10 +76,10 @@ I've built multiple models for the nano-quadcopter, the Crazyflie, creating a lo
 ___
 
 
-## 2015 - 2019 - PhD Researcher at TU Delft
 
 
-### Swarm Gradient Bug Algorithm
+## Swarm Gradient Bug Algorithm
+_2018 - 2019 - TU Delft_
 
 ![mapping crazyflie](https://www.bitcraze.io/wp-content/uploads/2019/10/swarm_flying_1-1024x515.jpg){ width="300" }
 
@@ -105,9 +104,11 @@ I've researched how a swarm of tiny quadcopters can autonomously fly indoors wit
 
 </div>
 
+___
 
+## Autonomous pocket drone for Swarm Exploration
+_2015 - 2018 - TU Delft_
 
-### Autonomous pocket drone for Swarm Exploration
 ![mapping crazyflie](images/origami_drone.png){ width="300" }
 
 Back in 2015, there was no standard platform for autonomous swarming for indoor exploration. Until the folks at Bitcraze released the right expansion decks, I had to develop my own platform for this by combining different modules together, developed internally by the engineers from MAVlab, TU Delft.
@@ -149,34 +150,9 @@ Back in 2015, there was no standard platform for autonomous swarming for indoor 
 
 
 ___
-## 2014 Intern at Computational Photography - NEC Japan
 
-
-
-### Coded Infrared-Cut Filter 
-
-![mapping crazyflie](images/experimentalsetup.png){ width="300" }
-
-As an intern at the NEC Corporation in Tokyo, Japan, I worked in the Information and Media Processing Labs. I focused on validating a novel high-sensitivity sensing method for computational photography. With a coded infrared cut filter, the concept could be used on regular security cameras to capture both images in the visual spectrum and infrared, which can be useful in low-light conditions.
-
-**Related Links**
-
-* Conference Paper at Springer CAIP conference: [:fontawesome-solid-file-lines:](https://link.springer.com/chapter/10.1007/978-3-319-23192-1_15)
-
-<div class="label-container">
-        <span class="skill-label">Matlab</span>
-        <span class="skill-label">Diffraction Simulation</span>
-        <span class="skill-label">OpenCV</span>
-        <span class="skill-label">Experimental setup</span>
-
-
-</div>
-___
-
-## 2011 - 2014 Study Final Projects - TU Delft
-
-
-### MSc Final Project - Binocular Vision Stabilization
+## Binocular Vision Stabilization
+_2014 - TU Delft_
 
 ![mapping crazyflie](images/binocular_robot.png){ width="300" }
 
@@ -199,10 +175,36 @@ I've developed a neural network model for the stabilization of the cameras of a 
         <span class="skill-label">Neural Networks</span>
 </div>
 
+___
+
+## Coded Infrared-Cut Filter 
+_2013 - 2014 - NEC_
+
+![mapping crazyflie](images/experimentalsetup.png){ width="300" }
+
+As an intern at the NEC Corporation in Tokyo, Japan, I worked in the Information and Media Processing Labs. I focused on validating a novel high-sensitivity sensing method for computational photography. With a coded infrared cut filter, the concept could be used on regular security cameras to capture both images in the visual spectrum and infrared, which can be useful in low-light conditions.
+
+**Related Links**
+
+* Conference Paper at Springer CAIP conference: [:fontawesome-solid-file-lines:](https://link.springer.com/chapter/10.1007/978-3-319-23192-1_15)
+
+<div class="label-container">
+        <span class="skill-label">Matlab</span>
+        <span class="skill-label">Diffraction Simulation</span>
+        <span class="skill-label">OpenCV</span>
+        <span class="skill-label">Experimental setup</span>
+
+
+</div>
+___
 
 
 
-### BSc Final Project - Wearable timelapse camera
+
+
+
+## Wearable timelapse camera
+_2011 - TU Delft_
 
 ![mapping crazyflie](images/exploded_view.jpg){ width="300" }
 
