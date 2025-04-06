@@ -16,27 +16,30 @@
     color: white !important; /* Ensure text stays white on hover */
 }
 
-/* Increase specificity to override MkDocs link styles */
-a.skill-label {
+/* Further increase specificity to override MkDocs link styles */
+div.label-container a.skill-label {
     color: white !important; /* Ensure text stays white */
     text-decoration: none !important; /* Remove underline */
 }
 
-a.skill-label:hover {
+div.label-container a.skill-label:hover {
     color: white !important; /* Ensure text stays white on hover */
 }
 
+/* Ensure the label container aligns properly */
 .label-container {
     text-align: right; /* Align labels to the right */
 }
 
+/* Center images */
 .center {
     display: block;
     margin: 0 auto;
 }
 
-:root  > * {
+/* Override MkDocs primary colors if needed */
+:root > * {
     --md-primary-fg-color:        #27788b;
     --md-primary-fg-color--light: #82b3be;
     --md-primary-fg-color--dark:  #27788b;
-  }
+}
