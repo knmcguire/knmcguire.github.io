@@ -2,12 +2,20 @@
     display: inline-block;
     padding: 5px 10px;
     border-radius: 10px; /* Adjust this value for more or less rounded corners */
-    background-color: #008080; /* Teal color */
-    color: white;
+    background-color: #27788b; /* Teal color */
+    color: white !important; /* Force text to stay white, overriding MkDocs styles */
     font-size: 12px;
     text-align: center;
     margin: 5px;
+    text-decoration: none; /* Remove underline for links */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
 }
+
+.skill-label:hover {
+    background-color: #00C753;; /* Darker teal on hover */
+    color: white !important; /* Ensure text stays white on hover */
+}
+
 .label-container {
     text-align: right; /* Align labels to the right */
 }

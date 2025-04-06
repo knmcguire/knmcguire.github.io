@@ -71,9 +71,13 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/89/ec/00d68c4ddfedfe64159999e5f8a98fb8442729a63e2077eb9dcd89623d27/filelock-3.17.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a0/61/5c78b91c3143ed5c14207f463aecfc8f9dbb5092fb2869baf37c273b2705/gitdb-4.0.12-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1d/9a/4114a9057db2f1462d5c8f8390ab7383925fe1ac012eaa42402ad65c2963/GitPython-3.1.44-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/1f/7f/13cd798d180af4bf4c0ceddeefba2b864a63c71645abc0308b768d67bb81/hjson-3.1.0-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/55/cf/f03331298ee50a4da6fb72ccec79078041158c1f8b5fc24835c1be42232e/mkdocs_macros_plugin-1.3.7-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/c6/53/387e9ff4e3857cac1a1a1f4d707ca1673c293174fd134de0c25513fb0c49/mkdocs_rss_plugin-1.17.1-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b6/bc/8bd826dd03e022153bfa1766dcdec4976d6c818865ed54223d71f07862b3/msgpack-1.1.0-cp313-cp313-win_amd64.whl
       - pypi: https://files.pythonhosted.org/packages/04/be/d09147ad1ec7934636ad912901c5fd7667e1c858e19d355237db0d0cd5e4/smmap-5.0.2-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/07/6d/58de58c521e7fb79bceb4da90d55250070bb4adfa3c870b82519a561c79d/super_collections-0.5.3-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/a6/7e/a574ccd49ad07e8b117407bac361f1e096b01f1b620365daf60ff702c936/termcolor-3.0.1-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a6/ab/7e5f53c3b9d14972843a647d8d7a853969a58aecc7559cb3267302c94774/tzdata-2024.2-py2.py3-none-any.whl
 packages:
 - conda: https://conda.anaconda.org/conda-forge/noarch/babel-2.17.0-pyhd8ed1ab_0.conda
@@ -282,6 +286,10 @@ packages:
   - pkg:pypi/h2?source=hash-mapping
   size: 53888
   timestamp: 1738578623567
+- pypi: https://files.pythonhosted.org/packages/1f/7f/13cd798d180af4bf4c0ceddeefba2b864a63c71645abc0308b768d67bb81/hjson-3.1.0-py3-none-any.whl
+  name: hjson
+  version: 3.1.0
+  sha256: 65713cdcf13214fb554eb8b4ef803419733f4f5e551047c9b711098ab7186b89
 - conda: https://conda.anaconda.org/conda-forge/noarch/hpack-4.1.0-pyhd8ed1ab_0.conda
   sha256: 6ad78a180576c706aabeb5b4c8ceb97c0cb25f1e112d76495bff23e3779948ba
   md5: 0a802cb9888dd14eeefc611f05c40b6e
@@ -494,6 +502,26 @@ packages:
   - pkg:pypi/mkdocs-get-deps?source=hash-mapping
   size: 14757
   timestamp: 1734353035244
+- pypi: https://files.pythonhosted.org/packages/55/cf/f03331298ee50a4da6fb72ccec79078041158c1f8b5fc24835c1be42232e/mkdocs_macros_plugin-1.3.7-py3-none-any.whl
+  name: mkdocs-macros-plugin
+  version: 1.3.7
+  sha256: 02432033a5b77fb247d6ec7924e72fc4ceec264165b1644ab8d0dc159c22ce59
+  requires_dist:
+  - hjson
+  - jinja2
+  - mkdocs>=0.17
+  - packaging
+  - pathspec
+  - python-dateutil
+  - pyyaml
+  - super-collections
+  - termcolor
+  - mkdocs-include-markdown-plugin ; extra == 'test'
+  - mkdocs-macros-test ; extra == 'test'
+  - mkdocs-material>=6.2 ; extra == 'test'
+  - mkdocs-test ; extra == 'test'
+  - mkdocs-d2-plugin ; extra == 'test'
+  requires_python: '>=3.8'
 - conda: https://conda.anaconda.org/conda-forge/noarch/mkdocs-material-9.6.3-pyhd8ed1ab_0.conda
   sha256: b000b4a4e9e227483cbd07bc2d5f3dbd7b69052582da5414d00fb92842c5ec49
   md5: 01858aee3c4c9fd308e9fc4236454fcf
@@ -802,6 +830,22 @@ packages:
   version: 5.0.2
   sha256: b30115f0def7d7531d22a0fb6502488d879e75b260a9db4d0819cfb25403af5e
   requires_python: '>=3.7'
+- pypi: https://files.pythonhosted.org/packages/07/6d/58de58c521e7fb79bceb4da90d55250070bb4adfa3c870b82519a561c79d/super_collections-0.5.3-py3-none-any.whl
+  name: super-collections
+  version: 0.5.3
+  sha256: 907d35b25dc4070910e8254bf2f5c928348af1cf8a1f1e8259e06c666e902cff
+  requires_dist:
+  - hjson
+  - pytest>=7.0 ; extra == 'test'
+  requires_python: '>=3.8'
+- pypi: https://files.pythonhosted.org/packages/a6/7e/a574ccd49ad07e8b117407bac361f1e096b01f1b620365daf60ff702c936/termcolor-3.0.1-py3-none-any.whl
+  name: termcolor
+  version: 3.0.1
+  sha256: da1ed4ec8a5dc5b2e17476d859febdb3cccb612be1c36e64511a6f2485c10c69
+  requires_dist:
+  - pytest ; extra == 'tests'
+  - pytest-cov ; extra == 'tests'
+  requires_python: '>=3.9'
 - conda: https://conda.anaconda.org/conda-forge/win-64/tk-8.6.13-h5226925_1.conda
   sha256: 2c4e914f521ccb2718946645108c9bd3fc3216ba69aea20c2c3cedbd8db32bb1
   md5: fc048363eb8f03cd1737600a5d08aafe

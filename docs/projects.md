@@ -27,14 +27,13 @@ During this project, I've connected a nano quadcopter with the ROS 2 framework t
 
 
 <div class="label-container">
-        <span class="skill-label">Python</span>
-        <span class="skill-label">Embedded C</span>
-        <span class="skill-label">Gazebo</span>
-        <span class="skill-label">Webots</span>
-        <span class="skill-label">ROS 2</span>
-        <span class="skill-label">Nav2</span>
+    {{ skill_label("Python") }}
+    {{ skill_label("Embedded C") }}
+    {{ skill_label("Gazebo") }}
+    {{ skill_label("Webots") }}
+    {{ skill_label("ROS 2") }}
+    {{ skill_label("Nav2") }}
 </div>
-
 ______
 
 ## Robotic simulators of nano-quadcopters
@@ -52,14 +51,16 @@ I've built multiple models for the nano-quadcopter, the Crazyflie, creating a lo
 * IEEE Robotics & Automation journal paper: [:fontawesome-solid-file-lines:](https://ieeexplore.ieee.org/document/10665978
 ) 
 
+
 <div class="label-container">
-        <span class="skill-label">Blender</span>
-        <span class="skill-label">Python</span>
-        <span class="skill-label">Embedded C</span>
-        <span class="skill-label">C++17</span>
-        <span class="skill-label">Gazebo</span>
-        <span class="skill-label">Webots</span>
+    {{ skill_label("Blender") }}
+    {{ skill_label("Python") }}
+    {{ skill_label("Embedded C") }}
+    {{ skill_label("C++") }}
+    {{ skill_label("Gazebo") }}
+    {{ skill_label("Webots") }}
 </div>
+
 
 
 <!--a href="https://www.bitcraze.io/author/kimberly/"><button style="background-color: #E8E8E8;
@@ -93,14 +94,14 @@ I've researched how a swarm of tiny quadcopters can autonomously fly indoors wit
 * Video Press release [:fontawesome-solid-film:](https://youtu.be/IgMKiIEbfN8?si=oXxMp5Elx2btogSD)
 
 <div class="label-container">
-        <span class="skill-label">Embedded C</span>
-        <span class="skill-label">FreeRTOS</span>
-        <span class="skill-label">ESP</span>
-        <span class="skill-label">State Machines</span>
-        <span class="skill-label">ROS 1</span>
-        <span class="skill-label">Gazebo Classic</span>
-        <span class="skill-label">ARGoS</span>
-        <span class="skill-label">Matlab</span>
+        {{ skill_label("Embedded C") }}
+        {{ skill_label("FreeRTOS") }}
+        {{ skill_label("ESP") }}
+        {{ skill_label("State Machines") }}
+        {{ skill_label("ROS 1") }}
+        {{ skill_label("Gazebo Classic") }}
+        {{ skill_label("ARGoS") }}
+        {{ skill_label("Matlab") }}
 
 </div>
 
@@ -121,15 +122,15 @@ Back in 2015, there was no standard platform for autonomous swarming for indoor 
 
 
 <div class="label-container">
-        <span class="skill-label">Embedded C</span>
-        <span class="skill-label">GPIO</span>
-        <span class="skill-label">Bluetooth</span>
-        <span class="skill-label">ESP</span>
-        <span class="skill-label">Optical Flow</span>
-        <span class="skill-label">Paparazzi</span>
-        <span class="skill-label">Matlab</span>
-        <span class="skill-label">FreeCAD</span>
-        <span class="skill-label">3D printing</span>
+        {{ skill_label("Embedded C") }}
+        {{ skill_label("GPIO") }}
+        {{ skill_label("Bluetooth") }}
+        {{ skill_label("ESP") }}
+        {{ skill_label("Optical Flow") }}
+        {{ skill_label("Paparazzi") }}
+        {{ skill_label("Matlab") }}
+        {{ skill_label("FreeCAD") }}
+        {{ skill_label("3D printing") }}
 
 </div>
 
@@ -165,14 +166,14 @@ I've developed a neural network model for the stabilization of the cameras of a 
 
 
 <div class="label-container">
-        <span class="skill-label">C++11</span>
-        <span class="skill-label">Matlab</span>
-        <span class="skill-label">Solidworks</span>
-        <span class="skill-label">ROS1</span>
-        <span class="skill-label">Gazebo Classic</span>
-        <span class="skill-label">OpenCV</span>
-        <span class="skill-label">Optical Flow</span>
-        <span class="skill-label">Neural Networks</span>
+        {{ skill_label("C++11") }}
+        {{ skill_label("Matlab") }}
+        {{ skill_label("Solidworks") }}
+        {{ skill_label("ROS1") }}
+        {{ skill_label("Gazebo Classic") }}
+        {{ skill_label("OpenCV") }}
+        {{ skill_label("Optical Flow") }}
+        {{ skill_label("Neural Networks") }}
 </div>
 
 ___
@@ -189,10 +190,10 @@ As an intern at the NEC Corporation in Tokyo, Japan, I worked in the Information
 * Conference Paper at Springer CAIP conference: [:fontawesome-solid-file-lines:](https://link.springer.com/chapter/10.1007/978-3-319-23192-1_15)
 
 <div class="label-container">
-        <span class="skill-label">Matlab</span>
-        <span class="skill-label">Diffraction Simulation</span>
-        <span class="skill-label">OpenCV</span>
-        <span class="skill-label">Experimental setup</span>
+        {{ skill_label("Matlab") }}
+        {{ skill_label("Diffraction Simulation") }}
+        {{ skill_label("OpenCV") }}
+        {{ skill_label("Experimental setup") }}
 
 
 </div>
@@ -214,12 +215,12 @@ Before switching to Mechanical Engineering, I completed my final project in Indu
 
 
 <div class="label-container">
-        <span class="skill-label">Solid Works</span>
-        <span class="skill-label">Industrial Design</span>
-        <span class="skill-label">Photoshop</span>
-        <span class="skill-label">Indesign</span>
-        <span class="skill-label">Assembly planning</span>
-        <span class="skill-label">3D printing</span>
+        {{ skill_label("Solid Works") }}
+        {{ skill_label("Industrial Design") }}
+        {{ skill_label("Photoshop") }}
+        {{ skill_label("Indesign") }}
+        {{ skill_label("Assembly planning") }}
+        {{ skill_label("3D printing") }}
 </div>
 
 

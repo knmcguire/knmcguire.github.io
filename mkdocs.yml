@@ -12,6 +12,7 @@ theme:
 
 plugins:
   - search
+  - macros
   - blog:
       archive_date_format: MMMM yyyy
       categories_allowed:

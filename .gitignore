@@ -9,3 +9,6 @@ _site/
 # pixi environments
 .pixi
 *.egg-info
+
+##python cache
+*.pyc
