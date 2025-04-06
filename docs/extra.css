@@ -7,12 +7,22 @@
     font-size: 12px;
     text-align: center;
     margin: 5px;
-    text-decoration: none; /* Remove underline for links */
+    text-decoration: none !important; /* Remove underline for links */
     transition: background-color 0.3s ease; /* Smooth transition for hover effect */
 }
 
 .skill-label:hover {
-    background-color: #00C753;; /* Darker teal on hover */
+    background-color: #00C753; /* Darker teal on hover */
+    color: white !important; /* Ensure text stays white on hover */
+}
+
+/* Increase specificity to override MkDocs link styles */
+a.skill-label {
+    color: white !important; /* Ensure text stays white */
+    text-decoration: none !important; /* Remove underline */
+}
+
+a.skill-label:hover {
     color: white !important; /* Ensure text stays white on hover */
 }
 
