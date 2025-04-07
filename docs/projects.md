@@ -120,7 +120,7 @@ During the height of the covid pandamic, I've taken many courses on game develop
         {{ skill_label("Graphic Design") }}
 </div>
 
-
+___
 
 ## Swarm Gradient Bug Algorithm
 _2018 - 2019 - TU Delft_
