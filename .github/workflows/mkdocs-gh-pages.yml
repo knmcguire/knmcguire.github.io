@@ -27,7 +27,7 @@ jobs:
       - name: Generate skill list from projects
         run: pixi run python generate_skills.py
       - name: Build mkdocs website
-      - run: pixi run mkdocs build
+        run: pixi run mkdocs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
