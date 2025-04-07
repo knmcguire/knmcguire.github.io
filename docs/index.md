@@ -15,7 +15,7 @@ ___
 
 Hi , I'm Kimberly! I am an independent roboticist specializing in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured. Presently, I am engaged in robotic simulation projects.  
 <span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250407.pdf)</span>   <br>
-
+<span style="float: right;">[Contact :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
 ___
 
 ## Highlights :fontawesome-solid-star:
