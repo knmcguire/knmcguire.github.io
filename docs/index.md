@@ -13,16 +13,12 @@ ___
 
 
 
-Hi! I'm Kimberly and I'm an independent roboticist with a background in aerial robotics and embedded systems. I've completed her PhD on swarm robotics in 2019 and worked with the Crazyflie at Bitcraze until 2024. I'm is also an experience speaker at conferences, podcasts and have given accasional lectures. Currently I'm working on robotic simulation projects.
+Hi , I'm Kimberly! I am an independent roboticist specializing in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured. Presently, I am engaged in robotic simulation projects.  
+<span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250407.pdf)</span>   <br>
 
 ___
 
 ## Highlights :fontawesome-solid-star:
-
-
-
-
-
 
 
  <a href="https://robotics.sciencemag.org/content/4/35/eaaw9710"><button style="background-color: #555555;
@@ -47,13 +43,18 @@ ___
 
 :fontawesome-solid-trophy: _Best Speaker Award_
 
+___
+
 ## Skills :fontawesome-solid-hammer:
-_:fontawesome-solid-star: Expert :fontawesome-regular-star: Proficient_ 
 
 
 {{ list_unique_labels(lower_limit=2, star_threshold=2, small_star_threshold=1) }}
+
+_:fontawesome-solid-star: Expert :fontawesome-regular-star: Proficient_ 
 <span style="float: right;">
 [And many more...](/projects)</span>
+<br>
+___
 
 
 
@@ -68,8 +69,9 @@ _:fontawesome-solid-star: Expert :fontawesome-regular-star: Proficient_
 * _2013 - 2014_: **Intern Computational Photography** _NEC_ <span style="float: right;">:jp:</span>
 
 
+___
 
-## Organizations and Committees :fontawesome-solid-users:
+## Communities :fontawesome-solid-users:
 <!--![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }-->
 
 
@@ -81,6 +83,7 @@ _:fontawesome-solid-star: Expert :fontawesome-regular-star: Proficient_
 
 * _2015 - 2018_: **Organizing Committee member** RoboCup Junior NL <span style="float: right;">:nl:</span>
 
+___
 
 ## Education :fontawesome-solid-user-graduate:
 

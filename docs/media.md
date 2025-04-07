@@ -50,9 +50,8 @@ async src="//gc.zgo.at/count.js"></script>
         width: 100%;
         cursor: pointer"> Full publication list on Google scholar :fontawesome-brands-google-scholar:</button></a>
 
- <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
+ <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #27788b;
+        color: white;
         padding: 15px 32px;
         text-align: center;
         text-decoration: none;
@@ -60,6 +59,8 @@ async src="//gc.zgo.at/count.js"></script>
         font-size: 16px;
         width: 100%; 
         cursor: pointer"> PhD Dissertation: Indoor swarm exploration with Pocket Drones :fontawesome-solid-user-graduate:</button></a>
+
+___
 
 ## Interviews and Podcasts :fontawesome-solid-microphone:
 
@@ -80,9 +81,8 @@ async src="//gc.zgo.at/count.js"></script>
         width: 100%;
         cursor: pointer"> See more Interviews at my Youtube playlists :fontawesome-brands-youtube:</button></a>
 
- <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #E8E8E8;
-        border: 2px solid black;
-        color: black;
+ <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #27788b;
+        color: white;
         padding: 15px 32px;
         text-align: center;
         text-decoration: none;

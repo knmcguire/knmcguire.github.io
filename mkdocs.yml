@@ -24,7 +24,8 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
-
+  - open-in-new-tab
+  
 site_dir: _site
 
 not_in_nav: projects/*

@@ -173,7 +173,7 @@ Back in 2015, there was no standard platform for autonomous swarming for indoor 
 
 * Final Experiment Video: [:fontawesome-solid-film:](https://youtu.be/yX3RoUi9D-g)   
 * IEEE Robotics and Automation Letters publication:    [:fontawesome-solid-file-lines:](https://ieeexplore.ieee.org/stamp/stamp.jsp)
-
+* PhD Dissertation: [:fontawesome-solid-file-lines:](https://repository.tudelft.nl/islandora/object/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1?collection=research)
 
 <div class="label-container">
         {{ skill_label("C") }}
