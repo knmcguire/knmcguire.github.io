@@ -9,6 +9,8 @@ categories:
 authors:
   - kim
 comments: true
+links:
+  - ERF weekly robotics Article: https://www.weeklyrobotics.com/articles/2025_04_04_erf_2025/
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
@@ -19,7 +21,7 @@ async src="//gc.zgo.at/count.js"></script>
 
 
 
-*At ERF they kept on talking about a humanoid robotic strategy, but how about their companions huh? They needs some love and attention too!* 
+*At the European Robotics Forum they kept on talking about a humanoid robotic development strategy, but how about their companions huh!? They needs some love and attention too!* 
 
 *Enjoy!*
 
