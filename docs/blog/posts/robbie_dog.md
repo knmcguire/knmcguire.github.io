@@ -21,7 +21,7 @@ async src="//gc.zgo.at/count.js"></script>
 
 
 
-*At the European Robotics Forum they kept on talking about a humanoid robotic development strategy, but how about their companions huh!? They needs some love and attention too!* 
+*At the European Robotics Forum they kept on talking about a humanoid robotic development strategy, but how about their companions huh!? They need some love and attention too!* 
 
 *Enjoy!*
 
