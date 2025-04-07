@@ -15,9 +15,11 @@ comments: true
 async src="//gc.zgo.at/count.js"></script>
 
 
+[![robbie as a dog](images/robbie_dog_lowres.png){width=100}](robbie_dog.md)
 
 
-*At ERF they kept on talking about a humanoid robotic strategy, but how about their companions huh? They needs some love and attention too* 
+
+*At ERF they kept on talking about a humanoid robotic strategy, but how about their companions huh? They needs some love and attention too!* 
 
 *Enjoy!*
 

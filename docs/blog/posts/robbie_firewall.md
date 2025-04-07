@@ -14,8 +14,8 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/robbie_firewall_lowres.png" width="100" /></p>
 
+[![Robbie rambot comic](images/robbie_firewall_lowres.png){width=100}](robbie_firewall.md)
 
 *Although robotics on Windows gets a bit easier, there is just one thing that is tough to get around on... and that's the firewall!* 
 

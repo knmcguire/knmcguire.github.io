@@ -13,9 +13,9 @@ comments: true
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
+s
 
-<p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/robbie_connections_lowres.png" width="100" /></p>
-
+[![robbie rambot comic](images/robbie_connections_lowres.png){width=100}](robbie_connections.md)
 
 *I've implemented a new protocol with Robbie and his twin. Took longer longer as it also depends on emotional spark...* 
 

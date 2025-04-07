@@ -14,8 +14,8 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/robbie_reveals_lowres.png" width="100" /></p>
 
+[![Robbie rambot comic](images/robbie_reveals_lowres.png){width=100}](robbie_not_humanoid.md)
 
 *As a robotics developer I feel that now there is an unrealistic image of robots that must be met by modern society. Mobile robots are robots too!* 
 

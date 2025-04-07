@@ -14,7 +14,8 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/kim-madrid.jpg" width="100" /></p>
+
+[![robbie rambot comic](images/kim-madrid.jpg){width=100}](first_blogpost.md)
 
 _Here is my first blogpost on my new website! It will be a little bit about me, about my professional live, and a bit how I build this website. (or maybe a lot who knows). Enjoy!_
 

@@ -19,7 +19,8 @@ links:
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="mirte part 1 tumbnail" src="https://knmcguire.github.io/blog/images/mirte_done.jpg" width="100" /></p>
+
+[![mirte robot](images/mirte_done.jpg){width=100}](mirte_part_1.md)
 
 _I've spent some days building the low-cost open-source educational robot developed by TU Delft! Here is a short blog post describing that experience and some ideas and plans for projects I could possibly do with it. It's an awesome platform._
 

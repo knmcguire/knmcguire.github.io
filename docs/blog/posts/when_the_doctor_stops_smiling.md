@@ -18,9 +18,8 @@ links:
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="Me going through chemo" src="https://knmcguire.github.io/blog/images/drawing-intestines
-.jpg" width="100" /></p>
 
+[![](images/drawing-intestines.jpg){width=100}](when_the_doctor_stops_smiling.md)
 
 *It's the end of colorectal awareness month of March 2025. Almost 2 years ago, I got diagnosed with stage 3 rectal cancer at just 33 years old. I've luckily (so far) seemed to have responded well on treatment, but since then I want to make you all aware. Early onset colorectal cancer is more and more common these days, and I had no idea. So here the story of me getting the first result at my colonoscopy, that I wished I read myself dealing with those initial symptoms. There are some details in there but it shouldn't be too TMI, but the subject might be tough.* 
 

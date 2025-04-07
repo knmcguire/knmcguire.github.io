@@ -14,7 +14,8 @@ comments: true
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
-<p><img alt="robbie_loop_closure_tumbnail" src="https://knmcguire.github.io/blog/images/robbie_coordinate_systems_lowres.png" width="100" /></p>
+
+[![robbie rambot comic](images/robbie_coordinate_systems_lowres.png){width=100}](robbie_coordinate_systems.md)
 
 
 *This happens so many times! I think my prototype robot is using the camera coordinate system again... or am I wrong?* 
