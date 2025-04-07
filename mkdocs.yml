@@ -1,4 +1,4 @@
-site_name: Kimberly's Personal Website
+site_name: Kimberly McGuire's Website
 site_url: https://knmcguire.github.io/
 theme:
   name: material
@@ -25,7 +25,7 @@ plugins:
         as_creation: date.created
         as_update: date.updated
   - open-in-new-tab
-  
+
 site_dir: _site
 
 not_in_nav: projects/*
