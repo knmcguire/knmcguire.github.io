@@ -12,3 +12,6 @@ _site/
 
 ##python cache
 *.pyc
+
+##generated skills list
+skills.txt

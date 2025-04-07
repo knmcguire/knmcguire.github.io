@@ -33,7 +33,7 @@ ___
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Science Robotics Paper (2019) :fontawesome-solid-pen:</button></a>
+        cursor: pointer">Science Robotics Paper :fontawesome-solid-pen:</button></a>
 
 <a href="https://youtu.be/rtgt9Z1cPas"><button style="background-color: #27788b;
         color: white;
@@ -43,9 +43,19 @@ ___
         display: inline-block;
         font-size: 16px;
         width: 100%; 
-        cursor: pointer">Robotics Developer Day Talk* (2024) :fontawesome-solid-person-chalkboard:  </button></a>
+        cursor: pointer">Robotics Developer Day Talk :fontawesome-solid-person-chalkboard: :fontawesome-solid-trophy:  </button></a>
 
-*_Best Speaker Award_ :fontawesome-solid-trophy:
+:fontawesome-solid-trophy: _Best Speaker Award_
+
+## Skills :fontawesome-solid-hammer:
+_:fontawesome-solid-star: Expert :fontawesome-regular-star: Proficient_ 
+
+
+{{ list_unique_labels(lower_limit=2, star_threshold=2, small_star_threshold=1) }}
+<span style="float: right;">
+[And many more...](/projects)</span>
+
+
 
 ## Experience :fontawesome-solid-briefcase:
 
