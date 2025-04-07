@@ -2,9 +2,11 @@
 title: "Media"
 ---
 
+
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
+___
 ## Talks :fontawesome-solid-person-chalkboard:
 
 * [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span>
@@ -29,7 +31,7 @@ async src="//gc.zgo.at/count.js"></script>
         width: 100%;
         cursor: pointer"> See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:</button></a>
 
-
+___
 ## Publications :fontawesome-solid-pen:
 
 * Dimmig, C. A., Silano, G., **McGuire, K.**, Gabellieri, C., Hönig, W., Moore, J., & Kobilarov, M. (2024). Survey of Simulators for Aerial Robots: An Overview and In-Depth Systematic Comparisons. IEEE Robotics & Automation Magazine.  <span style="float: right;">[:fontawesome-solid-file-lines:](https://arxiv.org/pdf/2311.02296)</span> 
