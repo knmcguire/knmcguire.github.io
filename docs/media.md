@@ -2,10 +2,8 @@
 title: "Media"
 ---
 
-
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
-
 ___
 ## Talks :fontawesome-solid-person-chalkboard:
 
@@ -20,16 +18,7 @@ ___
 * [Tweakers Developer Summit 2021](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay15RnJsOThKRExqUVdYZkZhSEkxd1g1RDA3Z3xBQ3Jtc0trd21LSjRpMEpJcUVhczF0VnVsaGRiV1daSnFNUjFkSUV2Zm8xeHY4eVRadFZYMFF6Rk5mV1UzTDVRczZkMnBBbXgtTFRvdXRMQU5qQ0FRVFdTcjRUOG91LXhFamRaZ1BBR2pNNHFXRDJnSHJwVS1xWQ&q=https%3A%2F%2Ftweakers.net%2Fpartners%2Fdevsummit%2F1514%2Fkimberleymcguire%2F&v=8UfDMEfEcIc)    Flying a swarm in your kitchen  <span style="float: right;"> [:fontawesome-solid-film:](https://youtu.be/8UfDMEfEcIc)  </span>
 
 
-<a href="https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww"><button style="background-color: #555555;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%;
-        cursor: pointer"> See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:</button></a>
+{{ custom_button("See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/@knmcguire/playlists", color="gray") }}
 
 ___
 ## Publications :fontawesome-solid-pen:
@@ -41,27 +30,9 @@ ___
 * **McGuire, K.**, De Croon, G., De Wagter, C., Tuyls, K., & Kappen, H. (2017). Efficient optical flow and stereo vision for velocity estimation and obstacle avoidance on an autonomous pocket drone. IEEE Robotics and Automation Letters, 2(2), 1070-1076.  <span style="float: right;">[:fontawesome-solid-file-lines:](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7833065&casa_token=AnsKdBj8HfoAAAAA:ZpsxgAi1FyXpwWqsGOd3W85nX24ccaypWT5d-PCkOijCBRv7nFzf8SPJz7A2I-csS-iY0Rfxe5U&tag=1)</span>
 
 
-<a href="https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ"><button style="background-color: #555555;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%;
-        cursor: pointer"> Full publication list on Google scholar :fontawesome-brands-google-scholar:</button></a>
+{{ custom_button("Full publication list on Google scholar :fontawesome-brands-google-scholar:", "https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ", color="gray") }}
 
- <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #27788b;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer"> PhD Dissertation: Indoor swarm exploration with Pocket Drones :fontawesome-solid-user-graduate:</button></a>
-
+{{ custom_button("PhD Dissertation: Indoor swarm exploration with Pocket Drones :fontawesome-solid-user-graduate:", "https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1", color="teal") }}
 ___
 
 ## Interviews and Podcasts :fontawesome-solid-microphone:
@@ -72,23 +43,8 @@ ___
 * *InfoQ* Podcast August 2021: AI, ML and Data Engineering InfoQ Trends Report <span style="float: right;"> [:fontawesome-solid-headphones:](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/) </span>
 * *CodeKlets* Podcast July 2021: Kimberly McGuire vertelt ons over autonome mini drones <span style="float: right;"> [:fontawesome-solid-headphones:](https://codeklets.nl/posts/s02e11-kimberly-over-autonome-mini-drones) </span>
 
-<a href="https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww"><button style="background-color: #555555;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%;
-        cursor: pointer"> See more Interviews at my Youtube playlists :fontawesome-brands-youtube:</button></a>
 
- <a href="https://repository.tudelft.nl/record/uuid:48ed7edc-934e-4dfc-b35c-fe04d55caee1"><button style="background-color: #27788b;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        width: 100%; 
-        cursor: pointer"> Klokhuis Episode: Vliegende-robots :fontawesome-solid-apple-whole: </button></a>
+{{ custom_button("See more Interviews at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/@knmcguire/playlists", color="gray") }}
+
+{{ custom_button("Klokhuis Episode: Vliegende-robots :fontawesome-solid-apple-whole:", "https://hetklokhuis.nl/tv-uitzending/4933/vliegende-robots", color="teal") }}
+

@@ -7,7 +7,7 @@ theme:
   language: en
   palette: 
     primary: custom
-    accent: green
+    accent: teal
   custom_dir: overrides
 
 plugins:

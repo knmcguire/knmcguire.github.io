@@ -63,3 +63,55 @@ def define_env(env):
             )
             + "</div>"
         )
+
+    
+    @env.macro
+    def custom_button(text, url, color="teal"):
+        """
+        Generate a styled button with customizable color and hover effects.
+
+        Args:
+            text (str): The text to display on the button.
+            url (str): The URL the button links to.
+            color (str): The color of the button. Options: "teal", "gray".
+
+        Returns:
+            str: HTML string for the button.
+        """
+        # Define button styles
+        colors = {
+            "teal": {
+                "background": "#27788b",
+                "hover": "#3596aa",
+                "text": "white",
+            },
+            "gray": {
+                "background": "#555555",
+                "hover": "#777777",
+                "text": "white",
+            },
+        }
+
+        # Get the styles for the selected color
+        style = colors.get(color, colors["teal"])  # Default to teal if color is invalid
+
+        # Generate the HTML for the button using an f-string
+        return f"""
+<a href="{url}">
+    <button style="
+        background-color: {style['background']};
+        color: {style['text']};
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 100%;
+        cursor: pointer;
+        border: none;
+        transition: background-color 0.3s ease;
+    " onmouseover="this.style.backgroundColor='{style['hover']}'" onmouseout="this.style.backgroundColor='{style['background']}'">
+        {text}
+    </button>
+</a>
+"""
