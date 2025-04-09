@@ -13,10 +13,22 @@ ___
 
 
 
-Hi , I'm Kimberly! I am an independent roboticist specializing in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured. Presently, I am engaged in robotic simulation projects.  
+Hi , I'm Kimberly! I am an independent roboticist specializing in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured. Presently, I am engaged in robotic simulation projects.
+  <br>
+    <br> 
+
+**<div style="text-align: center;">  Currently available for </div>**    
+<span style="color: #27788b;">:fontawesome-solid-check:</span> <span style="color: #555555;">Short-term Contracts </span>
+<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Strategy Consultation</span>
+<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Speaking / Writing</span>
+<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Personel Training</span>
+<span style="color: #27788b;">:fontawesome-solid-check:</span>
+  <br>
+    <br>
 <span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250407.pdf)</span>   
-<span style="float: right;">[My Portfolio :fontawesome-solid-folder-open:](/projects)</span>   <br>
-<span style="float: right;">[Contact :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
+<span style="float: right;">[My Portfolio :fontawesome-solid-folder-open:](/projects)</span> 
+  <br>
+<span style="float: right;">[For Enquiries :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
 ___
 
 ## Highlights :fontawesome-solid-star:
@@ -46,13 +58,15 @@ ___
 
 <!--![bitcraze](images/bitcraze.png){ width="100" }![delft](images/delft.png){ width="100" }![nec](images/nec.png){ width="100" }-->
 
-* _2022 - 2024_: **Robotics Software Engineer** _Bitcraze AB_ <span style="float: right;">:se:</span>
+* _2025 - now_:&nbsp; **Contractor** _Self-Employed_ <span style="float: right;">:se:</span>
 
-* _2019 - 2022_: **Embedded Software Engineer** _Bitcraze AB_ <span style="float: right;">:se:</span>
+* _2022 - 2024_: **Robotics Engineer** _Bitcraze AB_ <span style="float: right;">:se:</span>
+
+* _2019 - 2022_: **Embedded Developer** _Bitcraze AB_ <span style="float: right;">:se:</span>
 
 * _2015 - 2019_: **PhD Researcher** _TU Delft_ <span style="float: right;">:nl:</span>
 
-* _2013 - 2014_: **Intern Computational Photography** _NEC_ <span style="float: right;">:jp:</span>
+* _2013 - 2014_: **Intern Comp. Photography** _NEC_ <span style="float: right;">:jp:</span>
 
 <span style="float: right;">
 [Check out my portfolio...](/projects)</span>
@@ -64,16 +78,16 @@ ___
 <!--![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }-->
 
 
-* _2024 - now_: **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) <span style="float: right;">:dk:</span>
+* _2024 - now_:&nbsp; **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) <span style="float: right;">:dk:</span>
 
-* _2023 - now_: **Co-lead** [Aerial Robotics ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
+* _2023 - now_:&nbsp; **Co-lead** [Aerial ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
 
-* _2023 - now_: **Member** [Toastmasters](https://www.toastmasters.org/) <span style="float: right;">:se:</span>
+* _2023 - now_:&nbsp; **Member level 2** [Toastmasters](https://www.toastmasters.org/) <span style="float: right;">:se:</span>
 
-* _2015 - 2018_: **Organizing Committee member** RoboCup Junior NL <span style="float: right;">:nl:</span>
+* _2015 - 2018_: **Organisation** RoboCup Jr. <span style="float: right;">:nl:</span>
 
 <span style="float: right;">
-[My media appearances...](/projects)</span>
+[More media appearances...](/projects)</span>
 <br>
 
 ___
@@ -84,7 +98,7 @@ ___
 
 * _2014_: **MSc Mechanical Engineering** , _TU Delft_ <span style="float: right;">:nl:</span>
 
-* _2011_: **BSc Industrial Design Engineering**, _TU Delft_ <span style="float: right;">:nl:</span>
+* _2011_: **BSc Industrial Design Eng.**, _TU Delft_ <span style="float: right;">:nl:</span>
 
 ___
 
