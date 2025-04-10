@@ -28,8 +28,6 @@ jobs:
         run: pixi run python generate_skills.py
       - name: Build mkdocs website
         run: pixi run mkdocs build
-      - name: Add external blogpost search items to index
-        run: pixi run python merge_chunks_with_search_index.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
