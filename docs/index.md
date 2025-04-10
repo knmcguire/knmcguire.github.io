@@ -18,11 +18,11 @@ Hi , I'm Kimberly! I am an independent roboticist specializing in aerial robotic
     <br> 
 
 **<div style="text-align: center;">  Currently available for </div>**    
-<span style="color: #27788b;">:fontawesome-solid-check:</span> <span style="color: #555555;">Short-term Contracts </span>
-<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Strategy Consultation</span>
-<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Speaking / Writing</span>
-<span style="color: #27788b;">:fontawesome-solid-check: </span> <span style="color: #555555;">Personel Training</span>
-<span style="color: #27788b;">:fontawesome-solid-check:</span>
+<span style="color: #27788b;">●</span> <span style="color: #555555;">Short-term Contracts </span>
+<span style="color: #27788b;">● </span> <span style="color: #555555;">Strategy Consultation</span>
+<span style="color: #27788b;">● </span> <span style="color: #555555;">Speaking & Writing</span>
+<span style="color: #27788b;">●</span> <span style="color: #555555;">Research & Education</span>
+<span style="color: #27788b;">●</span>
   <br>
     <br>
 <span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250410.pdf)</span>   
