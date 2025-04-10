@@ -3,12 +3,12 @@ title: Flying Solo - the Start of my Robotics Freelancing career
 date:
   created: 2025-04-10
   updated:  2025-04-10
-draft: true
+draft: false
 categories: 
     - robotics
 authors:
   - kim
-comments: false
+comments: true
 ---
 
 [![image](/images/new-office.jpeg){width=100}](going_solo.md)
@@ -22,7 +22,7 @@ _Enjoy!_
 
 ## Why Freelancing?
 
-So, freelancing or independent contracting often has the reputation of not being a stable source of income or the risk of uncertain employment. Even though the first might indeed be a valid concern (although it depends on the kind of assignment you accept), the second might not be as valid in this day and age. Robotics seems to be booming, and if anything, going to ERF has convinced me even more of that, so there are many smaller companies looking for robotic contractors at the moment. However, do ask me in a year or two if I still feel this way, as I still have to get started and receive assignments. But all of those are logical reasonings, of course.
+So, freelancing or independent contracting often has the reputation of not being a stable source of income or the risk of uncertain employment. Even though the first might indeed be a valid concern (although it depends on the kind of assignment you accept), the second might not be as valid in this day and age. Robotics seems to be booming, and if anything, going to the [European Robotics Forum](https://www.weeklyrobotics.com/articles/2025_04_04_erf_2025/) has convinced me even more of that. However, do ask me in a year or two if I still feel this way, as I still have to get started and receive assignments. But all of those are logical reasonings, of course.
 
 My personal reason why freelancing attracts me so much is the independence aspect of it. To be able to have the freedom to choose the assignments I'm interested in, to choose the people I'd like to work with and to learn what I want to learn, and to leave when projects don't align. That is such a powerful part of independent contracting that I feel I resonate with, which will not only be beneficial for my own career but also for the companies I'll be working for. They won't be fixed to me, and I'm not to them, but of course, we'll all be hoping to build a good relationship.
 
@@ -31,7 +31,7 @@ Networking seems to be a very important part of freelancing as well, as it seems
 And finally, freelancing in robotics tends to be quite competitive. It is therefore important to keep learning as the field constantly evolves. Today it's an LLM-powered arm, tomorrow will be a ZRN-powered soft robotic fish (I made ZRN up, obviously). And that is something that I've felt the need to do for the recent years after finishing my PhD. Sure, I've managed to transition to ROS2 and Gazebo/Webots and did game development during Corona, but my quantum computing beginners course remains untouched! Not sure if the latter course has anything to do with robotics, but you never know!
 
 ![image](/images/new-office.jpeg){width=500 .center}
-
+*<p style="text-align: center;">Taken by C.D. Dieleman</p>*
 
 ## My new Portfolio :fontawesome-solid-star:
 
@@ -47,7 +47,7 @@ Have you tried clicking them yet?? It's apparently not super apparent that these
 
 ## What kind of Assignments?
 
-So mainly, I'm looking for short-term, part-time assignments, for about 8-16 hours per week. Those who have been following me might already know, but as a [previous cancer patient](/blog/2025/03/29/when-the-doctor-stops-smiling/), I have three monthly scans that I'll need to take into account. So going for short-term assignments is not only a good reason for me but also for the customer to expect specific deliverables in that timeframe and not be surprised by dropouts. I need to be ready to go into surgery at every three-month interval, so I'll make pretty well sure that I'll be ready with something before then. So there, a pretty important reason to go for **short-term contracts**, so I hope that makes sense! Take a look at [my portfolio](/portfolio) here.
+So mainly, I'm looking for short-term, part-time assignments, for about 8-16 hours per week. Those who have been following me might already know, but as a [previous cancer patient](/blog/2025/03/29/when-the-doctor-stops-smiling/), I have tri-monthly scans that I'll need to take into account. So going for short-term assignments is not only a good reason for me but also for the client to expect specific deliverables in that timeframe and not be surprised by dropouts. I need to be ready to go into surgery at every three-month interval, so I'll make pretty well sure that I'll be ready with something before then. So there, a pretty important reason to go for **short-term contracts**, so I hope that makes sense! Take a look at [my portfolio](/portfolio) here.
 
 Next to that, I do have some expertise in aerial robotics, swarm robotics, and was a former employee of [Bitcraze](https://www.bitcraze.io/) (the Crazyflie company), so if anyone is interested in **strategic consulting**, I'll be able to offer that too at an hourly rate. If you'd like to make use of my academic skills in doing a literature review as a **researcher** in the robotics field you are interested in, or need help with your own research subject, I could also help out with **training or educating** your employees or students on different concepts within my areas of expertise. And if you happen to need a **speaker** at your conference or someone to **write an article** about a robotics event, I have plenty of examples of those on my [media page](/media).
 
@@ -57,8 +57,8 @@ Please take a look at [my website](https://knmcguire.github.io/) to see if there
 
 ## Conclusion
 
-Being self-employed is starting a business, and I need to start actually selling myself. My imposter syndrome brain is now shouting, "What are you saying!?" but... apparently, I am quite smart, and I catch on to new things very quickly. I do not like overselling myself, and I will not take on assignments that are neither my expertise nor fit with my new learning goals; however, I shouldn't undersell myself either. Switching to ROS 2 and simulation was hard, doing a PhD was hard, switching from IDE to mechanical engineering was hard... but I did it all. Now, brain, could you please be a bit more positive!
+Being self-employed is starting a business, and I need to start actually selling myself. My imposter syndrome brain is now shouting, "What are you saying!?" but... apparently, I am smart, hardworking and I catch on to new things very quickly. Switching to ROS 2 and simulation was hard, doing a PhD was hard, switching from IDE to mechanical engineering was hard, but that didn't stop me. Now, brain, could you please be a bit more positive!?
 
-I'd like to thank a couple of people who helped me make this decision, and that is [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/) (who wrote some blog posts about being [a consultant](https://msadowski.github.io/5-years-remote-robotics-consulting/) as well), [Jennifer Beuhler](https://www.linkedin.com/in/jenbuehler/), and [Júlia Marsal Perendreu](https://www.linkedin.com/in/juliamarsalrobotics/). Thanks to these robotic contractor veterans, I got to know enough to take the leap into freelancing.
+I'd like to thank a couple of people who helped me make this decision, and that is [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/) (and his  [ blogposts](https://msadowski.github.io/5-years-remote-robotics-consulting/) as well), [Jennifer Beuhler](https://www.linkedin.com/in/jenbuehler/), and [Júlia Marsal Perendreu](https://www.linkedin.com/in/juliamarsalrobotics/). Thanks to these robotic contractor veterans, I got to know enough to take the leap into freelancing.
 
 I'm actually quite excited about this! I'll try to give regular updates on the process.
