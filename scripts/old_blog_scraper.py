@@ -31,11 +31,17 @@ def scrape_blog_content(url):
 def extract_date_from_url(url):
     match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)  # Match YYYY/MM/DD in the URL
     if match:
-        return match.group(1) + match.group(2) + match.group(3)  # Return YYYYMMDD
+        return f"{match.group(1)}_{match.group(2)}_{match.group(3)}"  # Return YYYY_MM_DD
     match = re.search(r'/(\d{4})/(\d{2})/', url)  # Match YYYY/MM in the URL
     if match:
-        return match.group(1) + match.group(2) + "01"  # Default to the first day of the month
-    return datetime.now().strftime("%Y%m%d")  # Default to today's date
+        return f"{match.group(1)}_{match.group(2)}_01"  # Default to the first day of the month
+    return datetime.now().strftime("%Y_%m_%d")  # Default to today's date
+
+# Generate a filename from the URL
+def generate_file_name(url, date_prefix):
+    # Extract the slug from the URL and keep hyphens intact
+    url_slug = url.split('/')[-2]
+    return f"{date_prefix}_{url_slug}.md"
 
 # Save content to a Markdown file
 def save_to_markdown(content, file_name, output_dir, original_url):
@@ -59,7 +65,7 @@ def main():
         if content:
             # Extract date and generate a filename
             date_prefix = extract_date_from_url(url)
-            file_name = f"{date_prefix}_{url.split('/')[-2]}.md"
+            file_name = generate_file_name(url, date_prefix)
             save_to_markdown(content, file_name, output_dir, url)
             print(f"Saved: {file_name}")
         else:
