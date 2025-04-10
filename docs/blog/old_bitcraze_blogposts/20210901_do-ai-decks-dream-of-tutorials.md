@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/09/do-ai-decks-dream-of-tutorials/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/09/do-ai-decks-dream-of-tutorials/](https://www.bitcraze.io/2021/09/do-ai-decks-dream-of-tutorials/)**
 
 2021-09-20 
  | 

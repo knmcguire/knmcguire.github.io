@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/08/crazyflie-ros2-summer-update/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/08/crazyflie-ros2-summer-update/](https://www.bitcraze.io/2022/08/crazyflie-ros2-summer-update/)**
 
 2022-08-01 
  | 

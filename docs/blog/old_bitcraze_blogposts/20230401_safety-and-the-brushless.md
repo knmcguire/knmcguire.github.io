@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/04/safety-and-the-brushless/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/04/safety-and-the-brushless/](https://www.bitcraze.io/2023/04/safety-and-the-brushless/)**
 
 2023-04-24 
  | 

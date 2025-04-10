@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/04/transitioning-back-to-windows-development/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/04/transitioning-back-to-windows-development/](https://www.bitcraze.io/2021/04/transitioning-back-to-windows-development/)**
 
 2021-04-05 
  | 

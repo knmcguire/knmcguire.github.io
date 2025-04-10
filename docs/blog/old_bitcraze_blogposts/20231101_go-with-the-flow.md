@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/11/go-with-the-flow-relative-positioning-with-the-flow-deck](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/11/go-with-the-flow-relative-positioning-with-the-flow-deck](https://www.bitcraze.io/2023/11/go-with-the-flow-relative-positioning-with-the-flow-deck)**
 
 2023-11-27 
  | 

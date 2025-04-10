@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/10/crazyswarm2-development/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/10/crazyswarm2-development/](https://www.bitcraze.io/2022/10/crazyswarm2-development/)**
 
 2022-10-10 
  | 

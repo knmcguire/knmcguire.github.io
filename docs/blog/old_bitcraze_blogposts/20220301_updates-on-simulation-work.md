@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/03/updates-on-simulation-work/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/03/updates-on-simulation-work/](https://www.bitcraze.io/2022/03/updates-on-simulation-work/)**
 
 2022-03-14 
  | 

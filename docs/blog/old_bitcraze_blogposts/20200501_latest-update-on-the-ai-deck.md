@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/05/latest-update-on-the-ai-deck/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/05/latest-update-on-the-ai-deck/](https://www.bitcraze.io/2020/05/latest-update-on-the-ai-deck/)**
 
 2020-05-25 
  | 

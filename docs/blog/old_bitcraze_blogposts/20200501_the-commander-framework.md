@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/05/the-commander-framework/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/05/the-commander-framework/](https://www.bitcraze.io/2020/05/the-commander-framework/)**
 
 2020-05-11 
  | 

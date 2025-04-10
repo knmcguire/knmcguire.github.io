@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/01/explaining-kalman-filters-with-the-crazyflie/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/01/explaining-kalman-filters-with-the-crazyflie/](https://www.bitcraze.io/2024/01/explaining-kalman-filters-with-the-crazyflie/)**
 
 2024-01-29 
  | 

@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/08/flow-and-lps-deck-improvements-in-progress/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/08/flow-and-lps-deck-improvements-in-progress/](https://www.bitcraze.io/2020/08/flow-and-lps-deck-improvements-in-progress/)**
 
 2020-08-17 
  | 

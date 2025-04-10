@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2019/10/enabling-swarm-exploration/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2019/10/enabling-swarm-exploration/](https://www.bitcraze.io/2019/10/enabling-swarm-exploration/)**
 
 2019-10-28 
  | 

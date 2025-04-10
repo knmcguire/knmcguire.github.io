@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/02/out-of-control/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/02/out-of-control/](https://www.bitcraze.io/2020/02/out-of-control/)**
 
 2020-02-03 
  | 

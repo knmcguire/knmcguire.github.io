@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/lighthouse-positioning-accuracy/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/lighthouse-positioning-accuracy/](https://www.bitcraze.io/2021/05/lighthouse-positioning-accuracy/)**
 
 2021-05-17 
  | 

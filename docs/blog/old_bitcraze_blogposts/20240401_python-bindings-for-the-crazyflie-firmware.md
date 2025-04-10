@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/04/python-bindings-for-the-crazyflie-firmware/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/04/python-bindings-for-the-crazyflie-firmware/](https://www.bitcraze.io/2024/04/python-bindings-for-the-crazyflie-firmware/)**
 
 2024-04-01 
  | 

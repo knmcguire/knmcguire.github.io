@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/10/development-plans-for-crazyflie-simulation/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2023/10/development-plans-for-crazyflie-simulation/](https://www.bitcraze.io/2023/10/development-plans-for-crazyflie-simulation/)**
 
 2023-10-23 
  | 

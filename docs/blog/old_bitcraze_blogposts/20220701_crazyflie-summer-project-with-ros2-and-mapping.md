@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/07/crazyflie-summer-project-with-ros2-and-mapping/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2022/07/crazyflie-summer-project-with-ros2-and-mapping/](https://www.bitcraze.io/2022/07/crazyflie-summer-project-with-ros2-and-mapping/)**
 
 2022-07-04 
  | 

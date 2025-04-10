@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/01/the-commander-framework-part-2-offboard-or-onboard/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/01/the-commander-framework-part-2-offboard-or-onboard/](https://www.bitcraze.io/2024/01/the-commander-framework-part-2-offboard-or-onboard/)**
 
 2024-01-08 
  | 

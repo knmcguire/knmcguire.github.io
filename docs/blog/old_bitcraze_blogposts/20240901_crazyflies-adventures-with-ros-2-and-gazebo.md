@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/09/crazyflies-adventures-with-ros-2-and-gazebo/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/09/crazyflies-adventures-with-ros-2-and-gazebo/](https://www.bitcraze.io/2024/09/crazyflies-adventures-with-ros-2-and-gazebo/)**
 
 2024-09-02 
  | 

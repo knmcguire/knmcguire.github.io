@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/positioning-system-overview/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/positioning-system-overview/](https://www.bitcraze.io/2021/05/positioning-system-overview/)**
 
 2021-05-24 
  | 

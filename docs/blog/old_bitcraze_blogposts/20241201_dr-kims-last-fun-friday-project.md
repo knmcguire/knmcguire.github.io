@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/12/dr-kims-last-fun-friday-project/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2024/12/dr-kims-last-fun-friday-project/](https://www.bitcraze.io/2024/12/dr-kims-last-fun-friday-project/)**
 
 2024-12-09 
  | 

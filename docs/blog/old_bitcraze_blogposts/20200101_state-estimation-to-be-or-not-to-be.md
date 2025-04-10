@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/01/state-estimation-to-be-or-not-to-be/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2020/01/state-estimation-to-be-or-not-to-be/](https://www.bitcraze.io/2020/01/state-estimation-to-be-or-not-to-be/)**
 
 2020-01-20 
  | 

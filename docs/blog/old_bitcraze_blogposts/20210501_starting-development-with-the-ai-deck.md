@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/starting-development-with-the-ai-deck/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/05/starting-development-with-the-ai-deck/](https://www.bitcraze.io/2021/05/starting-development-with-the-ai-deck/)**
 
 2021-05-03 
  | 

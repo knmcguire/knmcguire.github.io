@@ -1,4 +1,4 @@
-**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/12/simulation-possibilities/](original_url)**
+**This is a placeholder for the original blogpost to be found here: [https://www.bitcraze.io/2021/12/simulation-possibilities/](https://www.bitcraze.io/2021/12/simulation-possibilities/)**
 
 2021-12-13 
  | 

@@ -41,12 +41,12 @@ def extract_date_from_url(url):
 def save_to_markdown(content, file_name, output_dir, original_url):
     os.makedirs(output_dir, exist_ok=True)
     file_path = os.path.join(output_dir, file_name)
-    placeholder = f"**This is a placeholder for the original blogpost to be found here: [{original_url}](original_url)**\n\n"
+    placeholder = f"**This is a placeholder for the original blogpost to be found here: [{original_url}]({original_url})**\n\n"
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(placeholder + content)
 
 def main():
-    urls_file = 'urls.yaml'
+    urls_file = 'scripts/urls.yaml'
     output_dir = 'docs/blog/old_bitcraze_blogposts'
 
     # Load URLs
