@@ -11,6 +11,9 @@ authors:
 comments: true
 ---
 
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
+
 [![image](/images/new-office.jpeg){width=100}](going_solo.md)
 
 
