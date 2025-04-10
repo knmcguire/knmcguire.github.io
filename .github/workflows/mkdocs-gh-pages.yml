@@ -28,6 +28,8 @@ jobs:
         run: pixi run python scripts/generate_skills.py
       - name: Build mkdocs website
         run: pixi run mkdocs build
+      - name: Update search index
+        run: pixi run python .\scripts\process_search_index.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
