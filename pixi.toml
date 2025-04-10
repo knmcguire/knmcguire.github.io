@@ -9,6 +9,8 @@ version = "0.1.0"
 [dependencies]
 mkdocs-material = ">=9.6.3,<10"
 pyyaml = ">=6.0.2,<7"
+pypdf2 = ">=3.0.1,<4"
+lunr = ">=0.8.0,<0.9"
 
 [pypi-dependencies]
 mkdocs-rss-plugin = ">=1.17.1, <2"
