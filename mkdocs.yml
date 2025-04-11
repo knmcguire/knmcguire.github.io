@@ -54,6 +54,9 @@ markdown_extensions:
   - pymdownx.superfences
 extra:
   social:
+    - icon: /fontawesome/solid/envelope
+      name: Send Kim an enquiry by mail
+      link: mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
     - icon: fontawesome/brands/x-twitter
       name: Kimberly on Twitter
       link: https://www.x.com/k_n_mcguire/
