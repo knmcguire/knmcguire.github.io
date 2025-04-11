@@ -87,7 +87,7 @@ ___
 * _2015 - 2018_: **Organisation** RoboCup Jr. <span style="float: right;">:nl:</span>
 
 <span style="float: right;">
-[More media appearances...](/projects)</span>
+[Other media appearances...](/media)</span>
 <br>
 
 ___
