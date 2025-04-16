@@ -29,6 +29,8 @@ _In this blog post, I explain how I tried to figure out in which simulator I sho
 
 _Enjoy!_
 
+<!-- more -->
+
 ___
 
 It's been less than a week since I announced I'll go freelancing as a robotics engineer. This means freedom, independence, no one telling me what to do! ... yes, that might be a problem... because if no one tells me what to do, how do I know what is important to know and to learn? One part is, of course, what I'm interested in, one part is what the client needs, and most importantly, which tools are already available out there. That is something that I'll just need to determine myself through research.
