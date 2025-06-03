@@ -10,6 +10,11 @@ authors:
   - kim
 comments: true
 links:
+  - ROS 2 on windows, are you mad? blogpost: https://www.mcguirerobotics.com/blog/2025/03/14/robotics-on-windows-are-you-mad/
+  - Pixi package manager: https://pixi.sh/latest/
+  - Gazebo binary installation instructions: https://gazebosim.org/docs/latest/install_windows/
+  - ROS 2 Kilted Kaiju Win Binary installation instructions: https://docs.ros.org/en/kilted/Installation/Ubuntu-Install-Debs.html
+  - Video impression of what is done in this blogpost: https://youtu.be/CBb7-vnnBmc
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
@@ -37,7 +42,7 @@ Now that Kilted Kaiju came out about a week ago, I wanted to see how far I could
 
 ## Gazebo Ionic on Windows 11
 
-Since I didn't want to do any core development on Gazebo itself, I went through [the Binary installation instructions](https://gazebosim.org/docs/latest/install_windows/). Here, they recommend using the Conda package management system, which I tried during the Gazebo Ionic testing tutorial party, and that works fine. But this time, I wanted to use Pixi\! Instead of installing the `libgz-packages` one by one, I could add them to the `pixi.toml` file as dependencies with the correct numbering and version. I've added the [pixi.toml file as a Gist here](https://www.google.com/search?q=https://gist.github.com/knmcguire/c5b14909cf76cc80593c98ddebef51c6).
+Since I didn't want to do any core development on Gazebo itself, I went through [the binary installation instructions](https://gazebosim.org/docs/latest/install_windows/) for Gazebo Ionic. Here, they recommend using the Conda package management system, which I tried during the Gazebo Ionic testing tutorial party, and that works fine. But this time, I wanted to use Pixi\! Instead of installing the `libgz-packages` one by one, I could add them to the `pixi.toml` file as dependencies with the correct numbering and version. I've added the [pixi.toml file as a Gist here](https://www.google.com/search?q=https://gist.github.com/knmcguire/c5b14909cf76cc80593c98ddebef51c6).
 
 The cool thing about Pixi is that you can also make use of [multiple environments](https://pixi.sh/latest/tutorials/multi_environment/). So I've added the dependencies of both Gazebo Ionic and Gazebo Harmonic (which is the latest **Long-Term Release**). And then switching between Gazebo versions is as easy as:
 
@@ -106,6 +111,8 @@ So now we have ROS2 on WSL2, controlling the drone Gazebo simulation on Windows 
 
 So now that it is possible to install the ROS 2 Kilted Kaiju binaries in Windows 11 via [these instructions](https://docs.ros.org/en/kilted/Installation/Windows-Install-Binary.html). Currently, it needs to be fixed to a directory in `C:/pixi_ws/` but hopefully, we will be able to fix that soon with this [ROS2 GitHub ticket](https://github.com/ros2/ros2/issues/1675).
 
+> Note: Mind that if this was an experiment with ROS 2 Jazzy and Gazebo Harmonic, that the packages from the [Robostack project](https://robostack.github.io/) would have been sufficient already!
+
 Once installed, to the installed ROS2 directory, open up a Pixi shell and source the ROS 2 Kilted Kaiju distribution:
 
 ```bat
@@ -129,7 +136,7 @@ Since all the GUIs are in Windows natively, you have more control about their re
 <center>![4 window view of a quadcopter model in gazebo (windows), ROS 2 Teleop (wsl2) and both RQT and RVIZ2 (Windows )](images/win_gz_ros2_teleop_wsl2_rqtrviz2.png)</center>
 
 
-## The Full Monty and Final Conclusion
+## Final Conclusion
 
 
 So if you look at the full rosgraph it looks pretty awesome. And it is quite handy that I can control the gui windows more easily. This will be a improvement to my workflow of developming on ROS2 on windows.
@@ -140,10 +147,10 @@ Having said that, there are still things that can be improved:
 
 - Having ROS 2 running on both natively and WSL2 takes up some resources and is not efficient
 - I still have to manually start gazebo from Windows, as that can't be done from a launch file from WSL2
-- Gazebo still has some bugs for the windows, but that is to be expected as the maintaince team notes it at 'experimental' (I'll make sure to make GH issues of all of these.)
+- Gazebo still has some bugs for the Windows, but that is to be expected as the maintaince team notes it at 'experimental' (I'll make sure to make GH issues of all of these.)
 
-Nevertheless! I'm still quite excited for other possitilities that can come with this! Let's see if I can also get this to work with other simulators as well like [Nvidia Isaac Sim](https://developer.nvidia.com/isaac/sim) or [O3DE engine](https://o3de.org/). More blogposts yet to come!
+Nevertheless! I'm still quite excited for other possitilities that can come with this! Let's see if I can also get this to work with other simulators as well like [Nvidia Isaac Sim](https://developer.nvidia.com/isaac/sim) or [O3DE engine](https://o3de.org/). Many thanks to the ROS 2 and Gazebo Devs for making this happen, and again, kudos for the Pixi project! It makes my (development) life so much easier now!
 
 Here is a video compilation of the full run through of my WSL2-Win11 Kilted-Ionic tryout. I will also present a run through at my [Indie Robot Twitch stream of tomorrow](https://www.twitch.tv/indierobot/schedule?seriesID=b4d96240-af58-44ea-9262-76d739c8351b) (Wednesday 4th of June 2 pm UTC). I've started streaming here as of recent, where I try out all kinds of robotic and simulator tools every week on Wednesdays, so hopefully see you tomorrow!
 
-TODO: VIDEO yet to come!
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zl1XKQZi6I4?si=Xm90aRCURD1u1Fbn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
