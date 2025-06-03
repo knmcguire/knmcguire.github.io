@@ -2,8 +2,8 @@ site_name: Kimberly McGuire's Website
 site_url: https://knmcguire.github.io/
 theme:
   name: material
-  favicon: images/taro_icon.svg
-  logo: images/kim_background_white.png
+  favicon: images/logo-teal.svg
+  logo: images/logo_white.gif
   language: en
   palette: 
     primary: custom
@@ -57,6 +57,9 @@ extra:
     - icon: /fontawesome/solid/envelope
       name: Send Kim an enquiry by mail
       link: mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+    - icon: fontawesome/brands/twitch
+      name: Indie Robot Twitch Channel
+      link: https://www.twitch.tv/indierobot
     - icon: fontawesome/brands/x-twitter
       name: Kimberly on Twitter
       link: https://www.x.com/k_n_mcguire/
