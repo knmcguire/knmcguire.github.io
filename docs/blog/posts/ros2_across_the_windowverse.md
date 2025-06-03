@@ -42,7 +42,7 @@ Now that Kilted Kaiju came out about a week ago, I wanted to see how far I could
 
 ## Gazebo Ionic on Windows 11
 
-Since I didn't want to do any core development on Gazebo itself, I went through [the binary installation instructions](https://gazebosim.org/docs/latest/install_windows/) for Gazebo Ionic. Here, they recommend using the Conda package management system, which I tried during the Gazebo Ionic testing tutorial party, and that works fine. But this time, I wanted to use Pixi\! Instead of installing the `libgz-packages` one by one, I could add them to the `pixi.toml` file as dependencies with the correct numbering and version. I've added the [pixi.toml file as a Gist here](https://www.google.com/search?q=https://gist.github.com/knmcguire/c5b14909cf76cc80593c98ddebef51c6).
+Since I didn't want to do any core development on Gazebo itself, I went through [the binary installation instructions](https://gazebosim.org/docs/latest/install_windows/) for Gazebo Ionic. Here, they recommend using the Conda package management system, which I tried during the Gazebo Ionic testing tutorial party, and that works fine. But this time, I wanted to use Pixi\! Instead of installing the `libgz-packages` one by one, I could add them to the `pixi.toml` file as dependencies with the correct numbering and version. I've added the [pixi.toml file as a Gist here](https://gist.github.com/knmcguire/c5b14909cf76cc80593c98ddebef51c6).
 
 The cool thing about Pixi is that you can also make use of [multiple environments](https://pixi.sh/latest/tutorials/multi_environment/). So I've added the dependencies of both Gazebo Ionic and Gazebo Harmonic (which is the latest **Long-Term Release**). And then switching between Gazebo versions is as easy as:
 
