@@ -3,12 +3,12 @@ title: "ROS 2: Across the Windows-Verse"
 date:
   created: 2025-06-02
   updated: 2025-06-03
-draft: true
+draft: false
 categories: 
     - robotics
 authors:
   - kim
-comments: false
+comments: true
 links:
 ---
 
@@ -33,7 +33,7 @@ In [this last blog post in March](https://www.mcguirerobotics.com/blog/2025/03/1
 
 Now that Kilted Kaiju came out about a week ago, I wanted to see how far I could push this further. I love WSL2, and it helps me out on a daily basis, but the GUI handling is just very janky, and I have no control over what in WSL2 I want my second Nvidia graphics card to care about. So my goal is: (1) Gazebo Ionic to run natively on Windows 11, (2) run the ROS 2 (Kilted Kaiju) - Gz Ionic bridge and other ROS 2 on WSL2, and (3) debug using RVIZ2 and RQT back on native Windows again. Why? Because it's a challenge!
 
-> I've written this blog post in a tutorial-like style, so you can try to follow along. Having said that, it's all super experimental and you WILL encounter bugs. Be prepared to do some code digging and fixing yourself :smile:
+> I've written this blog post in a tutorial-like style, so you can try to follow along. Having said that, it's all super experimental and you WILL encounter bugs. Be prepared to do some code digging and fixing yourself :wink:
 
 ## Gazebo Ionic on Windows 11
 
@@ -129,7 +129,7 @@ Since all the GUIs are in Windows natively, you have more control about their re
 <center>![4 window view of a quadcopter model in gazebo (windows), ROS 2 Teleop (wsl2) and both RQT and RVIZ2 (Windows )](images/win_gz_ros2_teleop_wsl2_rqtrviz2.png)</center>
 
 
-## The Full Monty and conclusion
+## The Full Monty and Final Conclusion
 
 
 So if you look at the full rosgraph it looks pretty awesome. And it is quite handy that I can control the gui windows more easily. This will be a improvement to my workflow of developming on ROS2 on windows.
@@ -142,7 +142,7 @@ Having said that, there are still things that can be improved:
 - I still have to manually start gazebo from Windows, as that can't be done from a launch file from WSL2
 - Gazebo still has some bugs for the windows, but that is to be expected as the maintaince team notes it at 'experimental' (I'll make sure to make GH issues of all of these.)
 
-Nevertheless! I'm still quite excited for other possitilities that can come with this! Let's see if I can also get this to work with other simulators as well like Nvidia Isaac Sim or O3DE engine.
+Nevertheless! I'm still quite excited for other possitilities that can come with this! Let's see if I can also get this to work with other simulators as well like [Nvidia Isaac Sim](https://developer.nvidia.com/isaac/sim) or [O3DE engine](https://o3de.org/). More blogposts yet to come!
 
 Here is a video compilation of the full run through of my WSL2-Win11 Kilted-Ionic tryout. I will also present a run through at my [Indie Robot Twitch stream of tomorrow](https://www.twitch.tv/indierobot/schedule?seriesID=b4d96240-af58-44ea-9262-76d739c8351b) (Wednesday 4th of June 2 pm UTC). I've started streaming here as of recent, where I try out all kinds of robotic and simulator tools every week on Wednesdays, so hopefully see you tomorrow!
 
