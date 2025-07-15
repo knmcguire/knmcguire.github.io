@@ -18,7 +18,7 @@ ___
 * [Tweakers Developer Summit 2021](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay15RnJsOThKRExqUVdYZkZhSEkxd1g1RDA3Z3xBQ3Jtc0trd21LSjRpMEpJcUVhczF0VnVsaGRiV1daSnFNUjFkSUV2Zm8xeHY4eVRadFZYMFF6Rk5mV1UzTDVRczZkMnBBbXgtTFRvdXRMQU5qQ0FRVFdTcjRUOG91LXhFamRaZ1BBR2pNNHFXRDJnSHJwVS1xWQ&q=https%3A%2F%2Ftweakers.net%2Fpartners%2Fdevsummit%2F1514%2Fkimberleymcguire%2F&v=8UfDMEfEcIc)    Flying a swarm in your kitchen  <span style="float: right;"> [:fontawesome-solid-film:](https://youtu.be/8UfDMEfEcIc)  </span>
 
 
-{{ custom_button("See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/@knmcguire/playlists", color="gray") }}
+{{ custom_button("See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists", color="gray") }}
 
 ___
 ## Publications :fontawesome-solid-pen:
