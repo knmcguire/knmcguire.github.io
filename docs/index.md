@@ -107,6 +107,6 @@ ___
 
 {{ custom_button("Talks, Publications and Podcast appearances :fontawesome-solid-microphone:", "/media", color="gray") }}
 
-{{ custom_button("Personal and Technical Blogs :fontawesome-solid-robot:", "/blog", color="teal") }}
+{{ custom_button("Personal and Technical Blogs :fontawesome-solid-pen:", "/blog", color="teal") }}
 
 {{ custom_button("Indie Robot Channel :fontawesome-solid-robot:", "https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww", color="gray") }}
