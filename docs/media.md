@@ -7,13 +7,13 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 ## Talks :fontawesome-solid-person-chalkboard:
 
+* [Open Source Summit Europe 2025](https://events.linuxfoundation.org/open-source-summit-europe/) _Up, Up, and Away: Adventures in Aerial Robotics_**selected as Keynote speech** together with Ramon Roche </span>
+
 * [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span>
 
 * [Robotics Developer Day 2024](https://www.theconstruct.ai/robotics-developers-day/)  _ROS 2 with a Tiny Quadcopter_  **Winner of the best speaker award** <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/rtgt9Z1cPas)   </span>
 
-* [ROSCon 2023](https://roscon.ros.org/2023) _Up, Up, and Away: Adventures in Aerial Robotics_ **selected as Keynote speech** together with Ramon Roche  <span style="float: right;"> [:fontawesome-solid-film:](https://vimeo.com/879001926/02a07b8277) </span>
-
-*   [ROSCon 2022](https://roscon.ros.org/2022/)    _ROS 2 and the Crazyflie Aerial: swarms and Autonomy with a tiny flying robot_  <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/showcase/9954564/video/767140197)  </span>
+* [ROSCon 2022](https://roscon.ros.org/2022/)    _ROS 2 and the Crazyflie Aerial: swarms and Autonomy with a tiny flying robot_  <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/showcase/9954564/video/767140197)  </span>
 
 * [Tweakers Developer Summit 2021](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay15RnJsOThKRExqUVdYZkZhSEkxd1g1RDA3Z3xBQ3Jtc0trd21LSjRpMEpJcUVhczF0VnVsaGRiV1daSnFNUjFkSUV2Zm8xeHY4eVRadFZYMFF6Rk5mV1UzTDVRczZkMnBBbXgtTFRvdXRMQU5qQ0FRVFdTcjRUOG91LXhFamRaZ1BBR2pNNHFXRDJnSHJwVS1xWQ&q=https%3A%2F%2Ftweakers.net%2Fpartners%2Fdevsummit%2F1514%2Fkimberleymcguire%2F&v=8UfDMEfEcIc)    Flying a swarm in your kitchen  <span style="float: right;"> [:fontawesome-solid-film:](https://youtu.be/8UfDMEfEcIc)  </span>
 
