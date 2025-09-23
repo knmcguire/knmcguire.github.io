@@ -7,7 +7,7 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 ## Talks :fontawesome-solid-person-chalkboard:
 
-* [Open Source Summit Europe 2025](https://events.linuxfoundation.org/open-source-summit-europe/) _Up, Up, and Away: Adventures in Aerial Robotics_ **selected as Keynote speech** together with Ramon Roche [:fontawesome-solid-film:](https://youtu.be/HTsXCDTch2I)</span>
+* [Open Source Summit Europe 2025](https://events.linuxfoundation.org/open-source-summit-europe/) _Up, Up, and Away: Adventures in Aerial Robotics_ **selected as Keynote speech** together with Ramon Roche <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/HTsXCDTch2I)</span>
 
 * [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span>
 
