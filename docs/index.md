@@ -17,18 +17,10 @@ Hi, I'm Kimberly! I am an independent roboticist with a background in aerial rob
   <br>
     <br> 
 
-**<div style="text-align: center;">  Currently available for </div>**    
-<span style="color: #27788b;">●</span> <span style="color: #555555;">Short-term Contracts </span>
-<span style="color: #27788b;">● </span> <span style="color: #555555;">Strategy Consultation</span>
-<span style="color: #27788b;">● </span> <span style="color: #555555;">Speaking & Writing</span>
-<span style="color: #27788b;">●</span> <span style="color: #555555;">Research & Education</span>
-<span style="color: #27788b;">●</span>
-  <br>
-    <br>
 <span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250919.pdf)</span>   
 <span style="float: right;">[My Portfolio :fontawesome-solid-folder-open:](/projects)</span> 
   <br>
-<span style="float: right;">[For Enquiries :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
+<span style="float: right;">[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
 ___
 
 ## Highlights :fontawesome-solid-star:
