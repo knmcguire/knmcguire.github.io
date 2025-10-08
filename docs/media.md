@@ -7,16 +7,15 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 ## Talks :fontawesome-solid-person-chalkboard:
 
+* [ROSCon UK 2025](https://roscon.org.uk/2025/) _ROS taking Flight: more Adventures in Aerial Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/showcase/11908222)</span>
+
 * [Open Source Summit Europe 2025](https://events.linuxfoundation.org/open-source-summit-europe/) _Up, Up, and Away: Adventures in Aerial Robotics_ **selected as Keynote speech** together with Ramon Roche <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/HTsXCDTch2I)</span>
 
 * [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span>
 
 * [Robotics Developer Day 2024](https://www.theconstruct.ai/robotics-developers-day/)  _ROS 2 with a Tiny Quadcopter_  **Winner of the best speaker award** <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/rtgt9Z1cPas)   </span>
 
-* [ROSCon 2022](https://roscon.ros.org/2022/)    _ROS 2 and the Crazyflie Aerial: swarms and Autonomy with a tiny flying robot_  <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/showcase/9954564/video/767140197)  </span>
-
-* [Tweakers Developer Summit 2021](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay15RnJsOThKRExqUVdYZkZhSEkxd1g1RDA3Z3xBQ3Jtc0trd21LSjRpMEpJcUVhczF0VnVsaGRiV1daSnFNUjFkSUV2Zm8xeHY4eVRadFZYMFF6Rk5mV1UzTDVRczZkMnBBbXgtTFRvdXRMQU5qQ0FRVFdTcjRUOG91LXhFamRaZ1BBR2pNNHFXRDJnSHJwVS1xWQ&q=https%3A%2F%2Ftweakers.net%2Fpartners%2Fdevsummit%2F1514%2Fkimberleymcguire%2F&v=8UfDMEfEcIc)    Flying a swarm in your kitchen  <span style="float: right;"> [:fontawesome-solid-film:](https://youtu.be/8UfDMEfEcIc)  </span>
-
+* [Tweakers Developer Summit 2021](https://tweakers.net/partners/devsummit/1514/kimberleymcguire/)    Flying a swarm in your kitchen  <span style="float: right;"> [:fontawesome-solid-film:](https://youtu.be/8UfDMEfEcIc)  </span>
 
 {{ custom_button("See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists", color="gray") }}
 
