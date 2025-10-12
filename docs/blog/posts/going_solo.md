@@ -5,7 +5,7 @@ date:
   updated:  2025-04-10
 draft: false
 categories: 
-    - robotics
+    - personal
 authors:
   - kim
 comments: true
