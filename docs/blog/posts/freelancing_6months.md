@@ -3,7 +3,7 @@ title: "Six Months Down The Freelancing Road"
 date:
   created: 2025-10-12
   updated: 2025-10-12
-draft: true
+draft: false
 categories: 
     - personal
 authors:
