@@ -34,7 +34,7 @@ Still, I'm surprised by the number of questions I get from various people about 
 ![image](images/robot_arm_puzzle.png){width=500 .center}
 *<p style="text-align: center;">Working on a robot arm as personal project</p>*
 
-## How to Freelance, Though?
+## Freelancing formats?
 
 When I started in April, I felt that I still needed to try freelancing out in a more casual atmosphere. Since in Sweden it's quite the process and responsibility to start your own company (even as a sole proprietorship), I felt it might be best to use an intermediary freelance company (_egenanställd företag_ as it's called here in Sweden). This means I can still find and communicate with my own clients, but all agreements and invoicing go through one of these registered companies, which handles my salary according to Swedish law, and I can make use of their insurance too. This, of course, goes for a certain percentage of the earnings, which makes perfect sense.
 
