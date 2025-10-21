@@ -2,7 +2,7 @@
 title: "Six Months Down The Freelancing Road"
 date:
   created: 2025-10-12
-  updated: 2025-10-12
+  updated: 2025-10-21
 draft: false
 categories: 
     - personal
@@ -54,7 +54,9 @@ Looking back, a tip I can already give people: think about your timing. I though
 
 So what do you do when all your clients are on summer vacation? I did have quite some time to work on my own projects during this slow period, and this was also the moment where I decided to try out... streaming! So there I went, first with a couple of streams about ROS-Gazebo on Windows and WSL2, and then some tutorial streams about working with O3DE. With the latter, since I didn't know it that well yet, I thought perhaps the best way to learn was to do a project and present that project in tutorial style, live, on a stream.
 
-I do find learning quite important, and if I can combine this with showing things on a stream, then I can do two things in one go. However, at the time, I already saw that learning about a new framework while simultaneously working on a project, preparing a tutorial, and presenting this material live... is a lot of work... and not sustainable if I would actually start with assignments myself.
+I do find learning quite important, and if I can combine this with showing things on a stream, then I can do two things in one go. However, at the time, I already saw that learning about a new framework while simultaneously working on a project, preparing a tutorial, and presenting this material live... is a lot of work... and not sustainable if I would actually start with assignments myself. 
+
+> Update: Still, I managed to get a pretty cool tutorial out and happy with the result. Check out [this blogpost about the Roboball tutorial](https://o3de.org/roboball-starting-with-o3de-as-a-robotics-engineer/) I wrote for O3DE!
 
 I still stream to this day, but I've converted to a format that's called ["Lofi builds."](https://www.youtube.com/watch?v=To5IaJ_1NLs&list=PLGc4DU2LvhJnJxW3_Wyuw3EzqIk4zoK4U) I don't take people by the hand through a project anymore, but it's just me working on these projects on a table with some music in the background. Less preparation, nice music, and it still forces me to learn something or to advance in a project at least (albeit at a lower pace than the tutorial frenzy I did before). Maybe not the most exciting content, but this is something that works very much in my current schedule, and I guess that's the most important thing—to have something that you can keep up with in the long haul.
 
