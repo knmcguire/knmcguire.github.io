@@ -9,6 +9,25 @@ async src="//gc.zgo.at/count.js"></script>
 
 ____
 
+## Open 3D Engine - Robotics 
+_2025 - now - Freelancer_
+
+![roboball](images\roboball.png){ width="300" }
+
+During the summer I've learned to work with the Open 3D engine. I've managed to make a basic tutorial to make an autonomus roboball in that engine. This project is still ongoing!
+
+* Blogposts: [:fontawesome-solid-file-lines:](https://o3de.org/roboball-starting-with-o3de-as-a-robotics-engineer/)
+* Videos: [:fontawesome-solid-film:](https://youtu.be/qON_ox6lvYs) [:fontawesome-solid-film:](https://youtu.be/NntJrInIV6k) [:fontawesome-solid-film:](https://youtu.be/68C_hKMx7hg) [:fontawesome-solid-film:](https://youtu.be/ON2Ij8iYeks) [:fontawesome-solid-film:](https://youtu.be/6jUnmfD0jzs) [:fontawesome-solid-film:](https://youtu.be/l3ZbGZEtiuU)
+* Part of Open Source Summit Europe Keynote [:fontawesome-solid-film:](https://youtu.be/HTsXCDTch2I)
+
+<div class="label-container">
+    {{ skill_label("Simulation") }}
+    {{ skill_label("O3DE") }}
+    {{ skill_label("Lua") }}
+    {{ skill_label("Game dev") }}
+</div>
+
+
 ## Robotics on Windows
 _2025 - 2025 - Freelancer_
 
@@ -20,7 +39,7 @@ I've experimented quite a bit to see if I could improve the experience for devel
 **Related Links**
 
 * Blogposts: [:fontawesome-solid-file-lines:](blog\posts\ros2_across_the_windowverse.md) [:fontawesome-solid-file-lines:](blog\posts\windows_with_robotics.md) 
-* Videos: : [:fontawesome-solid-film:](https://youtu.be/Now20d-wHj4) [:fontawesome-solid-film:](https://youtu.be/rpQmtDMyus0)
+* Videos: [:fontawesome-solid-film:](https://youtu.be/Now20d-wHj4) [:fontawesome-solid-film:](https://youtu.be/rpQmtDMyus0)
 
 * ROSCon 2024 Presentation :fontawesome-solid-film:
 
@@ -31,7 +50,7 @@ I've experimented quite a bit to see if I could improve the experience for devel
     {{ skill_label("WSL2") }}
     {{ skill_label("Aerial") }}
     {{ skill_label("Simulation") }}
-
+    {{ skill_label("CI") }}
 </div>
 ___
 
@@ -123,7 +142,7 @@ ___
 
 
 
-## Game development learning path
+## Unity - Learning Game Development Basics
 _2020 - 2021 - Personal_
 
 ![mapping crazyflie](images/unity.png){ width="300" }
