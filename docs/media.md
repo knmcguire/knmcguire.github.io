@@ -7,11 +7,11 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 ## Talks :fontawesome-solid-person-chalkboard:
 
+* [ROSCon 2025](https://roscon.ros.org/2025/) _Practical Guide for ROS 2 on Windows_ <span style="float: right;">:fontawesome-solid-film:</span>
+
 * [ROSCon UK 2025](https://roscon.org.uk/2025/) _ROS taking Flight: more Adventures in Aerial Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/showcase/11908222)</span>
 
 * [Open Source Summit Europe 2025](https://events.linuxfoundation.org/open-source-summit-europe/) _Up, Up, and Away: Adventures in Aerial Robotics_ **selected as Keynote speech** together with Ramon Roche <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/HTsXCDTch2I)</span>
-
-* [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span>
 
 * [Robotics Developer Day 2024](https://www.theconstruct.ai/robotics-developers-day/)  _ROS 2 with a Tiny Quadcopter_  **Winner of the best speaker award** <span style="float: right;">[:fontawesome-solid-film:](https://youtu.be/rtgt9Z1cPas)   </span>
 
@@ -19,6 +19,7 @@ ___
 
 {{ custom_button("See more talks and lectures at my Youtube playlists :fontawesome-brands-youtube:", "https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists", color="gray") }}
 
+<!-- * [ROSCon 2024](https://roscon.ros.org/2024) _The Lighthouse project: Onboard Positioning for Robotics_ <span style="float: right;">[:fontawesome-solid-film:](https://vimeo.com/1024972070)</span> -->
 ___
 ## Publications :fontawesome-solid-pen:
 
