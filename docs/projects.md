@@ -7,7 +7,33 @@ ___
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
+____
 
+## Robotics on Windows
+_2025 - 2025 - Freelancer_
+
+![windows_blog](blog\posts\images\win_gz_ros2_teleop_wsl2_rqtrviz2.png){ width="300" }
+
+
+I've experimented quite a bit to see if I could improve the experience for developing for ROS 2 on Windows, for myself and also sharing those tips with others. Here I've gained much experience on working with WSL2, Pixi and Windows in CI.
+
+**Related Links**
+
+* Blogposts: [:fontawesome-solid-file-lines:](blog\posts\ros2_across_the_windowverse.md) [:fontawesome-solid-file-lines:](blog\posts\windows_with_robotics.md) 
+* Videos: : [:fontawesome-solid-film:](https://youtu.be/Now20d-wHj4) [:fontawesome-solid-film:](https://youtu.be/rpQmtDMyus0)
+
+* ROSCon 2024 Presentation :fontawesome-solid-film:
+
+<div class="label-container">
+    {{ skill_label("Gazebo") }}
+    {{ skill_label("ROS") }}
+    {{ skill_label("Windows") }}
+    {{ skill_label("WSL2") }}
+    {{ skill_label("Aerial") }}
+    {{ skill_label("Simulation") }}
+
+</div>
+___
 
 ## ROS 2 Navigation with a nano-quadcopter 
 _2022 - 2024 - Bitcraze_
