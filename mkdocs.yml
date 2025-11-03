@@ -10,6 +10,7 @@ theme:
     accent: teal
   custom_dir: overrides
 
+
 plugins:
   - search
   - macros
@@ -28,7 +29,11 @@ plugins:
 
 site_dir: _site
 
-not_in_nav: projects/*
+not_in_nav: |
+  projects/*
+  blog/o3de_blogposts/*
+  blog/old_bitcraze_blogposts/*  
+
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css

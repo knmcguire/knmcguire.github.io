@@ -70,11 +70,11 @@ ___
 <!--![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }-->
 
 
-* _2024 - now_:&nbsp; **Diversity Co-chair** [ROSCon 2024](https://roscon.ros.org/2024/) <span style="float: right;">:dk:</span>
+* _2024 - 2025_:&nbsp; **Diversity Co-chair** [ROSCon](https://roscon.ros.org/) <span style="float: right;">:sg:</span>
 
 * _2023 - now_:&nbsp; **Co-lead** [Aerial ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
 
-* _2023 - now_:&nbsp; **Member level 2** [Toastmasters](https://www.toastmasters.org/) <span style="float: right;">:se:</span>
+* _2023 - 2025_:&nbsp; **Member level 2** [Toastmasters](https://www.toastmasters.org/) <span style="float: right;">:se:</span>
 
 * _2015 - 2018_: **Organisation** RoboCup Jr. <span style="float: right;">:nl:</span>
 
