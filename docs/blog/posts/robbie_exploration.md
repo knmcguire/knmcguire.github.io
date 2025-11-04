@@ -26,6 +26,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 <!-- more -->
 
-<center>![Web comic with 3 panels with as title 'Robbie Rambot: going exploring'. In the first panel, the robot called robbie is in a glass capsule and says' They shrank me and put me in this capsule, so if you swallow and this pill... I can see and map your insides, to make sure it all still looks healthy.  On the last panel robbie looks forward and says 'ALso, I get to judge your eating habbits cause... my god' ](images/robbie_exploration_lowres.png)</center>
+![Web comic with 3 panels with as title 'Robbie Rambot: going exploring'. In the first panel, the robot called robbie is in a glass capsule and says' They shrank me and put me in this capsule, so if you swallow and this pill... I can see and map your insides, to make sure it all still looks healthy.  On the last panel robbie looks forward and says 'ALso, I get to judge your eating habbits cause... my god' ](images/robbie_exploration_lowres.png)
 
 Give comments here below for feedback :robot:

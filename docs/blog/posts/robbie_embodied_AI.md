@@ -23,6 +23,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 <!-- more -->
 
-<center>![robbie_embodied_tumbnail](images/robbie_embodied_AI_lowres.png)</center>
+![robbie_embodied_tumbnail](images/robbie_embodied_AI_lowres.png)
 
 Give comments here below for feedback :smile:

@@ -21,6 +21,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 <!-- more -->
 
-<center>![robbie_loop_closure_tumbnail](images/robbie_loopclosure_lowres.png)</center>
+![robbie_loop_closure_tumbnail](images/robbie_loopclosure_lowres.png)
 
 What do you think? I'm planning too release one of these every week at Sunday, so there are some better od ones coming up for sure :wink:

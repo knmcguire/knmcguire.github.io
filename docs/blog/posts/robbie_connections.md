@@ -23,6 +23,6 @@ s
 
 <!-- more -->
 
-<center>![robbie_making_connections](images/robbie_connections_lowres.png)</center>
+![robbie_making_connections](images/robbie_connections_lowres.png)
 
 Give comments here below for feedback :robot:

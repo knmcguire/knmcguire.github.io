@@ -23,6 +23,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 <!-- more -->
 
-<center>![Web comic with 3 panels with as title 'Robbie Rambot: Being igorned'. In the first panel, Robbie says Hi! to another Robot.  On the second panel you see that the 'Hi!' is burned and disseapears. On the 3rd panel, the complete message is gone, and Robbie looks at the reader and says 'So Rude'. The other robot has the colors of a windows machine](images/robbie_firewall_lowres.png)</center>
+![Web comic with 3 panels with as title 'Robbie Rambot: Being igorned'. In the first panel, Robbie says Hi! to another Robot.  On the second panel you see that the 'Hi!' is burned and disseapears. On the 3rd panel, the complete message is gone, and Robbie looks at the reader and says 'So Rude'. The other robot has the colors of a windows machine](images/robbie_firewall_lowres.png)
 
 Give comments here below for feedback :robot:

@@ -23,6 +23,6 @@ async src="//gc.zgo.at/count.js"></script>
 
 <!-- more -->
 
-<center>![Web comic with two panels with as title 'Robbie: not a humanoid'. In the first panel, a simple robot named Robbie is addressing the reader, saying 'For those obsessed on how my full body looks like, I have now choice to reveal myself'. In the second panel, Robbie shows his full  body, which is not an humanoid robot body and says 'Tada! Now stop projecting'](images/robbie_reveals_lowres.png)</center>
+![Web comic with two panels with as title 'Robbie: not a humanoid'. In the first panel, a simple robot named Robbie is addressing the reader, saying 'For those obsessed on how my full body looks like, I have now choice to reveal myself'. In the second panel, Robbie shows his full  body, which is not an humanoid robot body and says 'Tada! Now stop projecting'](images/robbie_reveals_lowres.png)
 
 Give comments here below for feedback :robot:
