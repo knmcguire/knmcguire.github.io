@@ -26,8 +26,8 @@ _Here is my first blogpost on my new website! It will be a little bit about me, 
 So... here we are, my first blog post! Well... not exactly my first blog post since I've written [over 70 blog posts during my time at Bitcraze](https://www.bitcraze.io/author/kimberly/), so I guess I'm not exactly a 'beginner'. But since I no longer work there and am now out in the big world... perhaps it would be good to have a central space to record some of my weird, random, but maybe useful to someone, thoughts. [LinkedIn](https://www.linkedin.com/in/knmcguire/) is a good place for that, but maybe not everything is equally suitable for that platform. Just as not all LinkedIn-type posts would be suitable for [X](https://www.x.com/k_n_mcguire/) or [Mastodon](https://fosstodon.org/@k_n_mcguire) either. So here you go, a neutral ground for blog posts where I can share all the cool projects I'm working on, some personal journeys, and perhaps some artwork here and there. Then afterwards, I can always decide on which social media platform it will be suitable for.
 
 
-<center>![Me on a holiday in Madrid Autumn 2024](images/kim-madrid.jpg){ width="300" } <br>
-_Me on a holiday in Madrid Autumn 2024_</center>
+![Me on a holiday in Madrid Autumn 2024](images/kim-madrid.jpg){ width="300" } <br>
+_Me on a holiday in Madrid Autumn 2024_
 
 
 ## A Little About Me *
@@ -43,8 +43,8 @@ I grew up near Amsterdam (a small town called Hoofddorp), but I've studied for a
 
 So I am a robotics engineer, and for my PhD, I focused on swarm robotics with small drones. That got me into contact with Bitcraze to come and work for them with the Crazyflie. I first started out with more embedded software engineering, but a few years in, I focused more on robotic integration and simulation and started working with ROS and Gazebo again. After meeting Ramon Roche from Dronecode at [ROSCon 2022 Kyoto](https://roscon.ros.org/2022/), we decided to start up the [community interest group for ROS in Aerial Robotics](https://github.com/ROS-Aerial)s, and we are still organizing meetings every month (there is [one meeting next week](https://discourse.ros.org/t/aerial-robotics-meeting-february-20th-2025/42012) if you are interested!). Also, I co-maintain the Crazyswarm2 project together with Wolfgang Hönig. Two things I'm pretty proud of are the Best Speaker award I got for the [Robotics Developer Day talk I did in 2024](https://youtu.be/rtgt9Z1cPas), and the [Science Robotics paper](https://robotics.sciencemag.org/content/4/35/eaaw9710) I published at the end of my PhD.
 
-<center>![prize](images/kim-prize.png){ width="300" } <br>
-_The prize I won last summer_</center>
+![prize](images/kim-prize.png){ width="300" } <br>
+_The prize I won last summer_
 
 Other than that, I've recently noticed I love communicating and working together with external collaborators. I guess that is why I helped start the ROS-aerial group, and so far, I've been part of multiple committees to organize workshops and developer rooms at ICRA, RSS, and FOSDEM. When I was still working at Bitcraze, I would talk with researchers a lot and occasionally visit them. Sometimes I do get a bit overenthusiastic and try to help wherever I can, but that is perhaps a part of me that I sometimes need to control. Can't help everyone with all their projects, so I'll have to learn how to prioritize what I'd like to do and where my skills would be the most suitable. And that latter is quite difficult if you have impostor syndrome like me (they will come for my diplomas one day, I just know it!). Luckily I found out that I'm not the only one with this affliction.
 

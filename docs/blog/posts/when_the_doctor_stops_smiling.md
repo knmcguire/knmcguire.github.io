@@ -67,7 +67,7 @@ I managed to get through radiation and treatment, and , the tumor responded well
 Looking back, it’s almost ridiculous how nervous I was about the colonoscopy itself, which turned out to be completely manageable—far from the "ordeal" some had described. If I had known what was coming, I wouldn’t have delayed it for work trips or convenience. They could have caught it even earlier. I got the drawing the doctor drew with me, and now looking at it, I could hardly see the Xs he drew, but back then, they's Xs felt huge to me. It's crazy how that goes with memory
 
 
-<center>![](images/drawing-intestines.jpg)</center>
+![](images/drawing-intestines.jpg)
 
 
 My doctor and I were both convinced my symptoms were nothing serious, simply because I was young. But colorectal cancer is rising in young people. Since March is Colorectal Cancer Awareness Month, I’m sharing my story in the hope that it encourages others to take symptoms seriously. If you experience blood in your stool, mucus, diarrhea, constipation, or unexplained weight loss, don’t dismiss it. Talk to your doctor. Even many physicians aren’t fully aware of how much this disease is affecting younger people. Early detection drastically improves outcomes.

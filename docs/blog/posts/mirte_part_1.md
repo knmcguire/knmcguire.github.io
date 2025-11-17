@@ -33,26 +33,26 @@ I know Martin from my time on the organizing committee of the RoboCup Junior (NL
 
 ## Building  MIRTE
 
-<center>![MIRTE robot overview](images/mirte_overview.png){ width="300" }</center>
+![MIRTE robot overview](images/mirte_overview.png){ width="300" }
 
 So, I got the building materials for the MIRTE Pioneer, but there are other versions as well that have fewer capabilities but are more suitable for kids or students who are just getting started. I've made a picture of everything that came in the box, which are all (almost) off-the-shelf components. The version I had did include the 'MIRTE PCB,' for which the KiCad files are available under the CERN open hardware license, but the [MIRTE website](https://mirte.org/) also provides instructions to connect all the sensors through wires and a breadboard. Additionally, I've received a whole bunch of sensors like sonar, camera, infrared sensors, and some screens. How will it all fit!
 
-<center>![MIRTE robot done](images/mirte_expansion.jpg){ width="300" }</center>
+![MIRTE robot done](images/mirte_expansion.jpg){ width="300" }
 
 So once I had investigated all the materials, I followed the building instructions on the [MIRTE website](https://mirte.org/). The visual instructions made it quite easy to put things together. But I was more impressed with the clever design of the base itself. The Orange PI board and the MIRTE PCB were attached with screws along with some sensors, but the base itself could be assembled without using even one screw. Even the motors for the wheels could be easily clicked into place. Also, in the front part of the base, there were modules for the sensors that could be clicked in facing forward and changed to other sensors depending on the application of the project. This is a very handy feature.
 
 
-<center>![MIRTE robot done](images/mirte_done.jpg){ width="300" }</center>
+![MIRTE robot done](images/mirte_done.jpg){ width="300" }
 
 Here is a video of the full build:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JcqcggjcqF8?si=GLnWwj4mbfMycYdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcqcggjcqF8?si=GLnWwj4mbfMycYdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Connecting and driving MIRTE
 
 So once I had inserted the flashed SD card, I was able to connect with MIRTE since it initializes as a WiFi access point. The web UI is where I could input the SSID and password of the access point that I'd like the MIRTE to connect to instead. Since I am currently running Windows (yeah yeah, I know the torture I put myself through), I'll skip it for now because I know what kind of network issues I'll be getting with that, and I want to get driving right away!
 
-<center>![MIRTE robot web GUI](images/mirte_gui.png){ width="400" }</center>
+![MIRTE robot web GUI](images/mirte_gui.png){ width="400" }
 
 In this web UI, I can also test the sensors. I've attached 2 distance sensors on the sides and one camera. The camera isn't shown on the GUI yet, but I can already test out the right and left distance sensors. Additionally, it contains a simple control panel so that I can remote control the MIRTE and chase my cats!
 
@@ -77,7 +77,7 @@ And that is what a Braitenburg robot is, where the sensors are directly connecte
 See here the full video of testing the distance sensors and wheels, and making the MIRTE drive autonomously based on a Braitenburg vehicle control.
 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/CBb7-vnnBmc?si=iLKSgSTNvPmbG5Hd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CBb7-vnnBmc?si=iLKSgSTNvPmbG5Hd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conclusion and what is next?
 So I'll leave the MIRTE alone after that (tiny) crash since I need to figure out how to access the camera and think about what other sensors I can add. For instance, I do have an AOK-D Lite camera and a small lidar I can put on top. And how about a small arm or gripper? So many possibilities, but I'll wait until my unconscious roboticist wakes me up in the middle of the night with a good plan. But all in all, the MIRTE is a really nice platform, and the base is quite sturdy as well. The web UI to control it and define the sensors is very well thought out too. The project is still in development, and I'll make sure to share my notes for improvement with the developers (or contribute). But I can't wait for the ROS 2 packages to come out for this robot so that I can connect it with NAV 2, Gazebo harmonic, or have a Crazyflie land on it perhaps?

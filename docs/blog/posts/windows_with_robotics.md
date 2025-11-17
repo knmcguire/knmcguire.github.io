@@ -69,12 +69,12 @@ After my time at Bitcraze, during my 'mini-retirement', I wanted to reinstall my
 
 So once I got a fresh install of Windows 11, the absolute first thing I've tried out was the [new install instructions for ROS 2 on windows](https://github.com/ros2/ros2_documentation/pull/4989). Unfortunately, since the binaries/zip files weren't available, I went straight for the hardcore source install. They are now recommending using Pixi as the environment, which before it was only Miniconda. Sure, I had to wait half a day for all the essential ROS 2 packages to build and install, and fix a couple of errors here and there, but my god, what a breeze. Since it is now possible with the pixi.toml file to set up the environment exactly as it is supposed to, I had it working in a day! And check this out... here is a picture of ROS 2 Jazzy on WSL2 as listener and ROS 2 Jazzy on Windows 11 natively as talker! I felt just like a proud parent when this happened :blush:
 
-<center>![One terminal in the windows sub system running a ROS 2 listener and ROS 2 natively on Windows running a talker](images/wslwinros
-.png)</center>
+![One terminal in the windows sub system running a ROS 2 listener and ROS 2 natively on Windows running a talker](images/wslwinros
+.png)
 
 But how about the GUI issues? That was still putting me off. Not only the GPU access issues and the low FPS of the browser refresh rate, but also the fact that sometimes, the WSL GUI just disappears and I can't retrieve it, and the only way to access it is to restart WSL2... Well, not anymore! Here a robot description ROS launched from WSL Ubuntu 24.04 and RVIZ2 from Windows with none of that issue. The only issue, of course, is the model will need to be fully described from the robot description, so if there is a model (STL or Collada) referred to in the robot description, you'll get an error, of course, since the native Windows RVIZ2 can't find it. Still room for improvement.
 
-<center>![One terminal in the windows sub system startin up a robot description and ROS 2 natively on Windows running rviz2](images/rviz_wsl_windows.png)</center>
+![One terminal in the windows sub system startin up a robot description and ROS 2 natively on Windows running rviz2](images/rviz_wsl_windows.png)
 
 ## 2026 - ...: Full Windows without WLS2?
 
