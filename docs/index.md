@@ -17,7 +17,7 @@ Hi, I'm Kimberly! I am an independent roboticist with a background in aerial rob
   <br>
     <br> 
 
-<span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20250919.pdf)</span>   
+<span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20251219.pdf)</span>   
 <span style="float: right;">[My Portfolio :fontawesome-solid-folder-open:](/projects)</span> 
   <br>
 <span style="float: right;">[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
