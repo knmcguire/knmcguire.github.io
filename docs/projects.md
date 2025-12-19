@@ -2,10 +2,32 @@
 title: "Projects"
 ---
 
-___
-
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
+
+___
+
+
+
+## Aerial Robotics Simulation Investigation
+_2025 - now - Freelancer_
+![px4 simulation](https://www.mcguirerobotics.com/px4_sim_research_report/docs/images/front_image.jpg){ width="300" }
+
+![roboball](images\roboball.png){ width="300" }
+
+I've done an investigation and survey within the PX4 developer community about their needs for the simulation intergration. This work was sponsored by the Dronecode Foundation.
+
+* Presentations about the survey: [:fontawesome-solid-film:](https://youtu.be/zGxuXFUkEnk) [:fontawesome-solid-film:](https://vimeo.com/1139494825) 
+* The final PX4 simulation survey report [:fontawesome-solid-file-lines:](https://www.mcguirerobotics.com/px4_sim_research_report/)
+* The best-of-robot-simulators list [:fontawesome-solid-file-lines:](https://github.com/knmcguire/best-of-robot-simulators)
+
+<div class="label-container">
+    {{ skill_label("Simulation") }}
+    {{ skill_label("Gazebo") }}
+    {{ skill_label("Research") }}
+    {{ skill_label("PX4") }}
+</div>
+
 
 ____
 
@@ -14,7 +36,7 @@ _2025 - now - Freelancer_
 
 ![roboball](images\roboball.png){ width="300" }
 
-During the summer I've learned to work with the Open 3D engine. I've managed to make a basic tutorial to make an autonomus roboball in that engine. This project is still ongoing!
+During the summer I've learned to work with the Open 3D engine. I've managed to make a basic tutorial to make an autonomous roboball in that engine. This project was sponsored by the Open 3D Foundation.
 
 * Blogposts: [:fontawesome-solid-file-lines:](https://o3de.org/roboball-starting-with-o3de-as-a-robotics-engineer/)
 * Videos: [:fontawesome-solid-film:](https://youtu.be/qON_ox6lvYs) [:fontawesome-solid-film:](https://youtu.be/NntJrInIV6k) [:fontawesome-solid-film:](https://youtu.be/68C_hKMx7hg) [:fontawesome-solid-film:](https://youtu.be/ON2Ij8iYeks) [:fontawesome-solid-film:](https://youtu.be/6jUnmfD0jzs) [:fontawesome-solid-film:](https://youtu.be/l3ZbGZEtiuU)
@@ -27,6 +49,7 @@ During the summer I've learned to work with the Open 3D engine. I've managed to 
     {{ skill_label("Game dev") }}
 </div>
 
+____
 
 ## Robotics on Windows
 _2025 - 2025 - Freelancer_
@@ -40,8 +63,7 @@ I've experimented quite a bit to see if I could improve the experience for devel
 
 * Blogposts: [:fontawesome-solid-file-lines:](blog\posts\ros2_across_the_windowverse.md) [:fontawesome-solid-file-lines:](blog\posts\windows_with_robotics.md) 
 * Videos: [:fontawesome-solid-film:](https://youtu.be/Now20d-wHj4) [:fontawesome-solid-film:](https://youtu.be/rpQmtDMyus0)
-
-* ROSCon 2024 Presentation :fontawesome-solid-film:
+* ROSCon 2025 Presentation [:fontawesome-solid-film:](https://vimeo.com/1136377428)
 
 <div class="label-container">
     {{ skill_label("Gazebo") }}
@@ -201,6 +223,7 @@ I've researched how a swarm of tiny quadcopters can autonomously fly indoors wit
         {{ skill_label("CAD") }}
     {{ skill_label("Simulation") }}
     {{ skill_label("Crazyflie") }}
+    {{ skill_label("Research") }}
 
 </div>
 
@@ -291,7 +314,7 @@ I've developed a neural network model for the stabilization of the cameras of a 
         {{ skill_label("CAD") }}
     {{ skill_label("Simulation") }}
     {{ skill_label("Keras") }}
-
+    {{ skill_label("Research") }}
 </div>
 
 ___
