@@ -11,15 +11,14 @@ ___
 
 ## Aerial Robotics Simulation Investigation
 _2025 - now - Freelancer_
-![px4 simulation](https://www.mcguirerobotics.com/px4_sim_research_report/docs/images/front_image.jpg){ width="300" }
 
-![roboball](images\roboball.png){ width="300" }
+![px4 simulation](https://www.mcguirerobotics.com/px4_sim_research_report/docs/images/front_image.jpg){ width="300" }
 
 I've done an investigation and survey within the PX4 developer community about their needs for the simulation intergration. This work was sponsored by the Dronecode Foundation.
 
 * Presentations about the survey: [:fontawesome-solid-film:](https://youtu.be/zGxuXFUkEnk) [:fontawesome-solid-film:](https://vimeo.com/1139494825) 
-* The final PX4 simulation survey report [:fontawesome-solid-file-lines:](https://www.mcguirerobotics.com/px4_sim_research_report/)
-* The best-of-robot-simulators list [:fontawesome-solid-file-lines:](https://github.com/knmcguire/best-of-robot-simulators)
+* The final PX4 simulation survey report: [:fontawesome-solid-file-lines:](https://www.mcguirerobotics.com/px4_sim_research_report/)
+* The best-of-robot-simulators list: [:fontawesome-solid-file-lines:](https://github.com/knmcguire/best-of-robot-simulators)
 
 <div class="label-container">
     {{ skill_label("Simulation") }}
