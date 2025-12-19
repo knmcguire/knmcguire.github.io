@@ -9,6 +9,10 @@ categories:
 authors:
   - kim
 comments: false
+links:
+  - Video of theh build: https://youtu.be/CBb7-QeYRp5nnuAs2UMEt
+  - SO-100 build instructions: https://github.com/TheRobotStudio/SO-ARM100
+  - SO-100 experimental ROS package: https://github.com/brukg/SO-100-arm
 ---
 
 
@@ -20,7 +24,7 @@ _It is always good to be reminded on how hard robotics can be! I got a taste of 
 <!-- more -->
 
 This summer I tried something new! I've done a lot of simulation, swarm robotics and aerial vehicles in my career, with mostly vision in the mix. I just have never worked with robot arms, aka manipulators before! Time to change that, and this summer after receiving my shiny new 3D printer I thought, let's try out that fancy S0-100 arm that everyone is raving about! I'm sure it is fully intergrated into ROS 2 so I could started right away.
-
+ncp
 ## Building the arm!
 
 The [build of the SO-100](https://github.com/TheRobotStudio/SO-ARM100) was suprisingly easy! Sure, I had to wait a few weeks to get the Feetech motors in, and my Bambu A1 mini had to do all nighters for a while, but once I had those in I was all ready to go! I only was a bit late to notice that I wasn't printing out the new fancy S0-101 version, but luckily it used exactly the same motors. The other things like the adapter, usb cables and woodclamps were all locally sourcable at the local hobbystores here.
@@ -40,9 +44,9 @@ And for those that don't have the patience, there is a sped up version of the sa
 ## Controlling the arm
 
 
-Once I finished building the arm, I had a couple of conference to go to, and afterwards I wanted to get straight into it. I decided skip the official SO-100 control instructions (as I didn't order enough motors) and went straight into ROS! I didn't additionally build the teleopperation arm but since I saw that there was a [SO-100](https://index.ros.org/r/so_arm_100_hardware/#jazzy)! <That see >
+Once I finished building the arm, I had a couple of conference to go to, and afterwards I wanted to get straight into it. I decided skip the official SO-100 control instructions (as I didn't order enough motors) and went straight into ROS! I didn't additionally build the teleopperation arm but since I saw that there was a [SO-100 ROS package](https://index.ros.org/r/so_arm_100_hardware/#jazzy) started up by Bruk Gebregziabher. 
 
-At [ROSCon UK](https://roscon.org.uk/2025/) I've even followed an half day workshop that included [Moveit2](https://moveit.picknik.ai/main/index.html). The pervious ROS package was build so that it could serve this [this SO arm 100 arm project ](https://github.com/brukg/SO-100-arm). It proved to be a little harder than I thought, but after I figured out the calibration, I was able to make the robot arm move from one place to another. The project is was considereeed still experimental so the move-it intergration is not fully finished. So no... it was not able to pick up the puzzle pieces autonomously... yet!
+ The pervious ROS package was build so that it could serve this [this SO arm 100 arm project ](https://github.com/brukg/SO-100-arm). It proved to be a little harder than I thought, but after I figured out the calibration, I was able to make the robot arm move from one place to another. The project is was considereeed still experimental so the move-it intergration is not fully finished. So no... it was not able to pick up the puzzle pieces autonomously... yet!
 
 
 ![](images/robot_arm_puzzle.png)
