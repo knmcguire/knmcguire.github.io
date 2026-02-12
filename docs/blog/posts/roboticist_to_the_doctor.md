@@ -12,50 +12,48 @@ comments: false
 links:
 ---
 
-_This is probably the fastest that I have written a blogpost. First the news of sCatherine O'Hare dying from the complications of rectal cancer and just a few minutes ago... James Van Der Beek didn't survive his initial stage 3 cancer diagnosis in 2024... I had planned to write this blogpost for a while and wanted to wait until my 2 year mark, but when inspiration hit... you gotta go for it, especially if you were diagnosed with the exact same cancer as these great people._
+_This is probably the fastest I've ever written a blogpost. First the news of Catherine O'Hara dying from complications of rectal cancer, and then just a few minutes ago... James Van Der Beek didn't survive his stage 3 colorectal cancer diagnosis from 2024. I had planned to write this for a while and wanted to wait until my 2 year mark, but when inspiration hits... you gotta go for it, especially when you were diagnosed with the exact same cancer._
 
 <!-- more -->
 
-In any traumatic experience, let it be a desease, a tragegy or a war, each and everyone will find a different way through this journey. Some people might give you inspiration, others desperation and sometimes you need to find your own way to coop. Going through that first couple of months of my cancer diagnosis was one of the worst period of my live, but also one that I so vividely remember, that I also remember the glimmers of awe that felt a little more special due to the situation I went through. For me, this was the medical technology I came into touch with, and parallels I saw with my own field of robotics engineering. These were ankors that got me through from the next phase to the other, so I wanted to tell a couple of stories from that period that also highlighted the extra joy, of being a roboticist
+Going through those first couple of months of my cancer diagnosis was one of the worst periods of my life. But also one that I so vividly remember, that I also remember the glimmers of awe that felt a little more special due to what I was going through. Everyone finds their own way to cope, and for me, it was the medical technology I came into contact with and the parallels I saw with my own field of robotics engineering. These were anchors that got me through from one phase to the next, so I wanted to tell a couple of stories from that period that also highlighted the extra joy of being a roboticist.
 
-## Donuts of truth
+## The Donut of Truth
 
-There is one single unifying truth that all cancer patients go through... extensive scanning. THis is usually, and mine, first time that you experience these huge machines. You have a CT machine to look at the full body (usally with contrast fluid) which is a flat donut, the you have an MRI, which is a very thich donut, and all build for different purposes. In a CT scan, it goes very fast. There an automated system that tells you to hold your breath, detects that with a camera, and make you go in and out, and you are usually done within 5 minutes (unless you have a very chatty radiolist like I had laste time)
+One of the first scans I needed to do was an MRI. I had never done an MRI before and I was scared shitless. I never thought myself to be claustrophobic, but what if I was? And what if I was allergic to the contrast or whatever they'd inject into me? And of course... what would the result be. I did not sleep well the night before, that's for sure.
 
-All will be revealed in the Donut of Thruth - Dr. Robby in HBGo series the Pitt.
+On the scanning day itself, I got a headset to supposedly block out the sound. I figured I could perhaps count how many songs there were. I had a 30 minute scan, so it would last about 8 songs I reckon on the classic rock channel? I only didn't realize that I would have difficulty hearing those, because an MRI makes... a lot of sound. And it's not all the same sound either, it was constantly a different "tune", like a rave party with a good DJ.
 
+These are all different modes, caused by the switching of coils which change the magnetic field to excite different atoms in my body. I was quite glad that a friend sent me [this video](https://youtu.be/NlYXqRG7lus?si=ETeQl8Wv1YwDePNF) just before I went in, to help against my fear that I might have claustrophobia (spoiler... I apparently don't). Quite amazing technology.
 
-An MRI usually takes longer, and for me it takes about 20-30 minutes. I get a headset so that is exactly 6 classic rock songs, or 9 songs of the newer generation artist that tailor to the tiktok folk. But those headphones do not block out the sounds of an MRI machine at all. And all the sounds are different, which meant to detect all kinds of different types of tissues. A friend send me [this video](https://youtu.be/NlYXqRG7lus?si=ETeQl8Wv1YwDePNF) just before I went into one to help against my fear that I might have claustrophobia (spoiler... I apparently don't )
-
+> All will be revealed in the Donut of Truth - Dr. Robby in the HBO series The Pitt.
 
 ## Medical SLAM
 
-As part of the treatment, I had to go through a short course week of radiation before I started my chemotherapy. When I first went in for mapping in... another donut... I expected that I had to get marker tattoos as you would usually get so that the radialigst can align you as pricise as they can, except for that I didn't. WHen I went for my first dose of radiation, which was in a slighthly more thicker donut (between a CT scan and a MRI). For the next few days, I kept wondering how they could align me so well with only that! There were sure a lot of cameras in the ceiling though.. weird.
+As part of the treatment, I had to go through a short course of radiation before I started my chemotherapy. When I first went in for mapping in... another donut... I expected that I would get marker tattoos like you usually do, so that the radiologist can align you as precisely as they can, except... I didn't get any. When I went for my first dose of radiation, which was in a slightly thicker donut (somewhere between a CT scan and an MRI), I kept wondering for the next few days how they could align me so well without tattooss! There were sure a lot of cameras in the ceiling though... weird.
 
-It was only until day 3 that I noticed that the radioligst and assistent were not looking at me while aligning... they were looking at a screen behind. I was not supposed to move during this time, but I took a peek anyway, and what I saw was mind blowing.
+It was only on day 3 that I noticed the radiologist and assistant weren't looking at me while aligning... they were looking at a screen behind them. I was not supposed to move during this time, but I took a peek anyway, and what I saw was mind-blowing.
 
-They were SLAmming me!
+They were SLAMming me!
 
-I saw them aligning a 3D model of my belows with my current 3D representation, and it was green on the parts that were alligned and red on the parts that wasn't. THAT was what those cameras where fore, to make a 3D represenation of me (or at least a part of it). Now that was cool
+For those not in robotics: SLAM stands for Simultaneous Localization and Mapping, and it's one of the core techniques we use to help a robot figure out where it is in the world by building a map of its surroundings in real-time. And here it was, being used on me. I saw them aligning a 3D model of my pelvis with my current 3D representation, and it was green on the parts that were aligned and red on the parts that weren't. THAT was what those cameras were for, to build a 3D representation of me (or at least a part of it) and match it to the model. 
 
-## Geeking out over D'avinci
+Now that was cool.
 
-When I went through radiation and chemo, there was one thing that gloomed over me... surgery. This was not goint to be an easy one, as pretty much with LAR surgery they will take out the rectum. It will be attching two pipes with plumbing that just doesn't really fit, and a bit of a risk as well. I did not want to get this surgery... for one exception... they were planning to do this with a D'Avinci surgery robot. Me as a roboticist, this was something that got me over the future fear of getting this treatment, the fact that I'd be gettin surgery with this.
+## Geeking out over Da Vinci
 
-When I heard that I responded so well that we could do non-operative managment (wait-and-watch), I was actually... slightly dissapointed. 
+Throughout the entire treatment, there was one thing that loomed over me... surgery. And of course I didn't want to get it as it was considered a risky one. But there was one thing that got me past the fear of this entirely. The fact that I'd be getting surgery with the assistance of the famous Da Vinci surgical robot!
 
-But ofcourse only for a little while!
+When I heard that I had responded so well that we could do non-operative management (wait-and-watch), I was actually... slightly disappointed. (But of course only for a little while!)
 
-1.5 years later, when I visited some good friends in London, I went together to the science museum. And they had an medical technology history departement! And ofcourse, there it was, an older version of the d'avinci robot. Ofcourse I went over it straight away and completely geeked out. Right next to me, there was a man, about my age that was doing the same. He actually got surgery with it, namely a liver resection. I should have asked for an authograph there, but I realized what that type of surgery meant, so I asked him what the cause is.
+A little over 1.5 years later, when I visited some good friends in London, we went together to the Science Museum. They had a medical technology history department, and of course, there it was: an older version of the Da Vinci robot. I went over to it straight away and completely geeked out. Right next to me, there was a man about my age doing the same. He had actually gotten surgery with it, namely a liver resection. I should have asked for an autograph right there, but then I realized what that type of surgery meant, so I asked him what the cause was.
 
-Liver methsis due to stage 4 coloncancer.
+Liver metastasis due to stage 4 colon cancer.
 
-Still, geeking out about the technology that prolongend his live like we were at the front seat of a concert of our favorite band.  Should have gotten an authograph. I hope he is doing well
+Still, there we were, geeking out about the technology that prolonged his life, like we were in the front row of a concert of our favorite band. I hope he is still rocking away!
 
-## The outlook on life
+## Identities that carry you
 
-When I watched the interview from James van der beek when I hfirst announced his cancer diagnosis, and along with the one he gave just a few months before he passed, that he was able to quickly see the postivie side of his diagnosis. I can agree with this, and as soon as you go through the rythm of treatment and scanning afterwards, you do get into this serene state where you learn how to appriciate the little things.
+I will soon hit my 2 year scan mark, which is a very important milestone in my recovery. And looking back at the journey so far, these stories are perhaps more about identity than they are about the technology. It is about the fact that you can be amazed by what is currently possible, and the stories that stick around because of it. These are parts of us as human beings that propel us forward. It is not about the end goal, but about the moments that you can enjoy right now.
 
-Myself, I see this as a reminder to do the same, and keep adapting my life and work in a way that is satisfying to me and keep peeking my interest. It's been a year of discovery of a lot of trials and errors, but that is all part of the journey. I will soon hit my 2 year scan mark, which is an very important milestone in my recovery, and after I'm quite happy to say that I have more things to talk about than just my cancer. However, being a cancer patient is an experience help me through future hardships, just as being a roboticist has helped me through some of my cancer journey.
-
-
+I am a roboticist, and have been for many years. That fact has helped me get through some of the hardest periods of my life, along with the great community that comes with it. But it's not the only part. I've rediscovered my creative side as well, which also propelled me through some of those periods and still does to this day. And I'm sure that other parts of me, like having gone through cancer, will help me in the future too.
