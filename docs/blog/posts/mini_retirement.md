@@ -15,7 +15,7 @@ comments: false
 async src="//gc.zgo.at/count.js"></script>
 
 
-[![](images/kim_madrid.jpg){width=100}](mini_riterement.md)
+[![](images/kim-madrid.jpg){width=100}](mini_riterement.md)
 
 
 
