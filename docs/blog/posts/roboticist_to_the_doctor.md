@@ -3,14 +3,19 @@ title: "A Robotics Engineer Goes to the Doctor"
 date:
   created: 2026-02-12
   updated: 2026-02-12
-draft: true
+draft: false
 categories: 
     - personal
 authors:
   - kim
-comments: false
+comments: true
 links:
+- Earlier blogpost I have written about my cancer: https://www.mcguirerobotics.com/blog/2025/03/29/when-the-doctor-stops-smiling/
+- Video about how MRIs work: https://youtu.be/NlYXqRG7lus?si=ETeQl8Wv1YwDePNF
 ---
+
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
 
 [![](images/science_museum_medical.png){width=100}](roboticist_to_the_doctor.md)
 
@@ -29,7 +34,7 @@ Throughout the entire treatment, there was one thing that loomed over me... surg
 
 But there was one thing that got me past the fear of this entirely. The fact that I'd be getting surgery with the assistance of the famous Da Vinci surgical robot!
 
-When I heard that I had responded so well that we could do non-operative management (wait-and-watch), I was actually... slightly disappointed. (But of course only for a little while!)
+When I heard that I had responded so well that we could do non-operative management (wait-and-watch), I was actually... slightly disappointed?
 
 ![image](images/science_museum_medical.png){width=500 .center}
 *<p style="text-align: center;">A colonoscope, a prototype MRI and an older version of the Da Vince surgical robot. Taken by me  at the Science Museum in London</p>*
