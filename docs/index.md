@@ -24,12 +24,11 @@ ___
 
 ## Highlights :fontawesome-solid-star:
 
-{{ custom_button("Key Note Speech Open Source Summit 2025 :fontawesome-solid-person-chalkboard: :fontawesome-solid-trophy:", "https://youtu.be/HTsXCDTch2I", color="teal") }}
+{{ custom_button("Key Note Speech Open Source Summit 2025 :fontawesome-solid-person-chalkboard:", "https://youtu.be/HTsXCDTch2I", color="teal") }}
 
 {{ custom_button("Science Robotics Paper :fontawesome-solid-pen:", "https://robotics.sciencemag.org/content/4/35/eaaw9710", color="gray") }}
 
 
-:fontawesome-solid-trophy: _Best Speaker Award_
 
 ___
 
