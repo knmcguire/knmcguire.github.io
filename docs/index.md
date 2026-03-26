@@ -12,8 +12,7 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 
 
-
-Hi, I'm Kimberly! I am an independent roboticist with a background in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured. Presently, I am engaged in a couple of robotic simulation projects.
+Hi, I'm Kimberly! I am an independent roboticist with a background in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured and mentored students. Presently, I am an self-employed robotics engineer consultant and active in multiple project within the ROS (Robotic Operating System).
   <br>
     <br> 
 
@@ -68,13 +67,13 @@ ___
 
 ## Communities :fontawesome-solid-users:
 <!--![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }-->
+* _2025 - now_:&nbsp; **Program Committee Co-chair** [ROSCon 2026](https://roscon.ros.org/) <span style="float: right;">:ca:</span>
 
+* _2025 - now_:&nbsp; **ROS Infrastructure Committer** [Infra project website](https://infrastructure.openrobotics.org/) <span style="float: right;">:fontawesome-solid-globe:</span>
 
-* _2024 - 2025_:&nbsp; **Diversity Co-chair** [ROSCon](https://roscon.ros.org/) <span style="float: right;">:sg:</span>
+* _2024 - 2025_:&nbsp; **Diversity Co-chair** [ROSCon 2025](https://roscon.ros.org/2025) <span style="float: right;">:sg:</span>
 
 * _2023 - now_:&nbsp; **Co-lead** [Aerial ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
-
-* _2023 - 2025_:&nbsp; **Member level 2** [Toastmasters](https://www.toastmasters.org/) <span style="float: right;">:se:</span>
 
 * _2015 - 2018_: **Organisation** RoboCup Jr. <span style="float: right;">:nl:</span>
 
