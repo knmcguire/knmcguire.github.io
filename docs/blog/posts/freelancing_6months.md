@@ -10,7 +10,7 @@ authors:
   - kim
 comments: true
 links:
-  - Flying Solo - Start of my Freelancing Career: https://www.mcguirerobotics.com/blog/2025/04/10/flying-solo/
+  - Flying Solo - Start of my Freelancing Career: https://www.mcguirerobotics.com/blog/2025/04/10/flying-solo---the-start-of-my-robotics-freelancing-career/
   - Lofi builds: https://www.youtube.com/watch?v=To5IaJ_1NLs&list=PLGc4DU2LvhJnJxW3_Wyuw3EzqIk4zoK4U
 ---
 
