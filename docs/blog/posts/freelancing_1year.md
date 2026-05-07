@@ -37,7 +37,15 @@ Moreover, one of the most important things that I value for freelancing is indep
 
 But still I won't lie, going for a limited company required A LOT more paperwork and requires much more administration. I did hire an accountant and a laywer to help out with some legal stuff so it wasn't that I was working on it solely by myself, but I did sometimes question if this all was worth for the projects that I am actually working on and my immediate plans to be still a 1-person company. But with that behind me and the avenues of possibilities still open me for the future... I would say that it definitely is worth it!
 
-## Manage my workload
+## Projects so far?
+
+There are a couple of assignments that I am currently doing or have already been passed. Unfortunately, not all of them I can openly share, but it does contain a mix of both R&D and robotics implementation. But I can share a couple that I can openly share though:
+
+I completed an investigation I did in assignment of Dronecode Foundation, which surveys the users of the PX4 simulation stack and figure out what the users needs are or what they are currently missing in the current stack. That resulted in a report with lots of graphs about the types of users, for which application they use it for and what their needs and expectations are. The results were both supricing and predicting but at least it allowed me to write a small recommendation of where the next developer efforts should go to. You can read the report [here](https://www.mcguirerobotics.com/px4_sim_research_report/), and I also gave a presentation during the [PX4 summit 2025 in Atlanta](https://youtu.be/zGxuXFUkEnk) about this as well.
+
+Early this year I also joined as external contractor the team of B-robotized for the AI for industry challenge with Jennifer Buehler as team leader! This is pretty much what is consuming my days nows as there is only a week out until the deadline of submission. The only reason why I wrote this blogpost is because I had a couple of hours of forced low internet quality time that I needed to fill in, because otherwise I am looking at the screen praying for the robot arm to tdetect the taskboard so it can plug in the cables! This competition is hardcore, but it is also a great learning stepping stone as I have not worked with manipulators before. Would I like to take on any manipulator assignments after this? who knows! but please ask me after the competiion has ended how I feel about it.
+
+## Manage my Project workload 
 
 One of the major things that I have learned, and am still learning... and probably will continue to learn is the future is how to balance my workload. When I just started out, I had a lot of free time to work on my own projects and occasianally blogpost about it, but as I got a couple of assignments, I just got sucked in that and really didn't have any time for the other things at all. Eventhough I did set a clear goal for myself to be able to still have space to creatively expand myself and take courses, that went down the drain as soon as there was a little big timepressure and stress involved.
 
@@ -63,7 +71,31 @@ My ros2 on windows work did also result in something intersting. As I mentioned,
 
 Also, I'll be co-mentoring 2 Google summer of code students! For 2 projects namely the improving Colcon Mixin project together with Scott Logan (Infrastructure Lead) and Performance test CI intergration together with Skyler Meiders (ROS2 PMC memeber). Both quite infrastructure heavy and therefore also good oppertunity to really get into the mechanics of it all. Luckily ROS2 lyrical luth distro will be out then, and it will be summer, so maybe people won't mind if I break stuff :P (just kidding of course!).
 
-I have tried to also start something up here in Malmö itself, as I do miss the nice interactions I have at ROSCons sometimes. 
+Oh yeah, did I mention that I am currently also as Colead on the Program committee of roscon global in Toronto this year! 
+
+What I did notice is that here it is also easy to take on too many tasks in order to be more helpfull. I did want to set the goal for myself to spend at least 1 day a week on open-source or infra, and hence I took on too many tasks as I could. Yet again, the parrallel verus the sequenctial working is something to be mindefull for, also here!
+
+## Traveling all over
+
+So in the last half year I sure traveled around. ROSCon UK in Edinburgh in September, ROSCon Global in October in SIngapore, PX4 summit in November and FOSDEM in Brussels in January. And I had either organizational responsibilities or a talk or 2 at each of these. These all were great and I am am very happy I have done it, but in hindsight I shouldn't be too hard on myself that I let some of my other things go a little bit (like content creating). 
+
+I did mention before that networking is very important, and going to these events solidifies important exiting networking already. However, the amount of traveling I have done last year might have been too much. I have a great network and many leads to go for for potential projects, but there are many of these ideas and collaborations that I can say won't happen just due to my schedule and that is really too bad! This also really makes me see the benefit of having more employees to be able to act on these oppertunities, and makes me understand why CEOs travel all around the place.
+
+For now, I am quite happy as single person company, and will remain so for the forceiable future. But if that is the case, than I really need to think about my travel schedule for the new year. I've already made the sad decision of not going to ICRA this year eventhough it is in Europe... please don't tell me anything about it to fuel my FOMO! 
+
+## Working at the Game Habitat
+
+Becoming a freelancer and self-employed comes with a large amount of freedom, but also with loniness. There are no immediate colleagues to socialize with and spare ideas around with coffee, or just nerd out! This is something I miss from my days still being at Bitcraze or my PhD. That is why pretty early in my freelance tryout, I went to checkout places to work. I really also wanted to have developer conversations, but unfortunate there are not that many spaces focussed on robotics development at all here. However, I did quickly found the Game Habitate devhub. 
+
+The south of sweden is pretty big in game development, and there are some big studios located here in Malmö like Massive entertainment (Assasins creed must ring a bell right?). The game habitat devhub is part of the Game habitat foundation and is a house that takes in smaller studios or indie developers. As a robotics engineer, there are actually quite a lot of the tooling that I use that originate from game development (majorly from simulation), so hence they accepted me to become an inhabitant too! 
+
+So first I started out having a flex working space, but as soon as it became clear that I needed a space for my workstation I got a shared office other game developers. The nice thing is that I'll get pulled in sometimes to do play tests, and as a gamer myself that is something that I very much like to do (which is sometimes a nice break from my indepth projects.). I've also started to make a small game on the side as well, as I feel that is something that would enable me to be able to understand their hurdles. Perhaps I'll write some blogposts on that soon.
+
+I do see a lot of similarities with robotics and game development, so I do hope that I'll be able to teach and learn from the others around me. THe game industry is going through a really tough patch now though, so I hope that I might also be able to provide some insights for them to move towards as well. What I have learned at least from all the events I wnt through, that all of the AI/LLM monsters need data, and mostly generated from simulation. Maybe something there for them to contribute?
 
 
+## Great independences comes with great responsibilty
 
+So what is coming up soon? I do think that now the administrative burden of setting up a new company and learning the being an entrepreneur slowely takes less and less of my time now that I start to trust the systems in place. Managing my projects, creating content and contributing back to open source is something that  needs to be done thoughfully and with balance. I am planning to plan in my work (on all 3 sectors) more sequentially that I can focus on one thing at the time. And unfortunately that also means that I need to be more conservative with my traveling (although I will definitely go to ROSCon 2026 in September, already bought the plane tickets ;) )
+
+Let's see how I am able to manage myself!
