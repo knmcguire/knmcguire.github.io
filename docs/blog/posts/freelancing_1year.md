@@ -1,9 +1,9 @@
 ---
-title: "I guess we are doing this for real now - 1 year of freelancing"
+title: "One year of freelancing: I guess we're doing this for real now!"
 date:
-  created: 2026-05-03
+  created: 2026-05-07
   updated: 2026-05-07
-draft: true
+draft: false
 categories: 
     - personal
 authors:
