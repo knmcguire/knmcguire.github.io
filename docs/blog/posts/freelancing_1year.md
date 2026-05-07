@@ -85,9 +85,9 @@ At each of those, I had either organization work or one (or more) talks. They we
 For now, I'm still happy as a one-person company and likely will stay that way for the foreseeable future. But if that's the plan, I need to be stricter with travel. I've already made the sad decision not to go to [ICRA 2026](https://ieee-icra.org/), even though it's in Europe... please don't fuel my FOMO :cry:.
 
 
-## Working at the Game Habitat
+## Working at the Game Habitat Devhub
 
-Becoming self-employed comes with lots of freedom, but also loneliness. No immediate colleagues to bounce ideas off, no random coffee chats, no spontaneous nerd sessions. That was something I really missed from my Bitcraze and PhD days, so early in my freelance journey I started looking for coworking places. I wanted a developer community around me, but there aren't that many robotics-focused spaces here, and eventually I found the [Game Habitat DevHub](https://devhub.gamehabitat.se/) in Malmö.
+Becoming self-employed comes with lots of freedom, but also loneliness. No immediate colleagues to bounce ideas off, no random coffee chats, no spontaneous nerd sessions. That was something I really missed from my Bitcraze and PhD days, so early in my freelance journey I started looking for coworking places. I wanted a developer community around me, but there aren't that many robotics-focused spaces here, and eventually I found the [Game Habitat DevHub](https://gamehabitat.se/devhub) in Malmö.
 
 Southern Sweden has a strong game-dev ecosystem, with major studios in Malmö such as Massive Entertainment (Assassin's Creed should ring a bell, right?). DevHub is part of [Game Habitat](https://www.gamehabitat.se/) and supports smaller studios and indie developers. As a robotics engineer, I use quite a lot of tooling that originated in game development (especially for simulation), so joining actually made a lot of sense. I started with a flex desk, and once it became clear I needed a full workstation setup, I moved into a shared office with other game developers. One fun side effect is getting pulled into playtests now and then, which is a great break from deep technical work. There's also a small game project on the side now, mostly so I can better understand the hurdles the others face, so maybe that will become a future blog post too.
 
