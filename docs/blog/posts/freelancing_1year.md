@@ -102,4 +102,4 @@ I feel the administrative burden of setting up a company is slowly becoming more
 
 My plan is to schedule work in clearer sequential blocks across all three areas, so I can focus on one thing at a time. And yes, that means being more conservative with travel too (although I will definitely be at ROSCon 2026 in September, tickets are already booked :wink: ).
 
-Let's see how I am able to manage this enterprise called, myself!
+Let's see how I am able to manage this enterprise called "myself"!
