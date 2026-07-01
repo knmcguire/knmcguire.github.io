@@ -13,6 +13,7 @@ links:
   - 1 year down the Freelancing Road: https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing-i-guess-were-doing-this-for-real-now/
   - Game Habitat Community in Malmö: https://gamehabitat.se/
   - My minigame page on itch.io: https://indierobot.itch.io/
+  - Some work I've done with the O3DE engine: https://o3de.org/roboball-starting-with-o3de-as-a-robotics-engineer/
 ---
 
 
