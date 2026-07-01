@@ -12,7 +12,7 @@ comments: true
 links:
   - 1 year down the Freelancing Road: https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing-i-guess-were-doing-this-for-real-now/
   - Game Habitat Community in Malmö: https://gamehabitat.se/
-  - My minigame page on itch.io: https://itch.io/dashboard
+  - My minigame page on itch.io: https://indierobot.itch.io/
 ---
 
 
@@ -71,7 +71,7 @@ Because of my tendency to sit in between disciplines and be a bit of a constant 
 That's a thought I've carried around for years. I'm definitely not trained for it, but looking at the skillsets involved in robotics engineering, there are here and there some transferable parts. Especially since I started out in industrial design, so I understand the human-centric side and can even do a bit of graphic design myself.
 That said, making a full-fledged game from start to finish takes a level of dedication, vision, and focus that's on a whole other level. Maybe AI tooling makes some of it easier, but you still need the full understanding of how a game comes together, namely the game design itself. I've tried a few small minigames on different  game engines, and while I'm not sure I'd call them games yet, but it was a lot of fun in the process!
 
-I've shared them here on the [itch.io page](https://itch.io/dashboard). I actually think recommend the swarming one turned out pretty nice.!
+I've shared them here on the [itch.io page](https://indierobot.itch.io/). I actually think recommend the swarming one turned out pretty nice.!
 
 ## Being part of it
 
