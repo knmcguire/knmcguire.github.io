@@ -20,7 +20,7 @@ async src="//gc.zgo.at/count.js"></script>
 [![](images/game_consoles.jpg){width=100}](game_development.md)
 
 
-_I've spent the past year co-working at a game development hub, which is a slightly odd place for a robotics engineer to end up. But the more time I spend there, the more overlap I see between these two worlds, and the more I appreciate the differences. In this post I ramble a bit about gaming, modular design, the state of the industry, and whether I should ever try making a game myself._
+_For the past year I've been co-working at a game development hub, and as a lifelong gamer and robotics engineer, it's been a really fun place to land. Turns out these two worlds have a lot to say to each other! In this post I ramble a bit about my gaming hobby, the surprising overlap between robotics and game development, the state of the industry, and whether I should ever try making a game myself._
 
 
 <!-- more -->
@@ -47,6 +47,7 @@ What I was really after are the connections between robotics engineering and gam
 The first similarity I kept bumping into is the push toward modular design, whether that's the robot or the game. In game development, this is largely because games are built by very big and diverse teams. There needs to be space for technical artists to work, for gameplay and level designers to move things around easily, and for programmers to integrate more tools and plugins. The game engine is the glue that binds all of it together.
 
 That got me thinking about the original purpose of ROS, the Robot Operating System. Robotics teams may be smaller than game studios, but when ROS first started out, the focus was on reproducibility of open-source packages between academic and research groups, so that others could reuse code developed elsewhere. So even though the individual teams are smaller, the global open-source community is huge, and in a way you can think of that as one giant distributed team.
+In a sense, ROS is more of an robotics engine than an operating system if you really think about it!
 
 ## Where they part ways
 
