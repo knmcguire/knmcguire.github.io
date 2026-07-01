@@ -62,7 +62,7 @@ Oh, and sound and music design is hardly a thing in robotics... but call me up i
 
 ## The future of games
 
-If you're a gamer yourself, you'll know the game industry is going through a real transition right now. A lot of lay-offs are happening, here in Malmö too, and it's been going on for a good few years. So perhaps choose a wrong time to work along people in the game industry... but is it really such a bad time to get into the field?
+If you're a gamer yourself, you'll know the game industry is going through a rough transition right now. A lot of lay-offs have hit the field over the past few years, here in Malmö too, and it's been genuinely tough on the people living through it. So maybe this wasn't the obvious moment to plant myself among game developers... or is it?
 
 Because of my tendency to sit in between disciplines and be a bit of a constant outsider, I was chosen to [join the Future of Games workshop core group organized by Media Evolution](https://www.mediaevolution.se/engage/collaborative-foresight/Futures-of-Games) here in Malmö. There we tried to look beyond the thunderclouds of current affairs, imagining a world where games are perhaps a more integrated part of our lives. Will the industry recover, grow bigger, or become more local and decentralized? Who knows! Either way, it was really nice to be in a room with people who were gaming fans, developers, or working in adjacent fields, all wishing for these wonderful things to keep going.
 
@@ -77,6 +77,6 @@ I've shared them here on the [itch.io page](https://itch.io/dashboard). I actual
 
 So maybe I let go of the ambition of becoming a game developer myself. That doesn't mean I can't be part of the scene. Indie studios are popping up like mushrooms here in Malmö, with games just waiting to be played! Instead of making games, perhaps I could simply play them and write about them here. Maybe even go the streaming route again? There are so many cool games coming out from the [South Swedish region](https://gamehabitat.se/news/successful-releases-and-well-received-announcements) alone so there is plenty to try out!
 
-And there's one place where I think I can actually give something back. A lot of people here are having their first experience with open-source tooling, and aren't always familiar with what the open-source community can mean for them. Since indie teams are small, they can lean on the worldwide community to effectively become a "bigger team", the same way I do with my open-source robotics community. That's a lesson I'd love to pass along.
+And there's one place where I think our worlds can trade notes. A lot of people here are having their first experience with open-source tooling, and the game world has its own deep open-source roots too (Godot, Blender, and the entire modding scene, to name a few). Since indie teams are small, they can lean on the worldwide community to effectively become a "bigger team", the same way I do with my open-source robotics community. That's something I'd love to swap notes on, in both directions.
 
 In any case, I'll keep co-working at the Game Habitat, and I'm planning to move with them to their new location too. I really enjoy working here, I feel like I'm learning a lot from the people around me who are working in games, and I hope I can help them out in return!
