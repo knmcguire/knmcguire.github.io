@@ -1,9 +1,9 @@
 ---
 title: "A roboticist walks into a game development hub"
 date:
-  created: 2026-06-30
-  updated: 2026-06-30
-draft: true
+  created: 2026-07-01
+  updated: 2026-07-01
+draft: false
 categories: 
     - personal
 authors:
