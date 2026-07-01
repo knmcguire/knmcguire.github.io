@@ -12,10 +12,10 @@ comments: true
 links:
   - 1 year down the Freelancing Road: https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing-i-guess-were-doing-this-for-real-now/
   - Game Habitat Community in Malmö: https://gamehabitat.se/
+  - My minigame page on itch.io: https://itch.io/dashboard
 ---
 
-<script data-goatcounter="https://knmcguire.goatcounter.com/count"
-async src="//gc.zgo.at/count.js"></script>
+
 
 [![](images/game_consoles.jpg){width=100}](game_development.md)
 
@@ -24,6 +24,9 @@ _For the past year I've been co-working at a game development hub, and as a life
 
 
 <!-- more -->
+
+<script data-goatcounter="https://knmcguire.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
 
 ___
 
@@ -38,7 +41,7 @@ For as long as I can remember, I've been gaming. Perhaps it started when my olde
 
 Gaming has been my most consistent hobby by far. Other sports and hobbies came and went (although I played tennis for 25 years, I hardly pick up a racket these days), but gaming stayed. I still mourn the SNES, PlayStation 1, and Game Boy Advance that my parents sold at a flea market on Dutch Koninginnedag, so now I hold on tightly to my consoles! Currently I'm the proud owner of a Nintendo Switch, a Wii, an original Xbox, a PlayStation 3, 4, and 5, and a Meta Quest 2, along with a solid selection of what I consider the best games per platform. Whenever my husband complains that I maybe have 'too many' machines taking up space in our TV cabinet, I triumphantly point at his LP collection of 200+ records, 4 guitars, and a huge amplifier taking up arguably more room. A hobby is a hobby!
 
-So when I decided to go freelancing a year ago, it was already clear to me that I needed a space to work alongside other people, and the Game Habitat is where I ended up looking. Partly because a lot of the robotics simulators we use are inspired by existing game engines, and partly because, as a self-proclaimed game geek, I was genuinely curious what the game development industry was actually like on the inside.
+So when I decided to [go freelancing a year ago](https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing-i-guess-were-doing-this-for-real-now/), it was already clear to me that I needed a space to work alongside other people, and the [Game Habitat](https://gamehabitat.se/) is where I ended up looking. Partly because a lot of the robotics simulators we use are inspired by existing game engines, and partly because, as a self-proclaimed game geek, I was genuinely curious what the game development industry was actually like on the inside.
 
 ## Where robotics and games meet
 
@@ -59,22 +62,21 @@ Oh, and sound and music design is hardly a thing in robotics... but call me up i
 
 ## The future of games
 
-If you're a gamer yourself, you'll know the game industry is going through a real transition right now. A lot of lay-offs are happening, here in Malmö too, and it's been going on for a good few years. So maybe I joined the Game Habitat at the wrong time... but at least they had a spot for me. And is it really such a bad time to get into it?
+If you're a gamer yourself, you'll know the game industry is going through a real transition right now. A lot of lay-offs are happening, here in Malmö too, and it's been going on for a good few years. So perhaps choose a wrong time to work along people in the game industry... but is it really such a bad time to get into the field?
 
-Because of my tendency to sit in between disciplines and be a bit of a constant outsider, I was asked to join the Future of Games workshop core group organized by Media Evolution here in Malmö. There we tried to look beyond the thunderclouds of current affairs, imagining a world where games are perhaps a more integrated part of our lives. Will the industry recover, grow bigger, or become more local and decentralized? Who knows! Either way, it was really nice to be in a room with people who were gaming fans, developers, or working in adjacent fields, all wishing for these wonderful things to keep going.
+Because of my tendency to sit in between disciplines and be a bit of a constant outsider, I was chosen to [join the Future of Games workshop core group organized by Media Evolution](https://www.mediaevolution.se/engage/collaborative-foresight/Futures-of-Games) here in Malmö. There we tried to look beyond the thunderclouds of current affairs, imagining a world where games are perhaps a more integrated part of our lives. Will the industry recover, grow bigger, or become more local and decentralized? Who knows! Either way, it was really nice to be in a room with people who were gaming fans, developers, or working in adjacent fields, all wishing for these wonderful things to keep going.
 
 ## So... should I make a game myself?
 
-That's a thought I've carried around for years, especially back when work situations got tough. I'm definitely not trained for it, but looking at the individual skillsets involved in robotics engineering, there are here and there some transferable parts. Especially since I started out in industrial design, so I understand the human-centric side and can even do a bit of graphic design myself.
+That's a thought I've carried around for years. I'm definitely not trained for it, but looking at the skillsets involved in robotics engineering, there are here and there some transferable parts. Especially since I started out in industrial design, so I understand the human-centric side and can even do a bit of graphic design myself.
+That said, making a full-fledged game from start to finish takes a level of dedication, vision, and focus that's on a whole other level. Maybe AI tooling makes some of it easier, but you still need the full understanding of how a game comes together, namely the game design itself. I've tried a few small minigames on different  game engines, and while I'm not sure I'd call them games yet, but it was a lot of fun in the process!
 
-But making a full-fledged game from start to finish requires a level of dedication, vision, and focus that's on a whole other level. Maybe things are a little easier now with AI tooling, but you still need the full understanding of how a game comes together, namely the game design itself. I've tried a few small things here and there on different engines, but I'm not sure I'd even call them games. What I *have* definitely gained is a newfound respect for solo indie developers.
+I've shared them here on the [itch.io page](https://itch.io/dashboard). I actually think recommend the swarming one turned out pretty nice.!
 
-Realistically, if I wanted to make this a career, there's a whole stack of courses I'd need to take and a serious chunk of time (maybe a year) I'd have to dedicate to deliver something even remotely playable. That would mean setting aside my robotics engineering and the great open-source community that comes with it, and I have the feeling I've only just really gotten started there! It would also mean tapping into my personal time, which means I wouldn't get to actually *play* games anymore. Not exactly the dream.
+## Being part of it
 
-## Being part of it anyway
-
-So maybe I let go of the ambition of becoming a game developer myself. That doesn't mean I can't be part of the scene. Indie studios are popping up like mushrooms here in Malmö, with games just waiting to be played! Instead of making games, perhaps I could simply play them and write about them here. Maybe even go the streaming route again?
+So maybe I let go of the ambition of becoming a game developer myself. That doesn't mean I can't be part of the scene. Indie studios are popping up like mushrooms here in Malmö, with games just waiting to be played! Instead of making games, perhaps I could simply play them and write about them here. Maybe even go the streaming route again? There are so many cool games coming out from the [South Swedish region](https://gamehabitat.se/news/successful-releases-and-well-received-announcements) alone so there is plenty to try out!
 
 And there's one place where I think I can actually give something back. A lot of people here are having their first experience with open-source tooling, and aren't always familiar with what the open-source community can mean for them. Since indie teams are small, they can lean on the worldwide community to effectively become a "bigger team", the same way I do with my open-source robotics community. That's a lesson I'd love to pass along.
 
-In any case, I'll keep co-working at the Game Habitat, and I'm planning to move with them to their new location too. I really enjoy working here, I feel like I'm learning a lot from the people around me, and I hope I can help them out in return!
+In any case, I'll keep co-working at the Game Habitat, and I'm planning to move with them to their new location too. I really enjoy working here, I feel like I'm learning a lot from the people around me who are working in games, and I hope I can help them out in return!
