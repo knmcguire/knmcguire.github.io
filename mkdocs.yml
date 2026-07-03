@@ -1,5 +1,5 @@
-site_name: Kimberly McGuire's Website
-site_url: https://knmcguire.github.io/
+site_name: Kim McGuire | McGuire Robotics
+site_url: https://www.mcguirerobotics.com/
 theme:
   name: material
   favicon: images/logo-teal.svg
@@ -10,6 +10,13 @@ theme:
     accent: teal
   custom_dir: overrides
 
+
+nav:
+  - About: index.md
+  - Services: services.md
+  - Projects: projects.md
+  - Media: media.md
+  - Blog: blog/index.md
 
 plugins:
   - search
@@ -76,10 +83,10 @@ extra:
       name: Kimberly on Research Gate
       link: https://www.researchgate.net/profile/Kimberly-Mcguire-2
     - icon: fontawesome/brands/youtube
-      name: Kimberly on Youtube
+      name: Kim on YouTube
       link: https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists
     - icon: fontawesome/solid/rss
       name: Kimberly's blog on RSS
-      link: https://knmcguire.github.io/feed_rss_created.xml
+      link: https://www.mcguirerobotics.com/feed_rss_created.xml
 
-copyright: Copyright &copy; 2021 - 2025 Kimberly N. McGuire. Privacy-friendly analytics by Goatcounter
+copyright: Copyright &copy; 2021 - 2026 Kimberly N. McGuire. Privacy-friendly analytics by Goatcounter

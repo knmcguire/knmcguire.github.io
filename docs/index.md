@@ -12,14 +12,16 @@ async src="//gc.zgo.at/count.js"></script>
 ___
 
 
-Hi, I'm Kimberly! I am an independent roboticist with a background in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured and mentored students. Presently, I am an self-employed robotics engineer consultant and active in multiple project within the ROS (Robotic Operating System).
+Hi, I'm Kim! I am an independent roboticist with a background in aerial robotics and embedded systems. With Dutch and American roots, I am currently based in Malmö, Sweden. I completed my PhD in swarm robotics in 2019 and worked with the Aerial Robot Crazyflie at Bitcraze until 2024. I am also an experienced speaker at conferences and podcasts, and have occasionally lectured and mentored students. Presently, I run [McGuire Robotics AB](/services), my own robotics consultancy, working on ROS 2 and simulation projects — [see what I can do for you](/services).
   <br>
     <br> 
 
-<span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20251219.pdf)</span>   
-<span style="float: right;">[My Portfolio :fontawesome-solid-folder-open:](/projects)</span> 
-  <br>
-<span style="float: right;">[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)</span>   <br>
+<div style="text-align: right;" markdown>
+[Work with me :fontawesome-solid-handshake:](/services)  
+[My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20251219.pdf)  
+[My Portfolio :fontawesome-solid-folder-open:](/projects)  
+[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+</div>
 ___
 
 ## Highlights :fontawesome-solid-star:
@@ -49,7 +51,7 @@ ___
 
 <!--![bitcraze](images/bitcraze.png){ width="100" }![delft](images/delft.png){ width="100" }![nec](images/nec.png){ width="100" }-->
 
-* _2025 - now_:&nbsp; **Contractor** _Self-Employed_ <span style="float: right;">:se:</span>
+* _2025 - now_:&nbsp; **Founder & Robotics Consultant** _[McGuire Robotics AB](/services)_ <span style="float: right;">:se:</span>
 
 * _2022 - 2024_: **Robotics Engineer** _Bitcraze AB_ <span style="float: right;">:se:</span>
 
