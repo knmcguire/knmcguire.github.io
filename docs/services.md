@@ -60,4 +60,4 @@ A short intro call to scope the problem, then a written proposal with
 deliverables and a fixed contract block. If I'm mid-project, I'll tell you
 honestly when my next block opens.
 
-{{ custom_button("Send me an enquiry :fontawesome-solid-envelope:", "mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;", color="teal") }}
+{{ custom_button("Send me an enquiry :fontawesome-solid-envelope:", "mailto:&#107;&#105;&#109;&#064;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;", color="teal") }}

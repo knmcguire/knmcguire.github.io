@@ -20,7 +20,7 @@ Hi, I'm Kim! I am an independent roboticist with a background in aerial robotics
 [Work with me :fontawesome-solid-handshake:](/services)  
 [My CV :fontawesome-solid-file-lines:](/files/knmcguire_cv_20251219.pdf)  
 [My Portfolio :fontawesome-solid-folder-open:](/projects)  
-[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+[Contact me :fontawesome-solid-envelope:](mailto:&#107;&#105;&#109;&#064;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;)
 </div>
 ___
 
