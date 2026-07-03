@@ -7,10 +7,27 @@ async src="//gc.zgo.at/count.js"></script>
 
 ___
 
+## AI for Industry Challege
+_2026 - now - McGuire Robotics (Contract for B-robotized)_
+![ai for industry](images\robot_arm_plugin.png){ width="300" }
+
+I am currently participating with the team of B-robotized with the [AI for industry challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge). Here we used a combination of reinforcement learning techniques, deep learning classefiers and classic computer vision & control engineering. We've made it to the 10th spot of the qualifiers and are currently in Phase-1.
+
+Hope to share more about this soon!
+
+<div class="label-container">
+    {{ skill_label("Simulation") }}
+    {{ skill_label("Gazebo") }}
+    {{ skill_label("OpenCV") }}
+    {{ skill_label("Computer Vision") }}
+    {{ skill_label("Manipulators") }}
+    {{ skill_label("ROS 2") }}
+    {{ skill_label("Reinforcement Learning") }}
+</div>
 
 
 ## Aerial Robotics Simulation Investigation
-_2025 - now - Freelancer_
+_2025 - McGuire Robotics (Contract for Dronecode Foundation)_
 
 ![px4 simulation](https://www.mcguirerobotics.com/px4_sim_research_report/docs/images/front_image.jpg){ width="300" }
 
