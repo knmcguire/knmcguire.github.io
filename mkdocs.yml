@@ -3,7 +3,7 @@ site_url: https://www.mcguirerobotics.com/
 theme:
   name: material
   favicon: images/logo-teal.svg
-  logo: images/logo_white.gif
+  logo: images/logo_white_svg.svg
   language: en
   palette: 
     primary: custom
@@ -69,7 +69,7 @@ extra:
   social:
     - icon: /fontawesome/solid/envelope
       name: Send Kim an enquiry by mail
-      link: mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+      link: mailto:&#107;&#105;&#109;&#064;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;
     - icon: fontawesome/brands/linkedin
       name: Kimberly on LinkedIn
       link: https://www.linkedin.com/in/knmcguire/
