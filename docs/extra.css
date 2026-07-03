@@ -43,3 +43,9 @@ div.label-container a.skill-label:hover {
     --md-primary-fg-color--light: #82b3be;
     --md-primary-fg-color--dark:  #27788b;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap');
+
+h1, h2, h3, .md-header__topic {
+  font-family: 'Space Grotesk', Roboto, sans-serif;
+}

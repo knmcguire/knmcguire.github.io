@@ -20,7 +20,7 @@ ___
 
 Integrating robots with ROS 2 and getting them into simulation — Gazebo, Webots,
 O3DE, or Isaac Sim — including navigation stacks (Nav2), SLAM, and aerial systems.
-From proof-of-concept to a pipeline your team can build on. I've built the
+From proof-of-concept to a pipeline your team can build on. In collaboration I've built the
 [Crazyflie's ROS 2 and simulation integrations](/projects/), and maintain a widely used
 [overview of robot simulators](https://knmcguire.github.io/awesome-robotic-simulators/).
 
