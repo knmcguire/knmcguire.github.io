@@ -3,7 +3,7 @@ title: "Going through the AI for Industry Challenge"
 date:
   created: 2026-09-01
   updated: 2026-09-01
-draft: true
+draft: false
 categories: 
     - robotics
 authors:
@@ -14,6 +14,8 @@ links:
   - The AIC toolkit on GitHub: https://github.com/intrinsic-dev/aic
   - The HIL-SERL project page: https://hil-serl.github.io/
   - One year of freelancing: https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing/
+  - Repository with preinsertion strategy: https://github.com/knmcguire/aic_taskboard_detection_qualifying_phase
+  - Hugging Face version of HIL-SERL in MuJoCo: https://huggingface.co/docs/lerobot/v0.4.3/en/hilserl_sim
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
@@ -144,7 +146,7 @@ The nice side effect is that when something goes wrong, you can actually tell wh
 For the second phase we sadly didn't qualify anymore. Unfortunately it is hard to say what the actual cause was, or where we diverted from a potential winning path, as both the new pre-insertion and the extra trained policy didn't make the cut. Phase 1 was significantly harder, as we had to plug in 5 cables (so 10 insertions) instead of just one plug at a time. On top of that, HIL-SERL is a technique meant for real arms and meant to be trained live. As the competition went along it became clear that we probably wouldn't be able to get that special treatment with 9 other teams competing. So perhaps we should have focused more on the immediate transferability of the simulated policy to real life, and that is perhaps not something that has been done with HIL-SERL (yet)! But these are all just assumptions.
 
 
-Most of what we built in phase 1 is difficult to release, but I have been cleaning up and recreating the task board pre-insertion part, both the old full-pose detection and the newer one-shot version. You can find that here: [ADD REPO LINK]. But just keep in mind, I won't be maintaining it ;) It will be just like a beautiful, overcomplicated drawing on my refrigerator (look mum, what I made!), but GitHub edition. For the HIL-SERL part, that will take more time from the entire team to be able to clean it up and release it together. However, I definitely would recommend checking out the [Hugging Face version of HIL-SERL in MuJoCo](https://huggingface.co/docs/lerobot/v0.4.3/en/hilserl_sim).
+Most of what we built in phase 1 is difficult to release, but I have been cleaning up and recreating the task board pre-insertion part, both the old full-pose detection and the newer one-shot version. You can find that here: https://github.com/knmcguire/aic_taskboard_detection_qualifying_phase. But just keep in mind, I won't be maintaining it ;) It will be just like a beautiful, overcomplicated drawing on my refrigerator (look mum, what I made!), but GitHub edition. For the HIL-SERL part, that will take more time from the entire team to be able to clean it up and release it together. However, I definitely would recommend checking out the [Hugging Face version of HIL-SERL in MuJoCo](https://huggingface.co/docs/lerobot/v0.4.3/en/hilserl_sim).
 
 But you can check out a video compiled by b-robotized of what we worked on during the competition as well here:
 
