@@ -26,7 +26,7 @@ _My very first official assignment with McGuire Robotics AB was joining team b-r
 
 
 <!-- more -->
-![image](images/desk_controllers_aic.png){width=500 .center}
+![My desk during training, with two monitors showing the simulation and the training metrics, and a keyboard, SpaceMouse, Quest 2 and PlayStation 5 controller all lying in front of it](images/desk_controllers_aic.png){width=500 .center}
 *<p style="text-align: center;">Which controller to pick to train the robot with?!</p>*
 
 So my very first assignment officially with my newly started company McGuire Robotics AB was joining team [b-robotized](https://en.b-robotized.com/) at the [AI for Industry Challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge). This was an open challenge organized by Intrinsic (now part of Google), where anyone could participate. It was all about automating electronics assembly, in this case a simulated server slot assembly, where the robot arm had to manipulate flexible cables and insert plugs. Mostly tailored towards roboticists, but in practice also data scientists, AI engineers or embedded developers could have their first go at robotics with this challenge.
@@ -35,8 +35,8 @@ So my very first assignment officially with my newly started company McGuire Rob
 
 We already started working on the challenge early this year, around February, where we looked at existing tools that could prepare us to get fully into the challenge later on. We had figured that the UR5e arm was most likely going to be used, so we got a Gazebo simulation started up with a standard gripper (the Robotiq one). We managed to get 3 cameras on that arm and experimented with a task board that is a bit more familiar, which is basically just a [peg-in-hole type of task board from the NIST standard models](https://github.com/usnistgov/robotpeginhole). 
 
-![The offical NIST pegboard adjusted for Gazebo Ionic](images/nist_pegboard.png){width=500 .center}
-*<p style="text-align: center;">The offical NIST pegboard but adjusted for Gazebo Ionic.</p>*
+![The official NIST pegboard, with its orange peg plate and blue board, adjusted for Gazebo Ionic](images/nist_pegboard.png){width=500 .center}
+*<p style="text-align: center;">The official NIST pegboard but adjusted for Gazebo Ionic.</p>*
 
 We had no idea what would be provided during the challenge, so we also connected the arm with MoveIt and made sure it could be controlled with impedance control and with a Cartesian target. This was also important groundwork for implementing HIL-SERL, human-in-the-loop reinforcement learning. That was our main trump card for the final insertion, arguably the most difficult part of the challenge.
 
@@ -44,8 +44,8 @@ My main goal was to set up the simulation for learning, and to potentially look 
 
 Once the [toolkit](https://github.com/intrinsic-dev/aic) came out, we realized that many of the things we had tried to implement before were already available. It was ROS 2 based (Kilted with Gazebo Ionic) and came with a fully working and controllable UR5e plus gripper (albeit a much simpler one), together with the entire framework and task board already simulated. It even came with a Cartesian controller with impedance control included, so all that preparation work turned out to be unnecessary in the end. We eventually decided not to go the NVIDIA Isaac route, mostly due to the difficulty of running that on everyone's machine, but also because we found out that the evaluation of the qualifying round was mainly done in Gazebo.
 
-![The arm we prepared](images/arms_aic_challenge.png)
-*<p style="text-align: center;">The UR arms we prepared before the qualification phase and the official AIC toolbox arm. </p>*
+![Side by side comparison of our own simulated UR arm with the NIST pegboard, and the official AIC toolkit arm with the server slot task board and orange cable](images/arms_aic_challenge.png)
+*<p style="text-align: center;">The UR arms we prepared before the qualification phase and the official AIC toolbox arm.</p>*
 
 This meant that my role as chief of simulation got a bit diminished, since the full platform was already there. However, I do have a lot of perception experience from back in my Master's and early PhD projects. To some of the developers nowadays my computer vision knowledge is perhaps considered 'old school', but I must say it was very satisfying to jump back into OpenCV and use those old muscles again. And it can be very powerful too.
 
@@ -64,7 +64,7 @@ So initially I focused on the first part of the task, which was detecting the po
 The whole thing was built as ROS 2 nodes around OpenCV, and everything ended up in the TF tree: each camera published its own `camera -> taskboard` transform, and the final verified pose and the detected ports were published as transforms too. Here is the full pipeline:
 
 ![Diagram of the task board detection pipeline, showing three wrist cameras feeding into per-camera preprocessing (color logo filter, binary image and morphological filters, Canny edge detection, gripper mask removal), then per-camera task board transform estimation (Hough/RANSAC line fit, intersection corner detection, rectangle corner fit, orientation estimation and SolvePnP), then a pose verification stage that compares and averages the three transforms, and separately a YOLO branch detecting SC and NIC ports which are projected into 3D via zone intersection. The result feeds the pre-insertion control which hands over to the HIL-SERL policy.](images/taskboard_detection.png)
-*<p style="text-align: center;">The Taskboard detection schematic that we initially had</p>*
+*<p style="text-align: center;">The task board detection schematic that we initially had.</p>*
 
 
 The first thing I thought about was to make a binary image of the task board by thresholding its gray scale image against its much lighter background. Then some clean up of the artifacts (like the light lines in the back) by eroding and dilating the binary image with morphological filters, plus masking out the gripper itself, since it happily shows up in the camera view as well. Then to retrieve the edges with Canny, and fit lines on those edges with Hough lines and RANSAC filtering. Where those lines intersect, you get 4 corners, even if those corners could not be seen by the camera because it was too close by. The flat square was then projected using the camera info with the SolvePnP algorithm, to retrieve those points in 3D space and hence get the 3D pose of the task board. Of course you'd have rotation ambiguity as well, so luckily there was also a nice magenta logo that gave some clarity on that too.
@@ -74,23 +74,23 @@ The obvious question here is: why not just slap an AprilTag on the board and cal
 The cameras themselves were 3 wrist-mounted ones, and were fairly low-resolution. On a clean, empty task board the detection usually works pretty well on a single camera. However, on a more cluttered task board with NIC cards in it, you'd find more squares than only the task board itself. So the projection was validated with all 3 cameras: their individual transforms were compared on rotation and distance, and if they agreed within a certain tolerance, an averaged transform was published in `base_link`, with a flatness correction on top. Perhaps a Kalman filter would have been sufficient, but out of all the detections it did, there was maybe 1 in 100 where it saw a different square somewhere else, and when it did detect the right one it was usually accurate to the millimeter, which was definitely good enough!
 
 
-![6 processed images](images/aic_preprocessed_images.png)
-*<p style="text-align: center;">The processed images of the taskboard and component detection</p>*
+![Six stages of the pipeline side by side: the raw camera image of the task board with its magenta logo, the binary mask with the gripper cut out, the Canny edges, the fitted rectangle with the corner labels and the estimated distance, the YOLO port detections with confidence scores, and the projected NIC and SC zones overlaid on the board](images/aic_preprocessed_images.png)
+*<p style="text-align: center;">The processed images of the task board and component detection.</p>*
 
 
 The port detection itself was done with quite a different technique, namely YOLO, with separate detectors for the SC ports and the NIC ports. This was the task of my teammate Yara, who handled the whole training framework. Basically she set up the simulator to generate all possible positions of the task board, and retrieved the port locations in those images by using the available ground truth transforms and semantic fill-in and clustering. You should definitely ask her for the specifics! But of course, these detections were only done in 2D on a single camera. However, now that the pose of the task board was known, we could project the task board zones. And if you imagine a ray beaming from the camera through the component, and intersect that beam with the projected zones, then voilà, you have a 3D pose, published as a transform for the next stage to pick up.
 
-![The detected TFs](images/taskboard_detected.png){width=500 .center}
-*<p style="text-align: center;">The detected taskboard and ordered components. The ground truth taskboard can be viewed on the bottom</p>*
+![RViz view of the arm above the task board, showing the detected task board frame with rays going out to the individual detected NIC port frames, with the ground truth task board frame just below it](images/taskboard_detected.png){width=500 .center}
+*<p style="text-align: center;">The detected task board and ordered components. The ground truth task board can be viewed on the bottom.</p>*
 
 ## The pre-insertion method
 
-So the task board and component detection solved about 95% of the total movement, namely positioning the arm directly above the port for the trained HIL-SERL policy to take over. In order for the robot to determine the full task board pose, it was necessary for it to first rotate the camera into the direction where it could see that binary image (or blob), then check for the task board TF, move above the target rail and finally move the gripper above the port. And that took extra time, plus a risk of the cable getting tangled and stuck. Remember, we had to finish the task within 5 seconds to get the full amount of points
+So the task board and component detection solved about 95% of the total movement, namely positioning the arm directly above the port for the trained HIL-SERL policy to take over. In order for the robot to determine the full task board pose, it was necessary for it to first rotate the camera into the direction where it could see that binary image (or blob), then check for the task board TF, move above the target rail and finally move the gripper above the port. And that took extra time, plus a risk of the cable getting tangled and stuck. Remember, a run had to finish within 5 seconds to get the full amount of points!
 
 Even though I really liked the solution we had, at one point we took a shot at a much simpler approach: getting the 3D pose of the components by simply intersecting with a plane offset from the table plane. Since it was possible to also infer the orientation of these components, that should work GIVEN that there were only a few ports in view. But with those restrictions, it would be possible to have a one-shot component detection that skipped the task board step entirely.
 
-![Diagram of the easier task board detection pipeline](images/easytaskboard_detection.png)
-*<p style="text-align: center;">The Taskboard detection schematic we ended up with at the end of the qualifying phase</p>*
+![Diagram of the simplified detection pipeline, where the YOLO port detections are projected straight onto a plane offset from the table plane to get a 3D port pose, skipping the full task board pose estimation](images/easytaskboard_detection.png)
+*<p style="text-align: center;">The task board detection schematic we ended up with at the end of the qualifying phase.</p>*
 
 
 The rules for the qualifying round indicated that the target components were visible in at least one of the cameras attached to the robot arm. So after trying the more elaborate task board detection in the pre-insertion strategy, we went for a hybrid approach. If it saw more than 2 SFP ports on the NIC cards (or more than 2 SC ports), it would use the default: rotating, but with a full task board pose detection. Below that threshold it would use the simplified one, skipping the task board and going straight from YOLO to the 3D detector.
@@ -98,14 +98,14 @@ The rules for the qualifying round indicated that the target components were vis
 Of course, we weren't able to see any video or logs from the online submission, but purely from the time the arm took to complete the task, we could already tell that it was always seeing fewer ports and therefore always selecting the easy 3D component approach. That's when we fully skipped the default task board pose search (nooo, my darling!) and took the full risk of only using the lightning fast, one-shot component detection, which we could then fully optimize for speed to get the plug as close as possible for HIL-SERL to take over. And that paid off: we scored 250 out of 300 points and ended up in 10th spot out of the 160 teams participating in the qualifying round. 
 
 
-Here is a [nice video shared on Linkedin](https://www.linkedin.com/posts/knmcguire_opensource-robotics-simulation-ugcPost-7463186455167754240-MyES/) on our entire approach:
+Here is a [nice video shared on LinkedIn](https://www.linkedin.com/posts/knmcguire_opensource-robotics-simulation-ugcPost-7463186455167754240-MyES/) on our entire approach:
 
 
 <div style="text-align: center;">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7463186455167754240?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post" align="center"></iframe>
 </div>
 
-For phase 1 (the round after the qualifying round), we decided to go for a different pre-insertion approach altogether, also since we completely realized that our lightning fast solution was not able to make the cut (and perhaps the first one was perhaps a bit overcomplicated). We were allowed to use Flowstate, the development environment made by Intrinsic, and we ended up leaning on their vision model for the initial task board and component detection instead of our own. I can't say much more about that part, as that falls under the agreement we signed. What I can talk about is the one element that stayed consistent through the entire competition: the plug insertion policy with HIL-SERL.
+For phase 1 (the round after the qualifying round), we decided to go for a different pre-insertion approach altogether, also because it had become clear that our lightning fast solution wasn't going to make the cut on its own (and the first one was, admittedly, a bit overcomplicated). We were allowed to use Flowstate, the development environment made by Intrinsic, and we ended up leaning on their vision model for the initial task board and component detection instead of our own. I can't say much more about that part, as that falls under the agreement we signed. What I can talk about is the one element that stayed consistent through the entire competition: the plug insertion policy with HIL-SERL.
 
 
 ## Becoming a robot arm tamer
@@ -114,17 +114,25 @@ For phase 1 (the round after the qualifying round), we decided to go for a diffe
 
 Because Yara and I were fully occupied with the pre-insertion strategy during the qualifying round, that also meant Jennifer had to battle the robot arm dragon entirely by herself. It was only in phase 1, once the port approach was finalized, that I could finally join her.
 
-But first I had to pick a weapon. You spend hours supervising this thing, so the teleoperation device matters much more than you'd expect. I started out with a keyboard, which I can now confirm is a terrible idea: I could still feel the cramps in my hand that same evening. A SpaceMouse (Jennifer's choice) and a Quest 2 were also on the table, but in the end a PlayStation 5 controller worked out best for me. Two analog sticks map surprisingly nicely onto nudging a gripper around in Cartesian space, and I could hold it for hours.
+But first I had to pick a weapon. You spend hours supervising this thing, so the teleoperation device matters much more than you'd expect. I started out with a keyboard, which I can now confirm is a terrible idea: I could still feel the cramps in my hand that same evening. A SpaceMouse (Jennifer's choice) and a Quest 2 were also on the table (quite literally, see the picture at the top of this post), but in the end a PlayStation 5 controller worked out best for me. Two analog sticks map surprisingly nicely onto nudging a gripper around in Cartesian space, and I could hold it for hours.
 
 Then the actual taming begins. You record something like 20-50 demonstrations of a successful insertion, and after that the training starts with both the learner and the actor running. It uses those demonstrations, but it also learns from every intervention you make along the way, where you steer the gripper towards a pose that is more likely to get that juicy reward. In our case the reward was only given on a full insertion, which we detected through the proximity of the contact point at the bottom of the plug. For observations we used the camera images together with the force-torque sensor, and the policy commanded the Cartesian target at 10 Hz, which was as fast as the toolkit allowed us to send motion commands anyway. All of this ran in Gazebo on Windows 11 through WSL, which honestly held up better than I expected.
 
-See here for a [linkedin post](https://www.linkedin.com/posts/knmcguire_robotics-aic-physicalai-activity-7482816353087844354-Qzas) about the progress made:
+See here for a [LinkedIn post](https://www.linkedin.com/posts/knmcguire_robotics-aic-physicalai-activity-7482816353087844354-Qzas) about the progress made:
 
 <div style="text-align: center;">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7482816351087284224?collapsed=1" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
 Getting to the first autonomous insertions took a good 2-3 hours of intense, uninterrupted training and intervening. After that it becomes a slow game of letting go: you taper off the interventions, then start being deliberately 'disruptive' with them, and you increase the randomization in the scene. Doing that for a single policy could easily take half a day to a full day. And I was definitely too eager at some points: crank up the scene randomization too quickly, and the policy just collapses and confidently learns something completely wrong instead. Then you get to start over. Only once it stayed successful for a good long stretch without me touching anything was it time to select that policy and try it in the 'real world'... and with real world we still mean simulation.
+
+## AI where it counts
+
+Looking back at the whole thing, the part I'm most happy with is that our solution was not fully end-to-end. The name of the competition has AI in it, and it would have been very tempting to throw one big policy at the entire problem and let it figure the rest out. Instead, each technique ended up exactly where it was strongest.
+
+The task board is a rigid rectangle with known dimensions, so geometry solves it: thresholding, line fitting and SolvePnP give you a pose that is accurate to the millimeter, needs no training data at all, and can be checked against the ground truth transform in seconds. Recognizing the ports on a cluttered board is the opposite kind of problem, where writing rules by hand would be hopeless, so that is where YOLO earns its place. And the last few centimeters of the insertion are all contact dynamics, jamming and friction, which is genuinely painful to model analytically, so that is where reinforcement learning is worth all the training hours.
+
+The nice side effect is that when something goes wrong, you can actually tell which part went wrong. A bad task board pose looks different from a missed port detection, which looks different from a policy that jams the plug against the edge. Debugging a single end-to-end network under a deadline is a very different experience, and not a better one. So even though AI is very much in the name, I'd argue the most useful thing we did was decide where it did not belong.
 
 ## In the end, everything really matters
 
@@ -138,7 +146,7 @@ For the second phase we sadly didn't qualify anymore. Unfortunately it is hard t
 
 Most of what we built in phase 1 is difficult to release, but I have been cleaning up and recreating the task board pre-insertion part, both the old full-pose detection and the newer one-shot version. You can find that here: [ADD REPO LINK]. But just keep in mind, I won't be maintaining it ;) It will be just like a beautiful, overcomplicated drawing on my refrigerator (look mum, what I made!), but GitHub edition. For the HIL-SERL part, that will take more time from the entire team to be able to clean it up and release it together. However, I definitely would recommend checking out the [Hugging Face version of HIL-SERL in MuJoCo](https://huggingface.co/docs/lerobot/v0.4.3/en/hilserl_sim).
 
-But you can check out a video compiled by B-robotized what we worked on during the competition as well here:
+But you can check out a video compiled by b-robotized of what we worked on during the competition as well here:
 
 <div style="text-align: center;">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7493999374163902464?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
