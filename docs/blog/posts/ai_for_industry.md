@@ -16,6 +16,7 @@ links:
   - One year of freelancing: https://www.mcguirerobotics.com/blog/2026/05/07/one-year-of-freelancing/
   - Repository with preinsertion strategy: https://github.com/knmcguire/aic_taskboard_detection_qualifying_phase
   - Hugging Face version of HIL-SERL in MuJoCo: https://huggingface.co/docs/lerobot/v0.4.3/en/hilserl_sim
+  - Physical AI at OSRF: https://osralliance.org/ros-keeps-evolving-via-physical-ai-sig/
 ---
 
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
@@ -157,7 +158,7 @@ But you can check out a video compiled by b-robotized of what we worked on durin
 
 Nonetheless, this definitely doesn't mean that we left the competition empty handed. For me personally, this was the first time I ever worked with a manipulator, even in simulation. Sure, I learned the theory, including impedance control, during my Master's, but I had never applied it. This was also the first time I worked with applied, 3D reinforcement learning, other than the simple flat 2D grid exercises we had to do back then. And it was a way to get back in touch with my old friend OpenCV, which I used to use so much back in the day and will definitely be picking up again.
 
-That is also the thing that surprised me most. A robot arm is a seemingly completely different platform from the quadcopters I've spent most of my career on, and yet so much of it carried straight over: the state estimation intuition, the computer vision, the coordinate frames, the debugging habits. Nothing I had learned turned out to be wasted. And I guess if you know ROS, that definitely helps too.
+That is also the thing that surprised me most. A robot arm is a seemingly completely different platform from the quadcopters I've spent most of my career on, and yet so much of it carried straight over: the state estimation intuition, the computer vision, the coordinate frames, the debugging habits. Nothing I had learned turned out to be wasted. And I guess if you know ROS, that definitely helps too. FYI, OSRF started up an Special Interest Group for physical AI using ROS, so please check out [their blogpost](https://osralliance.org/ros-keeps-evolving-via-physical-ai-sig/) if you haven't already.
 
 Moreover, working together as a team of equals to solve a difficult robotics problem like this has been the most satisfying part of all. Working with Yara and Jennifer has truly been a pleasure, and even through the stress and hardship of the many deadlines, we did deliver something that we all did together as team b-robotized. I hope I'll be able to be part of many teams like this in my consulting days to come.
 
