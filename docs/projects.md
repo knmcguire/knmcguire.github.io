@@ -5,14 +5,16 @@ title: "Projects"
 <script data-goatcounter="https://knmcguire.goatcounter.com/count"
 async src="//gc.zgo.at/count.js"></script>
 
+Here I mention all the projects and contract work I have done so far that I can publicly share! Please reach out if you have any questions about any of these.
+
 ___
 
 ## AI for Industry Challege
-_2026 - now - McGuire Robotics (Contract for B-robotized)_
+_2026 - McGuire Robotics (Contract for b>>robotized)_
 
 ![ai for industry](images\robot_arm_plugin.png){ width="300" }
 
-I am currently participating with the team of B-robotized with the [AI for industry challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge). Here we used a combination of reinforcement learning techniques, deep learning classefiers and classic computer vision & control engineering. We've made it to the 10th spot of the qualifiers and made it until Phase-1.
+I have participated with the team b>>robotized with the [AI for industry challenge](https://www.intrinsic.ai/events/ai-for-industry-challenge). Here we used a combination of human-in-the-loop, reinforcement learning techniques, deep learning (yolo) classifiers and classic computer vision & control engineering. We've made it to the 10th spot of the qualifiers and made it until Phase-1 (round 2).
 
 * Blogpost: [:fontawesome-solid-file-lines:](blog\posts\ai_for_industry.md)
 * Code: [:fontawesome-solid-file-lines:](https://github.com/knmcguire/aic_taskboard_detection_qualifying_phase)
@@ -28,6 +30,7 @@ I am currently participating with the team of B-robotized with the [AI for indus
     {{ skill_label("Reinforcement Learning") }}
 </div>
 
+___
 
 ## Aerial Robotics Simulation Investigation
 _2025 - McGuire Robotics (Contract for Dronecode Foundation)_
