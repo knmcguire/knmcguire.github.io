@@ -69,13 +69,13 @@ ___
 
 ## Communities :fontawesome-solid-users:
 <!--![fosdem](images/fosdem.png){ width="100" }![roscon](images/roscon.png){ width="100" }![roscon](images/rosaerial.png){ width="100" }-->
+* _2026 - now_:&nbsp; **ROS Committer** [ROS project website](https://www.ros.org/) <span style="float: right;">:fontawesome-solid-globe:</span>
+
 * _2025 - now_:&nbsp; **Program Committee Co-chair** [ROSCon 2026](https://roscon.ros.org/) <span style="float: right;">:ca:</span>
 
-* _2025 - now_:&nbsp; **ROS Infrastructure Committer** [Infra project website](https://infrastructure.openrobotics.org/) <span style="float: right;">:fontawesome-solid-globe:</span>
+* _2025 - now_:&nbsp; **OSRF Infrastructure Committer** [Infra project website](https://infrastructure.openrobotics.org/) <span style="float: right;">:fontawesome-solid-globe:</span>
 
-* _2024 - 2025_:&nbsp; **Diversity Co-chair** [ROSCon 2025](https://roscon.ros.org/2025) <span style="float: right;">:sg:</span>
-
-* _2023 - now_:&nbsp; **Co-lead** [Aerial ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
+* _2023 - 2026_:&nbsp; **Co-lead** [Aerial ROS interest group](https://github.com/ros-aerial) <span style="float: right;">:fontawesome-solid-globe:</span>
 
 * _2015 - 2018_: **Organisation** RoboCup Jr. <span style="float: right;">:nl:</span>
 
